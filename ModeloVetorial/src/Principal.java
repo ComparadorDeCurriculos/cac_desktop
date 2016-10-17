@@ -23,14 +23,33 @@ import java.util.Scanner;
  */
 public class Principal {
     public static void main(String[] args){
-        Scanner in = new Scanner(System.in);
-        String s;
-
-        System.out.println("Insert stoplist filename:");
+//        Scanner in = new Scanner(System.in);
+//        String s;
+//
+//        System.out.println("Insert stoplist filename:");
 //        s = in.nextLine();
         StopList sl = new StopList("stoplist_portugues.txt");
         StopList sls = new StopList("stoplist_portugues.txt2");
 
+        //creates an wordVector class, passing a stopList as argument
+        WordVector wv = new WordVector(sl);
 
+        //adds two documents to the wordVector
+        wv.addDocument("doc1.txt");
+        wv.addDocument("doc2.txt");
+
+        //calculates their similarity based on vector cos
+        System.out.println("Using a stopList:");
+        System.out.printf("Documents similarity is %.0f percent\n",wv.checkSimilarity(0,1)*100);
+
+        WordVector wv2 = new WordVector();
+
+        //adds two documents to the wordVector
+        wv2.addDocument("doc1.txt");
+        wv2.addDocument("doc2.txt");
+
+        //calculates their similarity based on vector cos
+        System.out.println("Not using a stopList:");
+        System.out.printf("Documents similarity is %.0f percent\n",wv2.checkSimilarity(0,1)*100);
     }
 }

@@ -17,9 +17,9 @@ public class StopList {
 
         try{
             bfr = new BufferedReader(new FileReader(this.filename));
-            System.out.println("Stoplist loaded from file \"" + this.filename + "\".");
+//            System.out.println("Stoplist loaded from file \"" + this.filename + "\".");
         } catch (FileNotFoundException e) {
-            System.out.println("File \"" + this.filename + "\" not found.");
+//            System.out.println("File \"" + this.filename + "\" not found.");
             return;
         }
 
@@ -27,15 +27,22 @@ public class StopList {
         this.stopWords = new ArrayList<>();
 
         do{
-            try{s = bfr.readLine();}catch(Exception e){};
+            try{s = bfr.readLine();}catch(Exception e){}
             if (s != null){
-                System.out.print(s);
                 s = normalize(s);
                 if(s != null && s.length() > 0){
                     if(!stopWords.contains(s))stopWords.add(s);
                 }
             }
         }while(s != null);
+
+        try{bfr.close();}catch(Exception e){}
+    }
+
+    public StopList(){
+        this.filename = null;
+        //creating a arrayList to store stopwords
+        this.stopWords = new ArrayList<>();
     }
 
     public boolean hasWord(String word){
@@ -44,7 +51,14 @@ public class StopList {
         return stopWords.contains(s);
     }
 
+    public void insertWord(String word){
+        String s = word;
+        s = normalize(s);
+        if(s != null && s.length() > 0) stopWords.add(s);
+    }
+
     public static String normalize(String str) {
-        return Normalizer.normalize(str, Normalizer.Form.NFD).replaceAll("[^\\p{ASCII}]", "");
+        String ret = str.toLowerCase();
+        return Normalizer.normalize(ret, Normalizer.Form.NFD).replaceAll("[^\\p{ASCII}]", "");
     }
 }
