@@ -16,10 +16,21 @@
  *     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+import java.util.Scanner;
+
 /**
  *  Main program class
  */
 public class Principal {
     public static void main(String[] args){
+        Scanner in = new Scanner(System.in);
+        String s;
+
+        System.out.println("Insert stoplist filename:");
+//        s = in.nextLine();
+        StopList sl = new StopList("stoplist_portugues.txt");
+        StopList sls = new StopList("stoplist_portugues.txt2");
+
+
     }
 }
