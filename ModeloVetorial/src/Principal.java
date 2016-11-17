@@ -29,7 +29,7 @@ public class Principal {
 //        System.out.println("Insert stoplist filename:");
 //        s = in.nextLine();
         StopList sl = new StopList("stoplist_portugues.txt");
-        StopList sls = new StopList("stoplist_portugues.txt2");
+        //StopList sls = new StopList("stoplist_portugues.txt2");
 
         //creates an wordVector class, passing a stopList as argument
         WordVector wv = new WordVector(sl);
@@ -37,19 +37,27 @@ public class Principal {
         //adds two documents to the wordVector
         wv.addDocument("doc1.txt");
         wv.addDocument("doc2.txt");
+        wv.addDocument("doc3.txt");
+        wv.addDocument("doc4.txt");
+        wv.addDocument("doc5.txt");
+        wv.addDocument("doc6.txt");
 
         //calculates their similarity based on vector cos
         System.out.println("Using a stopList:");
-        System.out.printf("Documents similarity is %.0f percent\n",wv.checkSimilarity(0,1)*100);
+        System.out.printf("Documents similarity is %.0f percent\n",wv.checkSimilarity(4,5)*100);
 
         WordVector wv2 = new WordVector();
 
         //adds two documents to the wordVector
         wv2.addDocument("doc1.txt");
         wv2.addDocument("doc2.txt");
+        wv2.addDocument("doc3.txt");
+        wv2.addDocument("doc4.txt");
+        wv2.addDocument("doc5.txt");
+        wv2.addDocument("doc6.txt");
 
         //calculates their similarity based on vector cos
         System.out.println("Not using a stopList:");
-        System.out.printf("Documents similarity is %.0f percent\n",wv2.checkSimilarity(0,1)*100);
+        System.out.printf("Documents similarity is %.0f percent\n",wv2.checkSimilarity(4,5)*100);
     }
 }

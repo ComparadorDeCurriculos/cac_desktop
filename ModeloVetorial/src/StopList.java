@@ -29,7 +29,7 @@ public class StopList {
         do{
             try{s = bfr.readLine();}catch(Exception e){}
             if (s != null){
-                s = normalize(s);
+                s = MyNormalizer.normalize(s);
                 if(s != null && s.length() > 0){
                     if(!stopWords.contains(s))stopWords.add(s);
                 }
@@ -47,18 +47,13 @@ public class StopList {
 
     public boolean hasWord(String word){
         String s = word;
-        s = normalize(s);
+        s = MyNormalizer.normalize(s);
         return stopWords.contains(s);
     }
 
-    public void insertWord(String word){
+    public void insertWord(String word) {
         String s = word;
-        s = normalize(s);
-        if(s != null && s.length() > 0) stopWords.add(s);
-    }
-
-    public static String normalize(String str) {
-        String ret = str.toLowerCase();
-        return Normalizer.normalize(ret, Normalizer.Form.NFD).replaceAll("[^\\p{ASCII}]", "");
+        s = MyNormalizer.normalize(s);
+        if (s != null && s.length() > 0) stopWords.add(s);
     }
 }

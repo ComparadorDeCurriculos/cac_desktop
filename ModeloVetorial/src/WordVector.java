@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class WordVector {
@@ -51,7 +50,7 @@ public class WordVector {
                 for(int i = 0; i < ss.length; i++){
 
                     //normalizes the word
-                    ss[i] = StopList.normalize(ss[i]);
+                    ss[i] = MyNormalizer.normalize(ss[i]);
 
                     //if word isnt in the bag of words and isnt a stop word,
                     //inserts it in bag of words
@@ -125,7 +124,7 @@ public class WordVector {
                 for(int i = 0; i < ss.length; i++){
 
                     //normalizes the word
-                    ss[i] = StopList.normalize(ss[i]);
+                    ss[i] = MyNormalizer.normalize(ss[i]);
 
                     //if word is in bagOfWords[j], vec[j]++
                     //note: j isnt explicitly used in here
@@ -150,7 +149,7 @@ public class WordVector {
                 for(int i = 0; i < ss.length; i++){
 
                     //normalizes the word
-                    ss[i] = StopList.normalize(ss[i]);
+                    ss[i] = MyNormalizer.normalize(ss[i]);
 
                     //if word is in bagOfWords[j], vec[j]++
                     //note: j isnt explicitly used in here
