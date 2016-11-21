@@ -149,7 +149,7 @@ public class WordVector {
                 for(int i = 0; i < ss.length; i++){
 
                     //normalizes the word
-                    ss[i] = ModeloVetorialUtils.normalize(ss[i]);
+                    //ss[i] = ModeloVetorialUtils.normalize(ss[i]);
 
                     //if word is in bagOfWords[j], vec[j]++
                     //note: j isnt explicitly used in here

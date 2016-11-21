@@ -21,10 +21,10 @@ public class WordNet {
         this.filename = filename;
         //opening the document
         try{
-            bfr = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "UTF-8"));
+            bfr = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "ISO-8859-1"));
             //System.out.println("File \"" + filename + "\" opened successfully.");
         } catch (FileNotFoundException e) {
-            //System.out.println("File \"" + filename + "\" not found.");
+            System.out.println("File \"" + filename + "\" not found.");
             return;
         }
 
@@ -51,7 +51,7 @@ public class WordNet {
                 for(int i = 6; i < ss.length; i++){
                     //if it is a valid word
                     if(ss[i].length() > 0 && !ModeloVetorialUtils.isNumeric(ss[i])){
-                        ss[i] = ModeloVetorialUtils.normalize(ss[i]);
+                        //ss[i] = ModeloVetorialUtils.normalize(ss[i]);
                         //check if each word found is already in the map
                         if(map.containsKey(ss[i])){
                             //if it is, inserts the corresponding synset into the word synsets array
@@ -67,6 +67,11 @@ public class WordNet {
                 }
             }
         } while(s != null);
+
+//        System.out.println(map.size());
+
+//        ModeloVetorialUtils.printMap(map);
+
 
         bfr.close();
     }

@@ -24,20 +24,18 @@ import java.util.Scanner;
 public class Principal {
     public static void main(String[] args){
         StopList sl = new StopList("stoplist_portugues.txt");
+        WordNet wn = null;
+
+        try{ wn = new WordNet("base_tep2.txt"); } catch (Exception e){System.out.println("Erro");}
 
         //creates an wordVector class, passing a stopList as argument
         WordVector wv = new WordVector(sl);
 
-        WordNet test = null;
-        try{
-        test = new WordNet("base_tep2.txt");}
-        catch (Exception e){;}
-
         System.out.println("Procurando palavra Andar");
-        if(null == test.getSynsets("Andar")){
+        if(null == wn.getSynsets("Andar")){
             System.out.println("Not found.");
         } else {
-            System.out.println("Andar = " + test.getSynsets("Andar"));
+            System.out.println("Andar = " + wn.getSynsets("Andar"));
         }
 
 
@@ -68,5 +66,6 @@ public class Principal {
         //calculates their similarity based on vector cos
         System.out.println("Not using a stopList:");
         System.out.printf("Documents similarity is %.0f percent\n",wv2.checkSimilarity(0,1)*100);
+
     }
 }
