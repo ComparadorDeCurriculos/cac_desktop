@@ -25,18 +25,23 @@ public class Principal {
     public static void main(String[] args){
         StopList sl = new StopList("stoplist_portugues.txt");
 
-        String test = "7. [Verbo] {impurificar, sujar} <6>";
-        String[] ss = test.split("[. \\[\\]<>,{}]");
-        for(int i = 0; i < ss.length; i++){
-            if(ss[i].length() > 0 && MyNormalizer.isNumeric(ss[i])){
-                System.out.println(i + " " + ss[i]);}
-        }
-        System.out.print("\n");
-        System.out.println(ss[0]);
-        System.out.println(ss[3]);
-
         //creates an wordVector class, passing a stopList as argument
         WordVector wv = new WordVector(sl);
+
+        WordNet test = null;
+        try{
+        test = new WordNet("base_tep2.txt");}
+        catch (Exception e){;}
+
+        System.out.println("Procurando palavra Andar");
+        if(null == test.getSynsets("Andar")){
+            System.out.println("Not found.");
+        } else {
+            System.out.println("Andar = " + test.getSynsets("Andar"));
+        }
+
+
+        System.out.println("==========================");
 
         //adds two documents to the wordVector
         /*wv.addDocument("doc1.txt");

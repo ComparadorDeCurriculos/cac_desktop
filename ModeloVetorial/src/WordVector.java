@@ -50,7 +50,7 @@ public class WordVector {
                 for(int i = 0; i < ss.length; i++){
 
                     //normalizes the word
-                    ss[i] = MyNormalizer.normalize(ss[i]);
+                    ss[i] = ModeloVetorialUtils.normalize(ss[i]);
 
                     //if word isnt in the bag of words and isnt a stop word,
                     //inserts it in bag of words
@@ -124,7 +124,7 @@ public class WordVector {
                 for(int i = 0; i < ss.length; i++){
 
                     //normalizes the word
-                    ss[i] = MyNormalizer.normalize(ss[i]);
+                    ss[i] = ModeloVetorialUtils.normalize(ss[i]);
 
                     //if word is in bagOfWords[j], vec[j]++
                     //note: j isnt explicitly used in here
@@ -149,7 +149,7 @@ public class WordVector {
                 for(int i = 0; i < ss.length; i++){
 
                     //normalizes the word
-                    ss[i] = MyNormalizer.normalize(ss[i]);
+                    ss[i] = ModeloVetorialUtils.normalize(ss[i]);
 
                     //if word is in bagOfWords[j], vec[j]++
                     //note: j isnt explicitly used in here

@@ -29,7 +29,7 @@ public class StopList {
         do{
             try{s = bfr.readLine();}catch(Exception e){}
             if (s != null){
-                s = MyNormalizer.normalize(s);
+                s = ModeloVetorialUtils.normalize(s);
                 if(s != null && s.length() > 0){
                     if(!stopWords.contains(s))stopWords.add(s);
                 }
@@ -47,13 +47,13 @@ public class StopList {
 
     public boolean hasWord(String word){
         String s = word;
-        s = MyNormalizer.normalize(s);
+        s = ModeloVetorialUtils.normalize(s);
         return stopWords.contains(s);
     }
 
     public void insertWord(String word) {
         String s = word;
-        s = MyNormalizer.normalize(s);
+        s = ModeloVetorialUtils.normalize(s);
         if (s != null && s.length() > 0) stopWords.add(s);
     }
 }
