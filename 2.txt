@@ -1,0 +1,4 @@
+1. Espaços vetoriais: definição, subespaços, dependência linear, bases, dimensão. 2. Cálculo matricial,
+determinantes, sistemas lineares. 3. Transformações lineares e matrizes, núcleo, imagem, posto. 4. Espaços com
+produto interno: produto interno, norma, ortogonalidade, processo de Gram-Schmidt, complemento ortogonal,
+projeção. Autovalores e autovetores.

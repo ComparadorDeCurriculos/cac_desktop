@@ -16,7 +16,9 @@ public class StopList {
 
         try {
             bfr = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "ISO-8859-1"));
-        } catch (Exception e){ return;}
+        } catch (Exception e){
+            System.out.println("Error");
+        }
 
         //creating a arrayList to store stopwords
         this.stopWords = new ArrayList<>();

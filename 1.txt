@@ -1,0 +1,1 @@
+Espaços vetoriais reais e complexos. Dependência linear. Base. Dimensão. Subespaços. Soma direta. Transformações lineares. Núcleo e imagem. Isomorfismo. Matriz de uma transformação linear. Autovalores e autovetores. Subespaços invariantes. Diagonalização de operadores. Forma canônica de Jordan. Espaços com produto interno. Ortogonalidade. Isometrias. Operadores auto-adjuntos.
