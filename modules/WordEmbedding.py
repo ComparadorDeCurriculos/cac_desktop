@@ -125,7 +125,7 @@ class wordEmbedding:
 
 
 		if newDoc.name not in self.docs:
-				self.docs[newDoc.name] = newDoc;
+			self.docs[newDoc.name] = newDoc;
 
 		#reads text
 		text = newDoc.read();
@@ -152,6 +152,7 @@ class wordEmbedding:
 		self.words[newDoc.name] = final_words;
 
 	def calculateCos(self,vec1,vec2):
+
 		num = 0.0;
 		den1 = 0.0;
 		den2 = 0.0;
@@ -164,7 +165,7 @@ class wordEmbedding:
 		den1 **= 0.5;
 		den2 **= 0.5;
 
-		res = num/(den1/den2);
+		res = num/(den1*den2);
 
 		return res;
 
@@ -202,31 +203,16 @@ class wordEmbedding:
 		#counting 
 		for word in words1:
 			for bow_word in bow:
-				if (word == bow_word): #or self.wordNet.checkSynonym(bow_word, word):
+				if (word == bow_word) or self.wordNet.checkSynonym(bow_word, word):
 					embeddings[1][bow.index(word)] += 1;
 		for word in words2:
 			for bow_word in bow:
-				if (word == bow_word): # or self.wordNet.checkSynonym(bow_word, word): 
+				if (word == bow_word) or self.wordNet.checkSynonym(bow_word, word): 
 					embeddings[2][bow.index(word)] += 1;
 
 		# print('{0:13} | {1:5} | {2:5}|'.format('Bag of Words',' doc1',' doc2'))
 		# for j in range(0, len(bow)):
 		# 	print('{0:13} | {1:5d} | {2:5d}|'.format(embeddings[0][j], embeddings[1][j], embeddings[2][j]))
-
-		#calculating cosine between embeddings
-		num = 0.0;
-		den1 = 0.0;
-		den2 = 0.0;
-		
-		for i, j in zip(embeddings[1],embeddings[2]):
-			num += embeddings[1][i]*embeddings[2][j];
-			den1 += embeddings[1][i]**2;
-			den2 += embeddings[2][i]**2;
-
-		den1 **= 0.5;
-		den2 **= 0.5;
-
-		res = num/(den1/den2);
 
 		return self.calculateCos(embeddings[1],embeddings[2]);
 
