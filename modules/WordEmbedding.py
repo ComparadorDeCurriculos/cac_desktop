@@ -26,7 +26,6 @@ class stoplist:
 
 class wordnet:
 
-
 	def __init__(self,wordnetFilename):
 
 		import string;
@@ -100,35 +99,16 @@ class wordnet:
 
 class wordEmbedding:
 
-	def __init__(self,stoplistFilename, wordnetFilename):
+	import Stemmer
 
-		import Stemmer
+	#generates required stopList, open docs
+	stopList = stoplist('stoplist_portugues.txt');
+	wordNet = wordnet('base_tep2.txt');
+	stemmer = Stemmer.Stemmer('portuguese');
 
-		self.stemmer = Stemmer.Stemmer('portuguese');
-		self.docs = {};
-		self.words = {};
-		self.embeddings = [];
-
-		#generates required stopList, open docs
-		self.stopList = stoplist(stoplistFilename);
-		self.wordNet = wordnet(wordnetFilename);
-
-	def addDoc(self,filename):
-
+	def __init__(self, text):
+		
 		import string
-
-		try:
-			newDoc = open(filename);
-		except FileNotFoundError:
-			print(filename, "not found");
-			return;
-
-
-		if newDoc.name not in self.docs:
-			self.docs[newDoc.name] = newDoc;
-
-		#reads text
-		text = newDoc.read();
 		#puts to lower case
 		text = text.lower();
 		#removing punctuation
@@ -146,10 +126,10 @@ class wordEmbedding:
 		final_words = [];
 		#removing stopwords
 		for word in stemmed_text:
-			if(not self.stopList.check(word)):
+			if(not wordEmbedding.stopList.check(word)):
 				final_words.append(word);
 
-		self.words[newDoc.name] = final_words;
+		self.words = final_words;
 
 	def calculateCos(self,vec1,vec2):
 
@@ -170,24 +150,13 @@ class wordEmbedding:
 		return res;
 
 
-	def compare(self,doc1Filename,doc2Filename):
+	def compare(self, other):
+		"""compares this wordEmbedding with "other" using cosine""" 
+		words1 = self.words;
+		words2 = other.words;
 
 		#bag of words
 		bow = [];
-
-		#fetching doc1 words
-		try:
-			words1 = self.words[doc1Filename];
-		except KeyError:
-			print(doc1Filename,'not added to the program yet');
-			return;
-
-		#fetching doc2 words
-		try:
-			words2 = self.words[doc2Filename];
-		except KeyError:
-			print(doc2Filename,'not added to the program yet');
-			return;
 
 		#preparing bag of words
 		for word in words1:
@@ -203,11 +172,11 @@ class wordEmbedding:
 		#counting 
 		for word in words1:
 			for bow_word in bow:
-				if (word == bow_word) or self.wordNet.checkSynonym(bow_word, word):
+				if (word == bow_word) or wordEmbedding.wordNet.checkSynonym(bow_word, word):
 					embeddings[1][bow.index(word)] += 1;
 		for word in words2:
 			for bow_word in bow:
-				if (word == bow_word) or self.wordNet.checkSynonym(bow_word, word): 
+				if (word == bow_word) or wordEmbedding.wordNet.checkSynonym(bow_word, word): 
 					embeddings[2][bow.index(word)] += 1;
 
 		# print('{0:13} | {1:5} | {2:5}|'.format('Bag of Words',' doc1',' doc2'))

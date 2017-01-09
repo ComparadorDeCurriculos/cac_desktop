@@ -1,7 +1,9 @@
-import WordEmbedding;
+from WordEmbedding import *
 
-teste = WordEmbedding.wordEmbedding('stoplist_portugues.txt','base_tep2.txt');
-teste.addDoc('1.txt');
-teste.addDoc('2.txt');
+f1 = open('1.txt');
+f2 = open('2.txt');
 
-print(teste.compare('1.txt','2.txt'));
+a = wordEmbedding(f1.read());
+b = wordEmbedding(f2.read());
+
+print(a.compare(b));
