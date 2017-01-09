@@ -74,6 +74,16 @@ class wordNet:
 				else:
 					self.words[word] = [synsetNo];
 
+	def checkSynonym(self, word_a, word_b):
+		synsets = self.words[word_a];
+		for synset in synsets:
+			for word in self.synsets[int(synset)]:
+				if word == word_b:
+					return True;
+
+		return False;
+
+
 class wordEmbedding:
 
 	def __init__(self,stoplistFilename):

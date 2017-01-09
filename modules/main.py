@@ -11,3 +11,5 @@ print(teste.compare('1.txt','2.txt'));
 print("teste de wordnet");
 
 teste2 = WordEmbedding.wordNet('base_tep2.txt');
+
+print(teste2.checkSynonym('absolver', 'isentar'));
