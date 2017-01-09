@@ -1,5 +1,5 @@
 /*
- *     Projeto sem nome
+ *     Projeto sem nome Teste do nome do projeto
  *     Copyright (C) 2016 Rafael Augusto Monteiro
  *
  *     This program is free software: you can redistribute it and/or modify
@@ -23,13 +23,19 @@ import java.util.Scanner;
  */
 public class Principal {
     public static void main(String[] args){
+<<<<<<< HEAD:old/ModeloVetorial/src/Principal.java
 //        StopList sl = new StopList("stoplist_portugues.txt");
+=======
+        //need to fix this!
+//        StopList sl = new StopList("stoplist_portugues.txt");
+//        System.out.println("oi");
+>>>>>>> 2a43d4e760409f1f1b5dbb15528a6378183c6cf0:ModeloVetorial/src/Principal.java
         WordNet wn = null;
 
         try{ wn = new WordNet("base_tep2.txt"); } catch (Exception e){System.out.println("Erro");}
 
         //creates an wordVector class, passing a stopList as argument
-        WordVector wv = new WordVector(sl);
+        WordVector wv = new WordVector();
 
         System.out.println("Procurando palavra Andar");
         if(null == wn.getSynsets("Andar")){
@@ -46,8 +52,8 @@ public class Principal {
         wv.addDocument("doc2.txt");
         wv.addDocument("doc3.txt");
         wv.addDocument("doc4.txt");*/
-        wv.addDocument("doc5.txt");
-        wv.addDocument("doc6.txt");
+        wv.addDocument("1.txt");
+        wv.addDocument("2.txt");
 
         //calculates their similarity based on vector cos
         System.out.println("Using a stopList:");
@@ -60,8 +66,8 @@ public class Principal {
         wv2.addDocument("doc2.txt");
         wv2.addDocument("doc3.txt");
         wv2.addDocument("doc4.txt");*/
-        wv2.addDocument("doc5.txt");
-        wv2.addDocument("doc6.txt");
+        wv2.addDocument("1.txt");
+        wv2.addDocument("2.txt");
 
         //calculates their similarity based on vector cos
         System.out.println("Not using a stopList:");

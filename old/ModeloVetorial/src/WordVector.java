@@ -96,18 +96,18 @@ public class WordVector {
         //opening doc1
         try{
             bfr1 = new BufferedReader(new FileReader(documents.get(doc1)));
-//            System.out.println("File \"" + documents.get(doc1) + "\" opened successfully.");
+            System.out.println("File \"" + documents.get(doc1) + "\" opened successfully.");
         } catch (FileNotFoundException e) {
-//            System.out.println("File \"" + documents.get(doc1) + "\" not found.");
+            System.out.println("File \"" + documents.get(doc1) + "\" not found.");
             return -1;
         }
 
         //opening doc2
         try{
             bfr2 = new BufferedReader(new FileReader(documents.get(doc2)));
-//            System.out.println("File \"" + documents.get(doc2) + "\" opened successfully.");
+            System.out.println("File \"" + documents.get(doc2) + "\" opened successfully.");
         } catch (FileNotFoundException e) {
-//            System.out.println("File \"" + documents.get(doc2) + "\" not found.");
+            System.out.println("File \"" + documents.get(doc2) + "\" not found.");
             return -1;
         }
 
