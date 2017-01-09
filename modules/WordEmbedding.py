@@ -24,12 +24,15 @@ class stoplist:
 	def check(self, word):
 		return word in self.words;
 
-class wordNet:
+class wordnet:
 
 
 	def __init__(self,wordnetFilename):
 
 		import string;
+		import Stemmer;
+
+		stemmer = Stemmer.Stemmer('portuguese');
 
 		#maps words to their synsets
 		self.words = {};
@@ -51,6 +54,13 @@ class wordNet:
 
 			#splitting
 			bfr = bfr.split(' ');
+
+			bfr2 = [];
+
+			#stemming text
+			for word in bfr:
+				bfr2.append(stemmer.stemWord(word));
+			bfr = bfr2;
 
 			#checking if the last split should be discarded
 			try:
@@ -75,7 +85,11 @@ class wordNet:
 					self.words[word] = [synsetNo];
 
 	def checkSynonym(self, word_a, word_b):
-		synsets = self.words[word_a];
+		try:
+			synsets = self.words[word_a]
+		except KeyError:
+			return False;
+
 		for synset in synsets:
 			for word in self.synsets[int(synset)]:
 				if word == word_b:
@@ -86,7 +100,7 @@ class wordNet:
 
 class wordEmbedding:
 
-	def __init__(self,stoplistFilename):
+	def __init__(self,stoplistFilename, wordnetFilename):
 
 		import Stemmer
 
@@ -97,6 +111,7 @@ class wordEmbedding:
 
 		#generates required stopList, open docs
 		self.stopList = stoplist(stoplistFilename);
+		self.wordNet = wordnet(wordnetFilename);
 
 	def addDoc(self,filename):
 
@@ -125,8 +140,9 @@ class wordEmbedding:
 		#stemming text
 		stemmed_text = [];
 		for word in split_text:
-				stemmed_text.append(self.stemmer.stemWord(word));
+			stemmed_text.append(self.stemmer.stemWord(word));
 
+		# stemmed_text = split_text;
 		final_words = [];
 		#removing stopwords
 		for word in stemmed_text:
@@ -134,6 +150,24 @@ class wordEmbedding:
 				final_words.append(word);
 
 		self.words[newDoc.name] = final_words;
+
+	def calculateCos(self,vec1,vec2):
+		num = 0.0;
+		den1 = 0.0;
+		den2 = 0.0;
+		
+		for i in range(len(vec1)):
+			num +=  vec1[i]*vec2[i];
+			den1 += vec1[i]**2;
+			den2 += vec2[i]**2;
+
+		den1 **= 0.5;
+		den2 **= 0.5;
+
+		res = num/(den1/den2);
+
+		return res;
+
 
 	def compare(self,doc1Filename,doc2Filename):
 
@@ -167,15 +201,17 @@ class wordEmbedding:
 		embeddings = [bow,[0]*len(bow),[0]*len(bow)]
 		#counting 
 		for word in words1:
-			if word in bow:
-				embeddings[1][bow.index(word)] += 1;
+			for bow_word in bow:
+				if (word == bow_word): #or self.wordNet.checkSynonym(bow_word, word):
+					embeddings[1][bow.index(word)] += 1;
 		for word in words2:
-			if word in bow:
-				embeddings[2][bow.index(word)] += 1;
+			for bow_word in bow:
+				if (word == bow_word): # or self.wordNet.checkSynonym(bow_word, word): 
+					embeddings[2][bow.index(word)] += 1;
 
-		#print('{0:13} | {1:5} | {2:5}|'.format('Bag of Words',' doc1',' doc2'))
-		#for j in range(0, len(bow)):
-		#	print('{0:13} | {1:5d} | {2:5d}|'.format(embeddings[0][j], embeddings[1][j], embeddings[2][j]))
+		# print('{0:13} | {1:5} | {2:5}|'.format('Bag of Words',' doc1',' doc2'))
+		# for j in range(0, len(bow)):
+		# 	print('{0:13} | {1:5d} | {2:5d}|'.format(embeddings[0][j], embeddings[1][j], embeddings[2][j]))
 
 		#calculating cosine between embeddings
 		num = 0.0;
@@ -192,5 +228,5 @@ class wordEmbedding:
 
 		res = num/(den1/den2);
 
-		return res;
+		return self.calculateCos(embeddings[1],embeddings[2]);
 
