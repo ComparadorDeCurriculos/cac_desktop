@@ -151,7 +151,7 @@ class wordEmbedding:
 
 
 	def compare(self, other):
-		"""compares this wordEmbedding with "other" using cosine""" 
+		
 		words1 = self.words;
 		words2 = other.words;
 
