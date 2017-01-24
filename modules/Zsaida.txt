@@ -1,0 +1,131 @@
+Informação Profissional em Ciências da Computação 	
+Fundamentos de ComputaÃ§Ã£o
+
+Introdução à Ciência de Computação I
+Tecnologias de ComputaÃ§Ã£o
+
+Laboratório de Introdução à Ciência de Computação I
+Tecnologias de ComputaÃ§Ã£o
+
+Geometria Analítica
+MatemÃ¡tica
+
+Cálculo I
+MatemÃ¡tica
+
+Evolução Histórica da Computação e Aplicações
+Fundamentos de ComputaÃ§Ã£o
+
+Prática em Lógica Digital
+EletrÃŽnica
+
+Introdução à Lógica Digital
+Tecnologias de ComputaÃ§Ã£o
+
+Eletrônica para Computação
+EletrÃŽnica
+
+Física Básica I
+Contexto Social e Profissional
+
+Introdução à Ciência de Computação II
+Fundamentos de ComputaÃ§Ã£o
+
+Algoritmos e Estruturas de Dados I
+Fundamentos de ComputaÃ§Ã£o
+
+Matemática Discreta I
+MatemÃ¡tica
+
+Cálculo II
+MatemÃ¡tica
+
+Prática em Sistemas Digitais
+EletrÃŽnica
+
+Sistemas Digitais
+EletrÃŽnica
+
+Laboratório de Física Geral I
+CiÃªncias BÃ¡sicas
+
+Organização de Arquivos
+Fundamentos de ComputaÃ§Ã£o
+
+Modelagem Computacional em Grafos
+Fundamentos de ComputaÃ§Ã£o
+
+Cálculo III
+MatemÃ¡tica
+
+Programação Orientada a Objetos
+Tecnologias de ComputaÃ§Ã£o
+
+Organização de Computadores Digitais I
+Fundamentos de ComputaÃ§Ã£o
+
+Algoritmos Avançados e Aplicações
+Tecnologias de ComputaÃ§Ã£o
+
+Cálculo IV
+MatemÃ¡tica
+
+Estatística
+MatemÃ¡tica
+
+Álgebra Linear e Equações Diferenciais
+MatemÃ¡tica
+
+Sistemas Operacionais I
+Tecnologias de ComputaÃ§Ã£o
+
+Bases de Dados
+Tecnologias de ComputaÃ§Ã£o
+
+Computação Gráfica
+Tecnologias de ComputaÃ§Ã£o
+
+Cálculo Numérico
+MatemÃ¡tica
+
+Processos Estocásticos
+Tecnologias de ComputaÃ§Ã£o
+
+Engenharia de Software
+Tecnologias de ComputaÃ§Ã£o
+
+Redes de Computadores
+Contexto Social e Profissional
+
+Teoria da Computação e Linguagens Formais
+Fundamentos de ComputaÃ§Ã£o
+
+Computadores e Sociedade I
+Tecnologias de ComputaÃ§Ã£o
+
+Inteligência Artificial
+Tecnologias de ComputaÃ§Ã£o
+
+Programação Matemática
+Tecnologias de ComputaÃ§Ã£o
+
+Arquitetura de Computadores
+Tecnologias de ComputaÃ§Ã£o
+
+Programação Concorrente
+Tecnologias de ComputaÃ§Ã£o
+
+Linguagens de Programação e Compiladores
+Tecnologias de ComputaÃ§Ã£o
+
+Introdução ao Desenvolvimento Web
+Tecnologias de ComputaÃ§Ã£o
+
+Sistemas de Informação
+Fundamentos de ComputaÃ§Ã£o
+
+Projeto Supervisionado I
+Tecnologias de ComputaÃ§Ã£o
+
+Projeto Supervisionado II
+Tecnologias de ComputaÃ§Ã£o

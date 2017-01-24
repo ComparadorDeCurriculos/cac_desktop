@@ -40,7 +40,7 @@ class wordnet:
 		#pos 0 in synsets is empty (None)
 		self.synsets = [None];
 
-		#creating transator used to remove punctuations
+		#creating translator used to remove punctuations
 		punc = string.punctuation.replace('-','');
 		translator = str.maketrans({key:None for key in punc});
 
@@ -102,8 +102,8 @@ class wordEmbedding:
 	import Stemmer
 
 	#generates required stopList, open docs
-	stopList = stoplist('stoplist_portugues.txt');
-	wordNet = wordnet('base_tep2.txt');
+	stopList = stoplist('../stoplist_portugues.txt');
+	wordNet = wordnet('../base_tep2.txt');
 	stemmer = Stemmer.Stemmer('portuguese');
 
 	def __init__(self, text):

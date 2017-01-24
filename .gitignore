@@ -15,3 +15,5 @@ hs_err_pid*
 # lixo do eclipse
 .project
 .classpath
+
+*.pyc
