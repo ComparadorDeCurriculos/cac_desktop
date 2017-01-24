@@ -1,2 +1,2 @@
 all:
-	python modules/main.py
+	python modules/main.py 
