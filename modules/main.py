@@ -1,70 +1,25 @@
-def autoLabel(axis,rects):
+from Course import *
+import plotting as plt
+import Discipline
 
-	for rect in rects:
-		height = rect.get_height();
-		if(height < 4):
-			text_height = height;
-			clr = 'black';
-		else:
-			text_height = height-3;
-			clr = 'white';
+if __name__ == '__main__':
 
-		axis.text(
-			rect.get_x() + rect.get_width()/2.,
-			text_height,
-			'%d' % int(height),
-			ha='center',
-			va='bottom',
-			color=clr);
+	course1 = Course("BCC", "USP", "gradeBCC.txt")
 
-def plotBar(labels,values,title):
+	res = course1.getCoresCreditsDict()
 
-	import matplotlib
-	#changes matplotlib backend to one that isn't interactive
-	#we don't need interactivity; we can just generate the image
-	matplotlib.use('Agg');
-	import matplotlib.pyplot as plt
-	import numpy as np
+	#### usa esse codigo pra printar o numero de creditos por nucleo
+	# for value in res:
+	# 	print("{0:s}: {1:d}".format(value, res[value]))
+	# print()
+	
+	#### usa esse codigo pra printar as disciplinas de cada nucleo
+	# for cores in Discipline.Discipline.sbcCores:
+	# 	print(cores);
+	# 	res = course1.getCoreDisciplines(cores)
+	# 	for disc in res:
+	# 		print(disc.name);
+	# 	print();
 
-	#removing borders
-	fig, ax = plt.subplots();
-	ax.spines['top'].set_visible(False);
-	ax.spines['right'].set_visible(False);
-	ax.spines['left'].set_visible(False);
-	ax.spines['bottom'].set_visible(False);
-	plt.tick_params(
-		axis='x',
-		which='both',
-		bottom='off',
-		top='off');
-	plt.xticks([]);
-	plt.yticks([]);
-
-	barWidth = 0.7;
-	index = np.arange(len(values));
-
-	bars = ax.bar(index,values,barWidth,
-		color='#0066cc',
-		label='BCC',
-		linewidth=0);
-
-	autoLabel(ax,bars);
-
-	plt.title(title);
-	plt.xticks(index+(barWidth/2),labels,size='small');
-
-	plt.tight_layout();
-
-	plt.savefig('result.pdf',bbox_inches='tight');
-
-def plotBarNucleos(values):
-	labels = ('Fundamentos\nde\nComputação\n',
-		'Tecnologias\nde\nComputação\n',
-		'Matemática\n',
-		'Ciências\nBásicas',
-		'Eletrônica\n',
-		'Contexto Social\ne\nProfissional\n');
-	plotBar(labels, values, title='Créditos por Núcleo');
-
-values = (49,53,36,6,2,11);
-plotBarNucleos(values);
+	#gera um grafico 
+	plt.plotBarNucleos('result.pdf',course1.getCoresCreditsList());
