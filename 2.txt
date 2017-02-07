@@ -1,4 +1,64 @@
-1. Espaços vetoriais: definição, subespaços, dependência linear, bases, dimensão. 2. Cálculo matricial,
-determinantes, sistemas lineares. 3. Transformações lineares e matrizes, núcleo, imagem, posto. 4. Espaços com
-produto interno: produto interno, norma, ortogonalidade, processo de Gram-Schmidt, complemento ortogonal,
-projeção. Autovalores e autovetores.
+python modules/main.py
+Fundamentos de Computação: 31
+Tecnologias de Computação: 67
+Matemática: 36
+Ciências Básicas: 2
+Eletrônica: 4
+Contexto Social e Profissional: 8
+
+Fundamentos de Computação
+Informação Profissional em Ciências da Computação
+Evolução Histórica da Computação e Aplicações
+Introdução à Ciência de Computação II
+Algoritmos e Estruturas de Dados I
+Prática em Sistemas Digitais
+Sistemas Digitais
+Organização de Arquivos
+Modelagem Computacional em Grafos
+Organização de Computadores Digitais I
+Teoria da Computação e Linguagens Formais
+Sistemas de Informação
+
+Tecnologias de Computação
+Introdução à Ciência de Computação I
+Laboratório de Introdução à Ciência de Computação I
+Introdução à Lógica Digital
+Programação Orientada a Objetos
+Algoritmos Avançados e Aplicações
+Sistemas Operacionais I
+Bases de Dados
+Computação Gráfica
+Processos Estocásticos
+Engenharia de Software
+Computadores e Sociedade I
+Inteligência Artificial
+Programação Matemática
+Arquitetura de Computadores
+Programação Concorrente
+Linguagens de Programação e Compiladores
+Introdução ao Desenvolvimento Web
+Projeto Supervisionado I
+Projeto Supervisionado II
+
+Matemática
+Geometria Analítica
+Cálculo I
+Matemática Discreta I
+Cálculo II
+Cálculo III
+Cálculo IV
+Estatística
+Álgebra Linear e Equações Diferenciais
+Cálculo Numérico
+
+Ciências Básicas
+Laboratório de Física Geral I
+
+Eletrônica
+Prática em Lógica Digital
+Eletrônica para Computação
+
+Contexto Social e Profissional
+Física Básica I
+Redes de Computadores
+

@@ -4,47 +4,43 @@ from Discipline import *
 import time
 
 class Course:
-	
-	name = ""
-	university = ""
-	cores = {}		
-	path = ""	
-	embedding = None
-
 
 	def __init__(self, name, university, path):
 		self.name = name
 		self.university = university
-		self.cores = dict({	'Fundamentos de Computação'		 : Core('Fundamentos de Computação'), 
-					  		'Tecnologias de Computação'		 : Core('Tecnologias de Computação'), 
-					  		'Matemática' 					 : Core('Matemática'), 
-					  		'Ciências Básicas'				 : Core('Ciências Básicas'), 
-					  		'Eletrônica'					 : Core('Eletrônica'), 
-					  		'Contexto Social e Profissional' : Core('Contexto Social e Profissional')})
+		#each core contains a list of disciplines that belong to that core
+		self.cores = {'Fundamentos de Computação'	 : {'credits': 0, 'disciplines':[]}, 
+			  		'Tecnologias de Computação'		 : {'credits': 0, 'disciplines':[]}, 
+			  		'Matemática' 					 : {'credits': 0, 'disciplines':[]}, 
+			  		'Ciências Básicas'				 : {'credits': 0, 'disciplines':[]}, 
+			  		'Eletrônica'					 : {'credits': 0, 'disciplines':[]}, 
+			  		'Contexto Social e Profissional' : {'credits': 0, 'disciplines':[]}}
 		self.path = path
-		self.createEmbedding()
+		self.fillCourse();
 
-	def addDiscipline(self, name, description):
+	def addDiscipline(self, name, description,credits):
 		discipline = Discipline(name, description)						# creating discipline
-		self.cores[discipline.coreName].addDiscipline(discipline)		# adding in your respective core
-			
+		self.cores[discipline.coreName]['disciplines'].append(discipline);
+		self.cores[discipline.coreName]['credits'] += credits;				# adding in your respective core
+				
 	def fillCourse(self):
-		file = open(self.path)
-		file = file.readlines()
-		lenFile = len(file)
+		with open(self.path) as f:
+			for lines in f:
+				try:
+					#checks if line contains something
+					lines = lines.rstrip();
 
-		i = 0
-		while i < lenFile:
-			begin = time.time()
+					#gets discipline name
+					name = lines;
 
-			name = file[i]									# read line i   == name of discipline
-			description = file[i+1]							# read line i+1 == description of discipline 
-			self.addDiscipline(name, description)			# inserting a new discipline in your respective core of the course 1
+					#gets discipline description
+					desc = next(f).rstrip();
 
-			end = time.time()
-
-			print("{0:.2f}s - {1}".format(end - begin, name))
-			i += 3											# the third line is invalid, because of this is the increase by three in three
+					#gets discipline credits no.
+					cred = int(next(f).rstrip());
+				except StopIteration:
+					pass
+				self.addDiscipline(name,desc,cred); 
 
 	def createEmbedding(self):
 		self.fillCourse()
@@ -58,10 +54,20 @@ class Course:
 
 
 	def compare(self, course):
-		begin = time.time()
-		result = self.embedding.compare(course.embedding)
-		end = time.time()
 		
-		print("Time to compare {0:.2f}s".format(end - begin))
+		result = self.embedding.compare(course.embedding)
+		
+		# print("Time to compare {0:.2f}s".format(end - begin))
 		
 		return result
+
+	def getCoreDisciplines(self,core):
+		return self.cores[core]['disciplines'];
+
+	def getCoresCredits(self):
+		return {'Fundamentos de Computação'	 : self.cores['Fundamentos de Computação']['credits'], 
+			  		'Tecnologias de Computação'		 : self.cores['Tecnologias de Computação']['credits'], 
+			  		'Matemática' 					 : self.cores['Matemática']['credits'], 
+			  		'Ciências Básicas'				 : self.cores['Ciências Básicas']['credits'], 
+			  		'Eletrônica'					 : self.cores['Eletrônica']['credits'], 
+			  		'Contexto Social e Profissional' : self.cores['Contexto Social e Profissional']['credits']}

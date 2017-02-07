@@ -1,18 +1,49 @@
 from Course import *
-
+import Discipline
 
 if __name__ == '__main__':
 
-	begin = time.time()
-	course1 = Course("BCC", "USP", "../gradeBCC.txt")
-	end = time.time()
-	time1 = end - begin
+	course1 = Course("BCC", "USP", "gradeBCC.txt")
 
-	begin = time.time()
-	course2 = Course("BCC 2", "USP", "../gradeBSI.txt")
-	end = time.time()
-	time2 = end - begin
+	res = course1.getCoresCredits()
+	for value in res:
+		print("{0:s}: {1:d}".format(value, res[value]))
+	print()
+	# print("Eletrônica")
+	# res = course1.getCoreDisciplines('Eletrônica')
+	# or disc in res:
+	# 	print(disc.name);
+	# print('\n');
 
-	print('Time to create course 1 {0:.2f}s'.format(time1))
-	print('Time to create course 2 {0:.2f}s'.format(time2))
-	print('compatibility {0:.2f}%'.format(100*course1.compare(course2)))
+	# print('Matemática')
+	# res = course1.getCoreDisciplines('Matemática')
+	# for disc in res:
+	# 	print(disc.name);
+	# print('\n')
+
+	# print('Fundamentos de computação')
+	# res = course1.getCoreDisciplines('Fundamentos de Computação')
+	# for disc in res:
+	# 	print(disc.name);
+	# print('\n');
+
+
+	# print('Tecnologias de computação')
+	# res = course1.getCoreDisciplines('Tecnologias de Computação')
+	# for disc in res:
+	# 	print(disc.name);
+	# print('\n');
+
+
+	# print('')
+	# res = course1.getCoreDisciplines('Tecnologias de Computação')
+	# for disc in res:
+	# 	print(disc.name);
+	# print('\n');
+
+	for cores in Discipline.Discipline.sbcCores:
+		print(cores);
+		res = course1.getCoreDisciplines(cores)
+		for disc in res:
+			print(disc.name);
+		print();

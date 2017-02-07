@@ -1,1 +1,64 @@
-Espaços vetoriais reais e complexos. Dependência linear. Base. Dimensão. Subespaços. Soma direta. Transformações lineares. Núcleo e imagem. Isomorfismo. Matriz de uma transformação linear. Autovalores e autovetores. Subespaços invariantes. Diagonalização de operadores. Forma canônica de Jordan. Espaços com produto interno. Ortogonalidade. Isometrias. Operadores auto-adjuntos.
+python modules/main.py
+Contexto Social e Profissional: 3
+Ciências Básicas: 0
+Matemática: 38
+Fundamentos de Computação: 46
+Tecnologias de Computação: 57
+Eletrônica: 4
+
+Contexto Social e Profissional
+Informação Profissional em Ciências da Computação
+Computadores e Sociedade I
+
+Ciências Básicas
+
+Matemática
+Geometria Analítica
+Cálculo I
+Introdução à Lógica Digital
+Matemática Discreta I
+Cálculo II
+Cálculo III
+Cálculo IV
+Estatística
+Álgebra Linear e Equações Diferenciais
+Cálculo Numérico
+
+Fundamentos de Computação
+Introdução à Ciência de Computação I
+Laboratório de Introdução à Ciência de Computação I
+Introdução à Ciência de Computação II
+Algoritmos e Estruturas de Dados I
+Prática em Sistemas Digitais
+Sistemas Digitais
+Organização de Arquivos
+Modelagem Computacional em Grafos
+Programação Orientada a Objetos
+Organização de Computadores Digitais I
+Algoritmos Avançados e Aplicações
+Teoria da Computação e Linguagens Formais
+Projeto Supervisionado I
+Projeto Supervisionado II
+
+Eletrônica
+Prática em Lógica Digital
+Eletrônica para Computação
+
+Tecnologias de Computação
+Evolução Histórica da Computação e Aplicações
+Física Básica I
+Laboratório de Física Geral I
+Sistemas Operacionais I
+Bases de Dados
+Computação Gráfica
+Processos Estocásticos
+Engenharia de Software
+Redes de Computadores
+Inteligência Artificial
+Programação Matemática
+Arquitetura de Computadores
+Programação Concorrente
+Linguagens de Programação e Compiladores
+Introdução ao Desenvolvimento Web
+Sistemas de Informação
+
