@@ -10,7 +10,6 @@ class Discipline:
 					 'Eletrônica'						: wordEmbedding(open('nucleos/eletronica.txt').read()),
 					 'Contexto Social e Profissional'	: wordEmbedding(open('nucleos/profissional.txt').read())})
 
-
 	def __init__(self, name, description):
 		self.name = name
 		self.description = description
@@ -26,5 +25,3 @@ class Discipline:
 			if (score > biggestScore):
 				biggestScore = score
 				self.coreName = coreTemp
-			#print("parsing {0:s} done".format(core));
-			# print(core,':{1:.0f}%'.format(core,score*100));

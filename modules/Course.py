@@ -1,14 +1,13 @@
 from WordEmbedding import *
 from Core import *
 from Discipline import *
-import time
 
 class Course:
 
 	def __init__(self, name, university, path):
 		self.name = name
 		self.university = university
-		#each core contains a list of disciplines that belong to that core
+		#each core contains a list of disciplines that belong to that core and a number respective to the credits of the disciplines
 		self.cores = {'Fundamentos de Computação'	 : {'credits': 0, 'disciplines':[]}, 
 			  		'Tecnologias de Computação'		 : {'credits': 0, 'disciplines':[]}, 
 			  		'Matemática' 					 : {'credits': 0, 'disciplines':[]}, 
@@ -18,13 +17,19 @@ class Course:
 		self.path = path
 		self.fillCourse();
 
-	def addDiscipline(self, name, description,credits):
-		discipline = Discipline(name, description)						# creating discipline
+	#adds a discipline 
+	def addDiscipline(self, name, description, credits):
+		discipline = Discipline(name, description)
+		#inserting the discipline in the core 'disciplines' list
 		self.cores[discipline.coreName]['disciplines'].append(discipline);
-		self.cores[discipline.coreName]['credits'] += credits;				# adding in your respective core
-				
+		#increasing the number of credits of each core 'credits' field
+		self.cores[discipline.coreName]['credits'] += credits;
+	
+	#gets all disciplines from the course file, classificates it in the cores dictionary and counts the number of credits in each core			
 	def fillCourse(self):
+		#the "with open(file) as f" statement handles file opening and closing
 		with open(self.path) as f:
+			#iterates through each line in the file
 			for lines in f:
 				try:
 					#checks if line contains something
@@ -39,7 +44,10 @@ class Course:
 					#gets discipline credits no.
 					cred = int(next(f).rstrip());
 				except StopIteration:
+					#this exception happens when I try to iterate through the end of the file
 					pass
+
+				#adds the new discipline
 				self.addDiscipline(name,desc,cred); 
 
 	def createEmbedding(self):
@@ -52,18 +60,15 @@ class Course:
 
 		self.embedding = wordEmbedding(text) 
 
-
 	def compare(self, course):
-		
 		result = self.embedding.compare(course.embedding)
-		
-		# print("Time to compare {0:.2f}s".format(end - begin))
-		
 		return result
 
-	def getCoreDisciplines(self,core):
+	# returns a list of disciplines
+	def getCoreDisciplines(self, core):
 		return self.cores[core]['disciplines'];
 
+	#returns a dictionary of {core_name: n_of_credits}
 	def getCoresCredits(self):
 		return {'Fundamentos de Computação'	 : self.cores['Fundamentos de Computação']['credits'], 
 			  		'Tecnologias de Computação'		 : self.cores['Tecnologias de Computação']['credits'], 

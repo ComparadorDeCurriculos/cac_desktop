@@ -172,11 +172,11 @@ class wordEmbedding:
 		#counting 
 		for word in words1:
 			for bow_word in bow:
-				if (word == bow_word) or wordEmbedding.wordNet.checkSynonym(bow_word, word):
+				if (word == bow_word) :#or wordEmbedding.wordNet.checkSynonym(bow_word, word):
 					embeddings[1][bow.index(word)] += 1;
 		for word in words2:
 			for bow_word in bow:
-				if (word == bow_word) or wordEmbedding.wordNet.checkSynonym(bow_word, word): 
+				if (word == bow_word) :#or wordEmbedding.wordNet.checkSynonym(bow_word, word): 
 					embeddings[2][bow.index(word)] += 1;
 
 		# print('{0:13} | {1:5} | {2:5}|'.format('Bag of Words',' doc1',' doc2'))
