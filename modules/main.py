@@ -22,4 +22,4 @@ if __name__ == '__main__':
 	# 	print();
 
 	#gera um grafico 
-	plt.plotBarNucleos('result.pdf',course1.getCoresCreditsList());
+	plt.plotBarCores('result.pdf',course1.getCoresCreditsList());

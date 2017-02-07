@@ -57,7 +57,8 @@ def plotBar(name,labels,values,title):
 
 	plt.savefig(name,bbox_inches='tight');
 
-def plotBarNucleos(name,values):
+#generates a bar graph with the SBC cores as labels
+def plotBarCores(name,values):
 	labels = ('Fundamentos\nde\nComputação\n',
 		'Tecnologias\nde\nComputação\n',
 		'Matemática\n',
