@@ -102,8 +102,8 @@ class wordEmbedding:
 	import Stemmer
 
 	#generates required stopList, open docs
-	stopList = stoplist('stoplist_portugues.txt');
-	wordNet = wordnet('base_tep2.txt');
+	stopList = stoplist('nucleos/stoplist_portugues.txt');
+	wordNet = wordnet('nucleos/base_tep2.txt');
 	stemmer = Stemmer.Stemmer('portuguese');
 
 	def __init__(self, text):

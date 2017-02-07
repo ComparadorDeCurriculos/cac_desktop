@@ -1,5 +1,4 @@
 from WordEmbedding import *
-from Core import *
 from Discipline import *
 
 class Course:

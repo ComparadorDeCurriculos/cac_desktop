@@ -4,7 +4,7 @@ import Discipline
 
 if __name__ == '__main__':
 
-	course1 = Course("BCC", "USP", "gradeBCC.txt")
+	course1 = Course("BCC", "USP", "cursos/gradeBCC.txt")
 
 	res = course1.getCoresCreditsDict()
 
