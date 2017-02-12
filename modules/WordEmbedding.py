@@ -98,17 +98,20 @@ class wordnet:
 
 
 class wordEmbedding:
-
+	
 	import Stemmer
 
 	#generates required stopList, open docs
 	stopList = stoplist('nucleos/stoplist_portugues.txt');
 	wordNet = wordnet('nucleos/base_tep2.txt');
 	stemmer = Stemmer.Stemmer('portuguese');
+	
+	def __init__(self, text):	
+		self.words = self.createBoW(text)
 
-	def __init__(self, text):
-		
+	def createBoW(self, text):
 		import string
+
 		#puts to lower case
 		text = text.lower();
 		#removing punctuation
@@ -120,16 +123,28 @@ class wordEmbedding:
 		#stemming text
 		stemmed_text = [];
 		for word in split_text:
-			stemmed_text.append(self.stemmer.stemWord(word));
+			stemmed_text.append(self.stemmer.stemWord(word))
 
 		# stemmed_text = split_text;
 		final_words = [];
-		#removing stopwords
+		#removing stopwords and removing duplicity of words 
 		for word in stemmed_text:
 			if(not wordEmbedding.stopList.check(word)):
-				final_words.append(word);
+				try:
+					final_words.index(word)
+				except:
+					final_words.append(word)
 
-		self.words = final_words;
+		return final_words
+
+	def appendBoW(self, text):
+		words = self.createBoW(text)
+
+		for w in words:
+			try: 
+				self.words.index(w)
+			except:
+				self.words.append(w)
 
 	def calculateCos(self,vec1,vec2):
 
