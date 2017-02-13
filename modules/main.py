@@ -17,9 +17,7 @@ if __name__ == '__main__':
 		res = course1.getCoreDisciplines(core)
 		for disc in res:
 			print('- {0}'.format(disc.name))
-		print()	 	
-
-	print('\n\n')'''
+		print()'''	
 	
 	#gera um grafico 
 	plt.plotBarCores('result.pdf', course1.getCoresCreditsDict());

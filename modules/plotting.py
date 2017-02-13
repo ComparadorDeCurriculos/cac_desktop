@@ -57,29 +57,30 @@ def plotBar(name,labels,values,title):
 
 	plt.savefig(name,bbox_inches='tight');
 
-#generates a bar graph with the SBC cores as labels
+# generates a bar graph with the SBC cores as labels
 def plotBarCores(name, dicti):
-	labels = [0, 1, 2, 3, 4, 5]
+	labels = ['Fundamentos\nde\nComputação\n', 
+			  'Tecnologias\nde\nComputação\n',
+			   'Matemática\n', 
+			   'Ciências\nBásicas', 
+			   'Eletrônica\n',
+			   'Contexto Social\ne\nProfissional\n']
 	values = [0, 1, 2, 3, 4, 5]
 
+	# Filling in list values
 	for core in dicti:
 		if (core == 'Fundamentos de Computação'):
-			labels[0] = 'Fundamentos\nde\nComputação\n'
-			values[0] = dicti[core]
+			i = 0
 		elif (core == 'Tecnologias de Computação'):
-			labels[1] = 'Tecnologias\nde\nComputação\n'
-			values[1] = dicti[core]
+			i = 1
 		elif (core == 'Matemática'):
-			labels[2] = 'Matemática\n'
-			values[2] = dicti[core]
+			i = 2
 		elif (core == 'Ciências Básicas'):
-			labels[3] = 'Ciências\nBásicas'
-			values[3] = dicti[core]
+			i = 3
 		elif (core == 'Eletrônica'):
-			labels[4] = 'Eletrônica\n'
-			values[4] = dicti[core]
+			i = 4
 		elif (core == 'Contexto Social e Profissional'):
-			labels[5] = 'Contexto Social\ne\nProfissional\n'
-			values[5] = dicti[core]
+			i = 5
+		values[i] = dicti[core]
 
 	plotBar(name, labels, values, title='Créditos por Núcleo')
