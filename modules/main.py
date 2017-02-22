@@ -12,12 +12,12 @@ if __name__ == '__main__':
 	#print()
 	
 	#### usa esse codigo pra printar as disciplinas de cada nucleo
-	'''for core in dp.Discipline.sbcCores:
-		print('{0} => {1}'.format(core, course1.cores[core].credtis))
+	for core in dp.Discipline.sbcCores:
+		print('{0} => {1}'.format(core, course1.cores[core].credits))
 		res = course1.getCoreDisciplines(core)
 		for disc in res:
 			print('- {0}'.format(disc.name))
-		print()'''	
+		print()
 	
 	#gera um grafico 
 	plt.plotBarCores('result.pdf', course1.getCoresCreditsDict());

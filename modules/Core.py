@@ -1,22 +1,23 @@
 from WordEmbedding import *
 
 class Core:
-	name = ""
+
+	'''name = ""
 	disciplines = []	# list of disciplines
-	credtis = 0
-	embedding = None
+	credits = 0
+	embedding = None'''
 
 	def __init__(self, name):
 		self.name = name
 		self.disciplines = []
-		self.credtis = 0
+		self.credits = 0
 		self.embedding = wordEmbedding('')
 
 	def addDiscipline(self, discipline):
 		# addding disciplines to the core
 		self.disciplines.append(discipline)
-		# adding credtis to the core
-		self.credtis += discipline.credtis
+		# adding credits to the core
+		self.credits += discipline.credits
 		# appending embedding of the core
 		self.embedding.appendBoW(discipline.name + ' ' + discipline.description)
 

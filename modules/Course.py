@@ -53,8 +53,8 @@ class Course:
 
 	#returns a dictionary of {core_name: n_of_credits}
 	def getCoresCreditsDict(self):
-		return {name : self.cores[name].credtis for name in self.cores}
+		return {name : self.cores[name].credits for name in self.cores}
 
 	#returns a list of [n_of_credits]
 	def getCoresCreditsList(self):
-		return [self.cores[name].credtis for name in self.cores]
+		return [self.cores[name].credits for name in self.cores]

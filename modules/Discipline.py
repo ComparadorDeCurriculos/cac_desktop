@@ -11,11 +11,11 @@ class Discipline:
 					 'Eletrônica'						: wordEmbedding(open('nucleos/eletronica.txt').read()),
 					 'Contexto Social e Profissional'	: wordEmbedding(open('nucleos/profissional.txt').read())})
 
-	def __init__(self, name, description, credtis):
+	def __init__(self, name, description, credits):
 		self.name = name
 		self.description = description
 		self.embedding = wordEmbedding(self.name + ' ' + self.description)
-		self.credtis = credtis
+		self.credits = credits
 		self.setDisciplineCore()
 
 		### teste para a disciplina Laboratório de Física Geral I ###
