@@ -154,21 +154,21 @@ class wordEmbedding:
 		
 		for i in range(len(vec1)):
 			num +=  vec1[i]*vec2[i];
-			den1 += vec1[i]**2;
-			den2 += vec2[i]**2;
+			den1 += vec1[i]**2
+			den2 += vec2[i]**2
 
 		den1 **= 0.5;
 		den2 **= 0.5;
 
-		res = num/(den1*den2);
+		res = num/(den1*den2)
 
 		return res;
 
 
 	def compare(self, other):
 		
-		words1 = self.words;
-		words2 = other.words;
+		words1 = self.words
+		words2 = other.words
 
 		#bag of words
 		bow = [];
@@ -176,11 +176,11 @@ class wordEmbedding:
 		#preparing bag of words
 		for word in words1:
 			if not (word in bow):
-				bow.append(word);
+				bow.append(word)
 
 		for word in words2:
 			if not (word in bow):
-				bow.append(word);
+				bow.append(word)
 
 		#bag of words ready, preparing embedding
 		embeddings = [bow,[0]*len(bow),[0]*len(bow)]
@@ -188,15 +188,14 @@ class wordEmbedding:
 		for word in words1:
 			for bow_word in bow:
 				if (word == bow_word) :#or wordEmbedding.wordNet.checkSynonym(bow_word, word):
-					embeddings[1][bow.index(word)] += 1;
+					embeddings[1][bow.index(word)] += 1
 		for word in words2:
 			for bow_word in bow:
 				if (word == bow_word) :#or wordEmbedding.wordNet.checkSynonym(bow_word, word): 
-					embeddings[2][bow.index(word)] += 1;
+					embeddings[2][bow.index(word)] += 1
 
 		# print('{0:13} | {1:5} | {2:5}|'.format('Bag of Words',' doc1',' doc2'))
 		# for j in range(0, len(bow)):
 		# 	print('{0:13} | {1:5d} | {2:5d}|'.format(embeddings[0][j], embeddings[1][j], embeddings[2][j]))
 
-		return self.calculateCos(embeddings[1],embeddings[2]);
-
+		return self.calculateCos(embeddings[1],embeddings[2])

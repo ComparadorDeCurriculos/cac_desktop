@@ -79,7 +79,7 @@ def plotBarCores(name, dicti):
 			i = 3
 		elif (core == 'Eletrônica'):
 			i = 4
-		elif (core == 'Contexto Social e Profissional'):
+		else:
 			i = 5
 		values[i] = dicti[core]
 
