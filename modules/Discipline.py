@@ -15,6 +15,7 @@ def getCoreDisciplines(path):
 				#gets discipline description
 				desc = next(f).rstrip();
 
+
 				disciplines.append((name,wordEmbedding(name + " " + desc)))
 			except:
 				pass
@@ -46,27 +47,16 @@ class Discipline:
 		winnerEmbedding = None
 		biggestScore = -1
 
-		if(self.name == 'Eletrônica para Computação'):
-			for cores in Discipline.sbcCores:
-				for coreDisciplines in Discipline.sbcCores[cores]:
-					name, emb = coreDisciplines
-					score = self.embedding.compare(emb)
-					# print (name,' ',score);
-					if(score > biggestScore):
-						winnerName = name;
-						biggestScore = score;
-						winnerCore = cores;
-						self.coreName = cores;
-						winnerEmbedding = emb;
-			# print("{0}: {1}({2})".format(self.name,winnerCore,score));
-			# print("doc1 = {0}, doc2 = {1}".format(self.name,winnerName));
-			# self.embedding.compare2(winnerEmbedding);
-		else:
-			for cores in Discipline.sbcCores:
-				for coreDisciplines in Discipline.sbcCores[cores]:
-					name, emb = coreDisciplines
-					score = self.embedding.compare(emb)
-					if(score > biggestScore):
-						biggestScore = score;
-						winnerCore = cores;
-						self.coreName = cores;
+		#for every SBC core:
+		for cores in Discipline.sbcCores:
+			#for every discipline in each core:
+			for coreDisciplines in Discipline.sbcCores[cores]:
+				#unzips the 'coreDiscipline' structure into a name and an embedding
+				name, emb = coreDisciplines
+
+				#calculate score and checks if it is the highest
+				score = self.embedding.compare(emb)
+				if(score > biggestScore):
+					biggestScore = score;
+					winnerCore = cores;
+					self.coreName = cores;
