@@ -1,2 +1,0 @@
-Física 
-Introdução - Movimento em 1D – Vetores; Movimento em 2D - Força e Movimento I (Leis de Newton) - Força e Movimento II (alguns exemplos de forças) - Trabalho e Energia. Conservação de Energia - Sistemas de Partículas. Colisões - Cinemática Rotacional -  Movimento de Rotação – Rolamento, Torque e Momento Angular I – Rolamento, Torque e Momento Angular II.

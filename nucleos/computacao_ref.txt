@@ -1,0 +1,170 @@
+{Eletrônica}
+Circuitos Eletrônicos 
+Propriedades Eletrônicas de Materiais. Semicondutores, Junções Semicondutoras e Diodos  Semicondutores. Transistores Bipolares e de Efeito de Campo. Circuitos Integrados  Lineares. Amplificadores Operacionais. Multivibradores e Osciladores.
+0
+{Fundamentos de Computação}
+Análise de Algoritmos
+Medidas de Complexidade, Análise Assintótica de Limites de Complexidade, Técnicas de Prova de Cotas Inferiores. Notação “Big O”, “Little o”, “Omega” e “Theta”. Medidas Empíricas de Performance. O Uso de Relações de Recorrência para Análise de Algoritmos Recursivos. Análise de Algoritmos Iterativos e Recursivos.
+0
+Algoritmos e Estruturas de Dados
+Metodologia de Desenvolvimento de Algoritmos. Tipos de Dados Básicos e Estruturados. Comandos de uma Linguagem de Programação. Recursividade: Conceito e Implementação. Modularidade e Abstração. Estratégias de Depuração. Cadeias e Processamento de Cadeias. Estruturas de Dados Lineares e suas Generalizações: Listas Ordenadas, Listas Encadeadas, Pilhas e Filas. Árvores e suas Generalizações: Árvores Binárias, Árvores de Busca e Árvores Balanceadas. Tabelas Hash. Algoritmos para Pesquisa e Ordenação. Algoritmos para “Garbage Collection”. Técnicas de Projeto de Algoritmos: Método da Força Bruta, Pesquisa Exaustiva, Algoritmo Guloso, Dividir e Conquistar, “Backtracking” e Heurísticas.
+0
+Arquitetura e Organização de Computadores
+Organização de Computadores: Memórias, Unidades Centrais de Processamento, Entrada e Saída. Linguagens de Montagem. Modos de Endereçamento, Conjunto de Instruções. 10 Mecanismos de Interrupção e de Exceção. Barramento, Comunicações, Interfaces e Periféricos. Organização de Memória. Memória Auxiliar. Arquiteturas RISC e CISC. Pipeline. Paralelismo de Baixa Granularidade. Processadores Superescalares e Superpipeline. Multiprocessadores. Multicomputadores. Arquiteturas Paralelas e não Convencionais.
+0
+Circuitos Digitais
+Sistemas de Numeração e Códigos. Aritmética Binária. Representação e Manipulação de Circuitos Combinatórios. Minimização e Otimização de Funções Combinatórias. Projeto de Circuitos Combinatórios. Análise e Síntese de Componentes Seqüenciais e de Memória. Projeto de Circuitos Seqüenciais. Modelo de Máquinas de Estado Finito (FSM). Circuitos Seqüenciais Síncronos e Assíncronos. Componentes de Armazenamento. Projeto de Sistemas Digitais: Hierárquico e Modular. Princípios e Técnicas de Projeto. Conceitos de Controle e de Tempo. Famílias Lógicas. Dispositivos Lógicos Programáveis (PLD) .
+0
+Fundamentos de Sistemas
+Origem e Conceito da Teoria Geral dos Sistemas. Conceitos de Sistema. Componentes e Relacionamentos de Sistema. Custo, Valor e Qualidade da Informação. Fundamentos e Classificação de Sistemas de Informação. Vantagem Competitiva da Informação. Sistemas de Informações Gerenciais e de Apoio à Decisão. Componentes de Sistemas de Informação. Métodos de Análise e Especificação de Requisitos de Sistemas de Informação.
+0
+Linguagens de Programação
+Conceitos. Paradigmas de linguagens de programação. Semântica formal. Teoria dos tipos: sistemas de tipos, polimorfismo. Verificação e inferência de tipos. Linguagens Formais, Autômatos e Computabilidade Gramáticas. Linguagens Regulares, Livres-de-Contexto e Sensíveis-ao-Contexto. Tipos de Reconhecedores. Operações com Linguagens. Propriedades das Linguagens. Autômatos de Estados Finitos Determinístico e não Deterministico. Autômatos de Pilha. Máquina de Turing. Hierarquia de Chomsky. Funções Recursivas. Tese de Church. Problemas Indecidíveis. Teorema da Incompletude de Godel. Classes de Problemas P, NP, NP Completo e NP-Difícil. Métodos de Redução de Problemas.
+0
+Organização de Arquivos e Dados
+Organização, Estrutura e Operação de Arquivos. Diretórios: Conteúdo e Estrutura. Arquivos do Sistema e Sistema de Arquivos Virtuais. Técnicas de Pesquisa. Dados e Metadados. Representação Digital e Analógica. Algoritmos de Codificação e Decodificação. Compressão de Dados, Áudio, Imagem e Vídeo.
+0
+Sistemas Operacionais
+Conceito de Processo. Gerência de Processos/Processador. Comunicação, Concorrência e Sincronização de Processos. Gerenciamento de Memória: Memória Virtual, Paginação, Segmentação e “Swap”. Gerenciamento de Arquivos. Gerenciamento de Dispositivos de Entrada/Saída. Alocação de Recursos.
+0
+Teoria dos Grafos
+Grafos orientados e não-orientados. Caminhos. Planaridade. Conectividade. Coloração. Grafos Infinitos. Algoritmos em grafos. Problemas intratáveis. Busca em Largura e Profundidade. Algoritmos do Menor Caminho. Árvore Geradora. Ordenação Topológica.
+0
+{Matemática}
+Álgebra Linear
+Sistemas de Equações Lineares:método de eliminação de Gauss para sistemas lineares. Espaços vetoriais. Subespaços. Bases. Somas Diretas. Introdução à Programação Linear.Transformações Lineares e Matrizes. Autovalores e Autovetores. Diagonalização. Espaçoscom Produto Interno. Bases Ortonormais. Projeções Ortogonais. Movimentos Rígidos.Método dos Mínimos Quadrados. Transformações em Espaços com Produto Interno. OTeorema da Representação para Funções Lineares. Adjunta de uma Transformação Linear.Operadores Simétricos, Unitários, Ortogonais e Normais. O Teorema Espectral. FormasCanônicas.
+0
+Análise Combinatória
+Distribuição. Permutações. Combinações. Funções Geradoras Ordinárias e Exponenciais. Princípio de Inclusão e Exclusão. Enumeração de Partições, Grafos, Árvores e Redes.Enumeração por Recursão. Permutações com Posições Restritas.
+0
+Cálculo Diferencial e Integral
+Limites de Funções e de Seqüências. Funções Reais de uma Variável: Continuidade e Diferenciabilidade. Máximos e Mínimos. Formula de Taylor e Aproximação de Funções. Método de Newton para o Cálculo de Raízes e de Máximos e Mínimos. Integração de Funções Reais de uma Variável. Métodos de Integração. Integração Aproximada. Regras dos Trapézios, de Simpson e Generalizadas. Funções de Várias Variáveis: Continuidade e Diferenciabilidade. Gradiente. Máximos e Mínimos. Multiplicadores de Lagrange. Transformações. Matrizes Jacobianas. Teorema da Função Inversa. Diferenciação Implícita. Integração de Funções de Várias Variáveis. Mudanças de Coordenadas em Integrais. Integral de Linha.
+0
+Equações Diferenciais
+Equações Diferenciais de Primeira Ordem e Segunda Ordem. Séries Numéricas e de Funções. Teoremas da Existência e Unicidade. Sistemas de Equações Diferenciais. Equações Diferenciais de Ordem n. Transformada de Fourier. Análise de Fourier Discreta. Transformada de Laplace e Transformada Z.
+0
+Geometria Analítica
+Matrizes. Sistemas de Equações Lineares. Vetores. Produtos: escalar, vetorial e misto. Álgebra Vetorial. Reta no plano e no espaço. Planos. Posições Relativas, Interseções, Distâncias e Ângulos. Círculo e Esfera. Coordenadas Polares, Cilíndricas e Esféricas.
+0
+Lógica Matemática
+Lógica Proposicional e de Predicados. Linguagem Proposicional e de Primeira Ordem. Sistemas Dedutivos. Tabelas Verdade e Estruturas de Primeira Ordem. Relações de Conseqüência. Corretude. Completude. Compacidade. Lowemhein-Skolem. Decidibilidade. Prova Automática de Teoremas. Lógicas não-clássicas.
+0
+Matemática Discreta
+Iteração, Indução e Recursão. Conjuntos e Álgebra de Conjuntos como uma Teoria Axiomática. Par Ordenado. Funções. Funções e Formas Booleanas, Álgebra Booleana, Minimização de Funções Booleanas. Relações sobre Conjuntos, Relações de Equivalência e Ordem. Reticulados, Monóides, Grupos, Anéis. Teoria dos Códigos, Canal Binário, Canal Simétrico, Código de Blocos, Matrizes Geradoras e Verificadoras, Códigos de Grupo, Códigos de Hamming. Teoria dos Domínios: Ordens Parciais Completas, Continuidade, Ponto Fixo, Domínios, Espaço das Funções.
+0
+Probabilidade e Estatística
+Eventos. Experimentos Aleatórios. Análise Exploratória de Dados. Descrição Estatística dos Dados. Espaços Amostrais. Probabilidades em Espaços Amostrais Discretos. Distribuições de Probabilidades de Variáveis Aleatórias Unidimensionais e Bidimensionais. Esperança Matemática. Variância e Coeficientes de Correlação. Aproximação Normal. Estimação Pontual e por Intervalo. Teste de Hipóteses para Médias. Testes do Qui-Quadrado. Testes de Comparações de Médias. Regressão e Correlação. Variáveis Complexas Números Complexos. Funções de uma Variável Complexa. Séries de Potência. Resíduos e Pólos.
+0
+{Contexto Social e Profissional}
+Administração
+Visão de Problemas e Ferramentas usadas no Processo Decisório do Departamento de O&M das organizações. Visão Sistêmica das Organizações.
+0
+Computadores e Sociedade
+Aspectos Sociais, Econômicos, Legais e Profissionais de Computação. Aspectos Estratégicos do Controle da Tecnologia. Mercado de Trabalho. Aplicações da Computação: Educação, Medicina, etc. Previsões de Evolução da Computação. Ética Profissional. Segurança. Privacidade. Direitos de Propriedade. Acesso não Autorizado. Códigos de Ética Profissional. Doenças Profissionais.
+0
+Comunicação e Expressão
+Desenvolvimento de Expressão Escrita. Português Técnico.
+0
+Contabilidade e Custos
+Noções e Tipos de Contabilidade. Funcionamento do Processo Contábil. Variações da Situação Líquida. Operações com Mercadoria. Balanços. Controle de Custos. Administração Financeira.
+0
+Direito e Legislação
+Noções de Legislação Trabalhista, Comercial e Fiscal. Tipos de Sociedades. Propriedade Industrial. Patentes e Direitos.
+0
+Economia
+Noções de Funcionamento de uma Economia Moderna do Ponto de Vista Global incluindo Relações Externas e Destacando as Dificuldades Estruturais de uma Economia Subdesenvolvida.
+0
+Empreendedorismo
+Estudo dos Mecanismos e Procedimentos para Criação de Empresas. Perfil do Empreendedor. Sistemas de Gerenciamento, Técnicas de Negociação. Qualidade e Competitividade. Marketing.
+0
+Estágio
+Estágio Profissional.
+0
+Filosofia
+O Ser Humano: Finalidade, Direito e Função. O pensamento Crítico: Verdade e Interpretação, Conhecimento e Ideologia. Totalidade da Razão: o Noético, o Ético e o Estético. O Conhecimento Científico. Eu: Autoconsciência e Autodeterminação. A Dialética dos Contrários e o Jurídico. A Importância da Lógica utilizada pelo Pesquisador para a Construção da Ciência.
+0
+Informática na Educação
+Histórico, Evolução e Tendências. Instrumentação Computacional do Ensino. Sistemas de Tutoria. Sistemas de Autoria. Ambientes de Aprendizagem. Ensino à Distância.
+0
+Inglês
+Estudo de Textos Específicos da Área de Computação Visando Compreensão. Aspectos Gramaticais e Morfológicos Pertinentes à Compreensão. Desenvolvimento e Ampliação das Estratégias de Leitura.
+0
+Métodos Quantitativos Aplicados à Administração de Empresas
+Métodos Quantitativos Aplicados a Recursos Humanos, Mercadologia, Produção e Finanças: Administração Salarial, Avaliação de Desempenho, Previsão de Vendas, Pesquisa de Mercado, Controle de Estoque, Controle de Qualidade, Planejamento e Controle de Produção, Contabilidade e Custos, Índices Financeiros, etc.
+0
+Sociologia
+Significado do Social. Estrutura da Sociedade. A Estratificação Social. O Estado e as Instituições Sociais. O Estado em suas Relações Econômicas. O Estado e os Movimentos Sociais. Processos de Socialização. As Relações entre Capital e Trabalho. As Fases do Capitalismo. A Sociedade Industrial. A Revolução Científica. A Nova Divisão do Trabalho. Modelos de Desenvolvimento. Automação e Desemprego Tecnológico.
+0
+Psicologia
+Psicologia das Relações Humana. A Personalidade e seus Componentes. O Individuo e o Grupo, Normas e Pressão de Conformidade, Preconceitos Estereótipos e Dinâmica Interna. Conflito e Tensão Interpessoal. Chefia e Liderança. Stress e Pressão no Trabalho. Relações Humanas e Manejo de Tensão. Feedback nas Relações Interpessoais. Perfil e Estilo de Atuação. Resolução Moderna de Conflitos.
+0
+{Tecnologias de Computação}
+Análise de Desempenho
+Processos Estocásticos. Técnicas de Aferição: “Benchmarking”, Prototipação e Monitoramento. Técnicas de Modelagem Analítica: Cadeias de Markov e Teoria de Filas. Técnicas de Modelagem por Simulação. Ferramentas.
+0
+Bancos de Dados
+Modelo de Dados. Modelagem e Projeto de Banco de Dados. Sistemas de Gerenciamento de Bancos de Dados (SGBD): Arquitetura, Segurança, Integridade, Concorrência, Recuperação após Falha, Gerenciamento de Transações. Linguagens de Consulta. Bancos de Dados Distribuídos. Mineração de Dados.
+0
+Circuitos Integrados
+Conceitos Básicos de Circuitos Integrados: Etapas de Projeto e Fabricação, Elementos de Circuitos. Estilos de Projeto (full-custom, standard-cell, gate-array, sea-of-gates, FPGA, etc.). Metodologias e Ferramenta de Projeto. Teste, Testabilidade, Projeto visando Testabilidade. Projeto VLSI. Linguagens de Descrição de Hardware. Simulação. Síntese Automática: Síntese Lógica, Síntese de Alto Nível. Conceitos sobre Desempenho de um Sistema de Computação. Organização de Micro-Circuitos. Bloco Operacional Simples e Múltiplo e Bloco de Controle Regular. Outras Organizações: Máquinas Sistólicas, Circuitos para DSP.
+0
+Compiladores
+Compiladores e Interpretadores. Análise Léxica e Sintática. Tabelas de Símbolos. Esquemas de Tradução. Ambientes de Tempo de Execução. Representação Intermediária. Análise Semântica. Geração de Código. Otimização de Código. Bibliotecas e Compilação em Separado.
+0
+Computação Gráfica
+Transformações Geométricas em Duas e Três Dimensões: Coordenadas Homogêneas e Matrizes de Transformação. Transformação entre Sistemas de Coordenadas 2D e Recorte. Transformações de Projeção Paralela e Perspectiva. Câmera Virtual. Transformação entre Sistemas de Coordenadas 3D. Definição de Objetos e Cenas Tridimensionais: Modelos Poliedrais e Malhas de Polígonos. O Processo de “Rendering”: Fontes de Luz, Remoção de Linhas e Superfícies Ocultas, Modelos de Tonalização (“Shading”). Aplicação de Texturas. O problema do Serrilhado (“Aliasing”) e Técnicas de Anti-Serrilhado (“Antialiasing”). Visualização.
+0
+Automação e Controle
+Sistemas Contínuos, Discretos e a Eventos Discretos. Sistemas em Malha Aberta e Fechada. Modelos e Técnicas de Modelagem. Técnicas de Análise de Desempenho de Sistemas. Controladores e Compensadores. Sensores, Transdutores e Atuadores. Sistemas de Aquisição de Dados, Monitoração e Controle. Controladores Programáveis. Simulação de Modelos de Sistemas. Intertravamento de Máquinas. Elementos e Sistemas de Automação Industrial (CNC, CLP, Máquinas, Manipuladores, Robôs Industriais, Transportadores, Inspeção e Medição). Ambiente de Manufatura Integrada por Computadores (CIM, CAE, CAD, CAM, Tecnologias de Movimentação, Tecnologia de Grupo).
+0
+Engenharia de Software
+Processo de Desenvolvimento de Software. Ciclo de Vida de Desenvolvimento de Software. Qualidade de Software. Técnicas de Planejamento e Gerenciamento de Software. Gerenciamento de Configuração de Software. Engenharia de Requisitos. Métodos de Análise e de Projeto de Software. Garantia de Qualidade de Software. Verificação, Validação e Teste. Manutenção. Documentação. Padrões de Desenvolvimento. Reuso. Engenharia Reversa. Reengenharia. Ambientes de Desenvolvimento de Software.
+0
+Inteligência Artificial
+Linguagens Simbólicas. Programação em Lógica. Resolução de Problemas como Busca. Estratégias de Busca, Busca Cega e Busca Heurística. Hill climbing, best first, simulated annealing e Algoritmo A*. Busca como Maximização de Função. Grafos And/Or. Esquemas para Representação do Conhecimento: Lógicos, em Rede, Estruturados, Prodedurais. Sistemas de Produção com Encadeamento para a Frente e Encadeamento para trás. Raciocínio Não-Monotônico. Formalismos para a Representação de Conhecimento Incerto. A Regra de Bayes. Conjuntos e Lógica Fuzzy. Aprendizado de Máquina. Aprendizado Indutivo. Árvores de Decisão, Redes Neurais e Algoritmos Genéticos. Sistemas Especialistas. Processamento de Linguagem Natural. Agentes Inteligentes. Robótica.
+0
+Interação Humano-Computador
+Fatores Humanos em Software Interativo: Teoria, Princípios e Regras Básicas. Estilos Interativos. Linguagens de Comandos. Manipulação Direta. Dispositivos de Interação. Padrões para Interface. Usabilidade: Definição e Métodos para Avaliação. Realidade Virtual: Natureza e Benefícios. Componentes: Gráficos e Sons. A Natureza da Iteração com o Usuário e Ambientes Virtuais.
+0
+Matemática Computacional
+Computação Simbólica. Matemática Intervalar. Cálculo Numérico. Sistemas de Equações Lineares. Equações Polinomiais e Transcendentes. Métodos de Interpolação Numérica. Diferenciação e Integração Numérica. Programação Matemática: Programação Linear, Formulação, Solução Gráfica e o Método Simplex. O Dual do Problema de Programação Linear. Teoremas de Dualidade. Programação Dinâmica. Programação Inteira. Programação não Linear: Métodos de Otimização sem Restrição. Minimização com Restrições Lineares. Função Penalidade. Otimização. Fluxo em Redes.
+0
+Métodos Formais
+Classes de Métodos Formais. Introdução e Aplicação de Métodos Formais: VDM, CSP, CCS, LOTOS, Z, OBJ. Redes de Petri.
+0
+Modelagem e Simulação
+Sistemas Contínuos, Discretos e a Eventos Discretos. Modelos e Técnicas de Modelagem de Sistemas. Mecanismo de Controle de Tempo. Modelos Estatísticos e Matemáticos. Análise dos Dados da Simulação. Linguagens de Programação.
+0
+Processamento Digital de Sinais
+Análise Espectral Digital. Transformada Discreta de Fourier (DFT).Algoritmos de DFT. Filtragem usando DFT e de Longas Seqüências de Dados. Amostragem. Transformações. Filtros Digitais. Sinais de Tempo Discreto. Funções Janela. Convolução. Processamento de Áudio.
+0
+Processamento de Imagens
+Introdução aos Filtros Digitais. Métodos de Espaço de Estados. Noções de Percepção Visual Humana. Amostragem e Quantização de Imagens. Transformadas de Imagens. Realce. Filtragem e Restauração. Reconstrução Tomográfica de Imagens. Codificação. Análise de Imagens e Noções de Visão Computacional. Reconhecimento de Padrões.
+0
+Programação Paralela
+Teoria do Paralelismo. Arquiteturas Paralelas. Primitivas Básicas de Programação Paralela: Controle de Tarefas, Comunicação e Sincronização. Conceitos Básicos de Avaliação de Desempenho e Complexidade de Programas Paralelos. Paralelização Automática. Vetorização. Algoritmos Clássicos de Programação Paralela.
+0
+Redes de Computadores
+Tipos de Enlace, Códigos, Modos e Meios de Transmissão. Protocolos e Serviços de Comunicação. Terminologia, Topologias, Modelos de Arquitetura e Aplicações. Especificação de Protocolos. Internet e Intranets. Interconexão de Redes. Redes de Banda Larga, ATM. Segurança e Autenticação. Avaliação de Desempenho.
+0
+Segurança e Auditoria de Sistemas
+Auditoria de Sistemas. Segurança de Sistemas. Metodologias de Auditoria. Análise de Riscos. Plano de Contingência. Técnicas de Avaliação. Aspectos Especiais: Vírus, Fraudes, Criptografia, Acesso não Autorizado.
+0
+Sistemas Digitais
+Alternativas Tecnológicas no Desenvolvimento de Sistemas: Circuitos Integrados para Aplicações Específicas (ASICs), Sistemas Baseados em Microprocessadores, Processadores para Aplicações Específicas (ASIPs), Microcontroladores, Dispositivos Lógicos Programáveis. Interfaces. Comunicação entre Sistemas. Concorrência e Paralelismo em Sistemas Digitais. Co-projeto de Hardware e Software: Formalismos, Metodologias, Ferramentas. Uso de Ferramentas de Software, Sistemas de Desenvolvimento, Prototipação Rápida.
+0
+Sistemas Distribuídos
+Problemas Básicos em Computação Distribuída: Coordenação e Sincronização de Processos, Exclusão Mútua, Difusão de Mensagens. Compartilhamento de Informação: Controle de Concorrência, Transações Distribuídas. Comunicação entre Processos. Tolerância a Falhas. Sistemas Operacionais Distribuídos: Sistemas de Arquivos, Servidores de Nomes, Memória Compartilhada, Segurança.
+0
+Sistemas Embarcados
+Engenharia de Requisitos para Sistemas Embarcados. Especificação, Análise e Modelos de Implementação. Seleção de Arquitetura. Reusabilidade de Componentes de Software e Hardware para Sistemas Embarcados. Desenvolvimento de Software em Camadas de Abstração. Introdução aos Componentes de Hardware Reconfiguráveis. Microcontroladores: Arquiteturas, Linguagens de Programação, Memória, Dispositivos de E/S, Programação, Temporizadores, Interrupção, Conversores Analógico/Digitais e Digital/Analógicos. Editores, Compiladores, Simuladores, Técnicas de Teste e Depuração, Escalonadores de Processos, Técnicas de escalonamento, Sistemas Operacionais de Tempo Real para Microcontroladores
+0
+Sistemas Multimídia
+Autoria: Plataformas para Multimídia. Ferramentas de Desenvolvimento. Áudio: Propriedades Físicas do Som. Representação Digital. Processamento e Síntese de Som. Imagens: Representação Digital, Dispositivos Gráficos, Processamento. Desenhos: Representação de Figuras. Vídeo: Interfaces, Processamento. Animação.
+0
+Tolerância a Falhas
+Segurança de Funcionamento. Aplicações de Tolerância a Falhas. Confiabilidade e Disponibilidade. Técnicas de Projeto. Tolerância a Falhas em Sistemas Distribuídos e Arquiteturas Paralelas. Arquitetura de Sistemas Tolerantes a Falhas.
+0
+Telecomunicações
+Princípios da Teoria da Informação: Codificação da Informação e sua Medida, Entropia de Código. Transmissão da Informação e Modelagem do Sistema de Transmissão, Maximização do Fluxo de Informação por um Canal. Transmissão Analógica e Digital. Princípios Básicos de Telefonia, Sistemas de Comutação. Técnicas de Modulação. Técnicas de Multiplexação. Comunicações sem Fio. Comunicação Ótica: Dispositivos e Sistemas.
+0

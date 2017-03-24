@@ -1,38 +1,53 @@
 from WordEmbedding import *
 import math
+import re
 
-def getCoreDisciplines(path):
-	disciplines = []
-	with open(path) as f:
-		for lines in f:
-			try:
-				#checks if line contains something
-				lines = lines.rstrip();
+#reads file in path and builds a SBCCores dictionary from it.
+#the file format should be:
+# 		{Core Name}
+#		Discipline Name
+#		Discipline description
+#		Discipline credits count
+#the {Core Name} should be used only when starting a new disciplines core list.
+#the discipline credits count is currently not being used 
+def buildSBCCoresDict(path):
+		disciplines = {}
+		currentCore = None;
+		with open(path) as f:
+			for lines in f:
+				try:
+					#checks if line contains something
+					lines = lines.rstrip();
 
-				#gets discipline name
-				name = lines;
+					#checks for the core delimiter ("{ }")
 
-				#gets discipline description
-				desc = next(f).rstrip();
+					result = re.match('{(.*?)}',lines)
+					if(result):
+						#if found text between '{}', creates a new core
+						currentCore = result.group(1);
+						disciplines[currentCore] = [];
+						lines = next(f).rstrip();
 
+					#gets discipline name
+					name = lines;
 
-				disciplines.append((name,wordEmbedding(name + " " + desc)))
-			except:
-				pass
+					#gets discipline description
+					desc = next(f).rstrip();
 
-	return disciplines
+					#gets next line; However, we do not need it.
+					next(f);
+
+					disciplines[currentCore].append((name,wordEmbedding(name + " " + desc)))
+				except:
+					pass
+
+		return disciplines
 
 class Discipline:
 
 	# static dictionary of sbc where the key is the name of the core and the value is the embedding
-	sbcCores = dict({'Fundamentos de Computação'		: getCoreDisciplines('nucleos/fundamentos.txt'),
-					 'Tecnologias de Computação'		: getCoreDisciplines('nucleos/tecnologias.txt'),
-					 'Matemática'						: getCoreDisciplines('nucleos/matematica.txt'),
-					 'Ciências Básicas'					: getCoreDisciplines('nucleos/ciencias.txt'),
-					 'Eletrônica'						: getCoreDisciplines('nucleos/eletronica.txt'),
-					 'Contexto Social e Profissional'	: getCoreDisciplines('nucleos/profissional.txt')})
 
-
+	sbcCores = buildSBCCoresDict('nucleos/computacao_ref.txt');
 
 	def __init__(self, name, description, credits):
 		self.name = name
