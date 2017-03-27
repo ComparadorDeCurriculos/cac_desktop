@@ -62,9 +62,10 @@ class Course:
 		currentCore = None
 
 		if reference is None:
-			#regular expression is needed for reference course construction
+			#regular expression is needed for building a reference course
 			import re
 		else:
+			#if a reference exists, creates cores with the same structure as the 
 			for core in reference.cores:
 				self.cores[core] = Core(core);
 

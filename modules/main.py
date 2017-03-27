@@ -1,6 +1,5 @@
 from course import Course
 import plotting as plt
-import Discipline as dp
 
 if __name__ == '__main__':
 
@@ -9,3 +8,4 @@ if __name__ == '__main__':
 
 	#gera um grafico 
 	plt.plotBarCores('result.pdf', icmc.getCoresCreditsDict());
+	plt.plotBarCores('result2.pdf', sbc.getCoresCreditsDict());
