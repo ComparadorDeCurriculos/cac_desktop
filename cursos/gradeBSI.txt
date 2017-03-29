@@ -1,12 +1,12 @@
 Matrizes, Vetores e Geometria Analítica
 Retas e Círculos no Plano. Vetores. Retas, Planos e Esferas no Espaço. Cônicas e Quádricas. Espaços Vetoriais e Transformações de coordenadas. Matrizes, Determinantes e Equações Lineares. Transformações Ortogonais e Rotações no Espaço.
-
+4
 Matemática Discreta
 Visão geral dos fundamentos de Matemática Discreta em Computação. Provas e Indução matemática. Teoria dos números: divisibilidade, primos, MDC e algoritmo de Euclides, congruências. Pequeno Teorema de Fermat, aplicações para a computação: algoritmo de criptografia RSA e geradores de números aleatórios. Lógica de predicados de primeira ordem. Conjuntos e funções. Tópicos adicionais de matemática discreta.
-
+2
 Introdução à Ciência de Computação I
 Conceitos básicos sobre computadores: hardware, software, sistema operacional, compiladores, representação interna de dados e linguagem de programação. Resolução de problemas e desenvolvimento de algoritmos: análise e solução de problemas, representação e documentação. Estruturas de programas: decisão e repetição. Tipos de dados simples. Modularização de programas: procedimentos, funções e passagem de parâmetros. Tipos de dados compostos: vetores, matrizes, cadeias de caracteres, registros, conjuntos e estruturas dinâmicas (ponteiros). Arquivos. Depuração de programas. Programação em linguagem estruturada.
-
+4
 Laboratório de Introdução à Ciência de Computação I
 Resolução de problemas e desenvolvimento de programas: análise e solução de problemas, representação e documentação. Estruturas de programas: decisão e repetição. Tipos de dados simples. Modularização de programas: procedimentos, funções e passagem de parâmetros. Tipos de dados compostos: vetores, matrizes, cadeias de caracteres, registros, conjuntos e estruturas dinâmicas (ponteiros). Arquivos. Depuração de programas. Programação em linguagem estruturada.
 

@@ -69,7 +69,7 @@ def plotBarCores(name, dicti):
 
 	# Filling in list values
 	for core in dicti:
-		if (core == 'Fundamentos de Computação'):
+		if   (core == 'Fundamentos de Computação'):
 			i = 0
 		elif (core == 'Tecnologias de Computação'):
 			i = 1
@@ -84,3 +84,86 @@ def plotBarCores(name, dicti):
 		values[i] = dicti[core]
 
 	plotBar(name, labels, values, title='Créditos por Núcleo')
+
+
+def plotVenn(course1, course2):
+	from matplotlib import pyplot as plt
+	from matplotlib_venn import venn2, venn2_circles
+
+	s = getSubsetSize(course1, course2)
+
+	v = venn2(subsets=s, set_labels=(course1.name, course2.name))
+
+	# Subset labels
+	v.get_label_by_id('10').set_text(s[0])
+	v.get_label_by_id('01').set_text(s[1])
+	v.get_label_by_id('11').set_text(s[2])
+
+	# Subset colors
+	v.get_patch_by_id('10').set_color('red')#993333
+	v.get_patch_by_id('01').set_color('blue')
+	v.get_patch_by_id('11').set_color('c')
+
+	# Subset alphas
+	v.get_patch_by_id('10').set_alpha(0.8)#0.4
+	v.get_patch_by_id('01').set_alpha(1.0)#1.0
+	v.get_patch_by_id('11').set_alpha(0.8)#0.7
+
+	# Border styles
+	c = venn2_circles(subsets=s, linestyle='solid')
+	c[0].set_ls('dashed')  # Line style
+	c[0].set_lw(2.0)       # Line width
+
+	plt.show()
+
+
+# return subset size (tuple) for plotting veen diagram
+def getSubsetSize(course1, course2):
+	equivalents = []
+	discEq = ()
+	a = 0	# unique disciplines of course 1
+	b = 0	# unique disciplines of course 2
+	ab = 0	# disciplines equivalent
+
+	# iterating on course 1 disciplines
+	for core in course1.cores:
+		for disc in course1.cores[core].disciplines:
+			score = 0
+			maxscore = 0
+			# iterating on course 2 disciplines
+			#a += 1 # counting number of disciplines in course 1
+			b = 0 
+			for core2 in course2.cores:
+				for disc2 in course2.cores[core2].disciplines:
+					b += 1 # counting number of disciplines in course 2
+					score = disc.embedding.compare(disc2.embedding)
+					if score > maxscore:
+						maxscore = score
+						discEq = (score, disc, disc2)
+
+			if maxscore >= 0.2:
+				ab += 1
+				equivalents.append(discEq)
+			else:
+				a += 1
+
+	b = b - ab
+
+	#ordenando
+	i = 0
+	while i < len(equivalents) :
+		k = i
+		maior = 0
+		while k < len(equivalents) :
+			if (equivalents[k][0] > maior) :
+				maior = equivalents[k][0]
+				temp = equivalents.pop(k)
+				equivalents.insert(i, temp)
+			k += 1
+		i += 1
+
+	#printando 
+	for eq in equivalents:
+		print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name))
+
+	return (a, b, ab)
