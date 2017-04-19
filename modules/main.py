@@ -9,3 +9,5 @@ if __name__ == '__main__':
 	#gera um grafico 
 	plt.plotBarCores('result.pdf', icmc.getCoresCreditsDict());
 	plt.plotBarCores('result2.pdf', sbc.getCoresCreditsDict());
+
+	icmc.printComparisson(icmc.compare(sbc, 0.15))
