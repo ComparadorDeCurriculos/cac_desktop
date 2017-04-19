@@ -57,6 +57,8 @@ def plotBar(name,labels,values,title):
 
 	plt.savefig(name,bbox_inches='tight');
 
+	plt.clf();
+
 # generates a bar graph with the SBC cores as labels
 def plotBarCores(name, dicti):
 	labels = ['Fundamentos\nde\nComputação\n', 
@@ -86,13 +88,13 @@ def plotBarCores(name, dicti):
 	plotBar(name, labels, values, title='Créditos por Núcleo')
 
 
-def plotVenn(course1, course2):
+def plotVenn(result, filename):
 	from matplotlib import pyplot as plt
 	from matplotlib_venn import venn2, venn2_circles
 
-	s = getSubsetSize(course1, course2)
+	s = (len(result[0]),len(result[1]),len(result[2]))
 
-	v = venn2(subsets=s, set_labels=(course1.name, course2.name))
+	v = venn2(subsets=s, set_labels=result[3]);
 
 	# Subset labels
 	v.get_label_by_id('10').set_text(s[0])
@@ -114,56 +116,4 @@ def plotVenn(course1, course2):
 	c[0].set_ls('dashed')  # Line style
 	c[0].set_lw(2.0)       # Line width
 
-	plt.show()
-
-
-# return subset size (tuple) for plotting veen diagram
-def getSubsetSize(course1, course2):
-	equivalents = []
-	discEq = ()
-	a = 0	# unique disciplines of course 1
-	b = 0	# unique disciplines of course 2
-	ab = 0	# disciplines equivalent
-
-	# iterating on course 1 disciplines
-	for core in course1.cores:
-		for disc in course1.cores[core].disciplines:
-			score = 0
-			maxscore = 0
-			# iterating on course 2 disciplines
-			#a += 1 # counting number of disciplines in course 1
-			b = 0 
-			for core2 in course2.cores:
-				for disc2 in course2.cores[core2].disciplines:
-					b += 1 # counting number of disciplines in course 2
-					score = disc.embedding.compare(disc2.embedding)
-					if score > maxscore:
-						maxscore = score
-						discEq = (score, disc, disc2)
-
-			if maxscore >= 0.2:
-				ab += 1
-				equivalents.append(discEq)
-			else:
-				a += 1
-
-	b = b - ab
-
-	#ordenando
-	i = 0
-	while i < len(equivalents) :
-		k = i
-		maior = 0
-		while k < len(equivalents) :
-			if (equivalents[k][0] > maior) :
-				maior = equivalents[k][0]
-				temp = equivalents.pop(k)
-				equivalents.insert(i, temp)
-			k += 1
-		i += 1
-
-	#printando 
-	for eq in equivalents:
-		print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name))
-
-	return (a, b, ab)
+	plt.savefig(filename)

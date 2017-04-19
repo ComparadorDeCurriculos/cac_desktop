@@ -120,6 +120,7 @@ class Course:
 		b = []	# unique disciplines of course
 		ab = []	# equivalent disciplines between self and course
 		eqs = []
+		names = (self.name + ' ' + self.university, course.name + ' ' + course.university)
 
 
 		# iterating on course 1 disciplines
@@ -151,7 +152,7 @@ class Course:
 				if disc not in eqs:
 					b.append(disc);
 
-		return (a, b, ab)
+		return (a, b, ab, names)
 
 
 	def printComparisson(self, result):
@@ -173,17 +174,6 @@ class Course:
 		#printando 
 		for eq in equivalents:
 			print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name))
-
-
-		print("========a========")
-
-		for disc in result[0]:
-			print(disc.name);
-
-		print("========b========")
-
-		for disc in result[1]:
-			print(disc.name);
 
 
 	# returns a list of disciplines

@@ -10,4 +10,4 @@ if __name__ == '__main__':
 	plt.plotBarCores('result.pdf', icmc.getCoresCreditsDict());
 	plt.plotBarCores('result2.pdf', sbc.getCoresCreditsDict());
 
-	icmc.printComparisson(icmc.compare(sbc, 0.15))
+	plt.plotVenn(icmc.compare(sbc, 0.15), "venn.pdf");
