@@ -113,6 +113,69 @@ class Course:
 				#inserts discipline in core
 				self.cores[discipline.core].addDiscipline(discipline)
 
+
+	def compare(self, course, threshold):
+
+		a = []	# unique disciplines of self
+		b = []	# unique disciplines of course
+		ab = []	# equivalent disciplines between self and course
+		eqs = []
+		names = (self.name + ' ' + self.university, course.name + ' ' + course.university)
+
+
+		# iterating on course 1 disciplines
+		for core in self.cores:
+			for disc in self.cores[core].disciplines:
+				score = 0
+				maxscore = 0
+				# iterating on course 2 disciplines
+				#a += 1 # counting number of disciplines in course 1
+				for core2 in course.cores:
+					for disc2 in course.cores[core2].disciplines:
+						# b += 1 # counting number of disciplines in course 2
+						score = disc.embedding.compare(disc2.embedding)
+						if score > maxscore:
+							maxscore = score
+							discEq = (score, disc, disc2)
+
+				if maxscore >= threshold:
+					#filling ab
+					ab.append(discEq)
+					eqs.append(discEq[2])
+				else:
+					#filling a
+					a.append(disc)
+
+		#filling b			
+		for core in course.cores:
+			for disc in course.cores[core].disciplines:
+				if disc not in eqs:
+					b.append(disc);
+
+		return (a, b, ab, names)
+
+
+	def printComparisson(self, result):
+
+		equivalents = result[2]
+		# ordenando
+		i = 0
+		while i < len(equivalents) :
+			k = i
+			maior = 0
+			while k < len(equivalents) :
+				if (equivalents[k][0] > maior) :
+					maior = equivalents[k][0]
+					temp = equivalents.pop(k)
+					equivalents.insert(i, temp)
+				k += 1
+			i += 1
+
+		#printando 
+		for eq in equivalents:
+			print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name))
+
+
 	# returns a list of disciplines
 	def getCoreDisciplines(self, coreName):
 		return self.cores[coreName].disciplines
