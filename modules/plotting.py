@@ -117,3 +117,52 @@ def plotVenn(result, filename):
 	c[0].set_lw(2.0)       # Line width
 
 	plt.savefig(filename)
+
+	plt.clf();
+
+def plotTextList(compResult):
+	from matplotlib import pyplot as plt
+
+	#finding bigger set of disciplines
+	nitens = 0;
+	for i in range(0,3):
+		if(len(compResult[i]) > nitens):
+			nitens = len(compResult[i]) 
+
+	for i in range(0,3):
+		if (i == 0):
+			ha = 'left'
+			ec = (1., 0.5, 0.5)
+			fc = (1., 0.8, 0.8)
+			x = 0.2
+		elif (i == 1):
+			ha = 'center'
+			ec = (0.5, 1., 0.5)
+			fc = (0.8, 1., 0.8)
+			x = 0.5
+		elif (i == 2):
+			ha = 'right'
+			ec = (0.5, 0.5, 1.)
+			fc = (0.8, 0.8, 1.)
+			x = 0.8
+
+		hspacing = 0.2
+
+		figheight = nitens*hspacing;
+
+		fig1 = plt.figure(1, (4/1.5, figheight/1.5))
+
+		fontsize = 0.3*14
+
+		for v, word in enumerate(compResult[i]):
+			if type(word) is tuple:
+				word = word[1]
+			fig1.text(x, (hspacing * (float(nitens) - v) - 0.5)/figheight, word, size=fontsize,
+			 ha='center', wrap=True,
+						bbox=dict(boxstyle="round",
+	                   				ec=ec,
+	                   				fc=fc,
+	                   		   ))
+
+	plt.savefig("testeee.pdf");
+	plt.clf();

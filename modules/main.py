@@ -7,7 +7,10 @@ if __name__ == '__main__':
 	icmc = Course("BCC", "ICMC", "cursos/gradeBCC.txt", sbc)
 
 	#gera um grafico 
-	plt.plotBarCores('result.pdf', icmc.getCoresCreditsDict());
-	plt.plotBarCores('result2.pdf', sbc.getCoresCreditsDict());
+	# plt.plotBarCores('result.pdf', icmc.getCoresCreditsDict());
+	# plt.plotBarCores('result2.pdf', sbc.getCoresCreditsDict());
 
-	plt.plotVenn(icmc.compare(sbc, 0.15), "venn.pdf");
+	# plt.plotVenn(icmc.compare(sbc, 0.15), "venn.pdf");
+
+	# print(icmc.compare(sbc, 0.15)[2]);
+	plt.plotTextList(icmc.compare(sbc, 0.15));
