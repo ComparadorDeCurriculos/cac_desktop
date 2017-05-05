@@ -51,7 +51,7 @@ def plotBar(name,labels,values,title):
 	autoLabel(ax,bars);
 
 	plt.title(title);
-	plt.xticks(index+(barWidth/2),labels,size='small');
+	plt.xticks(index,labels,size='small');
 
 	plt.tight_layout();
 
