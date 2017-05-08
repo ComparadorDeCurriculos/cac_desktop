@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # result file
-result.pdf
+*.pdf
