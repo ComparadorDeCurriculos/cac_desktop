@@ -1,3 +1,5 @@
+import sys
+
 def autoLabel(axis,rects):
 
 	for rect in rects:
@@ -117,3 +119,24 @@ def plotVenn(result, filename):
 	c[0].set_lw(2.0)       # Line width
 
 	plt.savefig(filename)
+
+	plt.clf()
+
+def printComparisson(result, file=sys.stdout):
+	equivalents = result[2]
+	# ordenando
+	i = 0
+	while i < len(equivalents) :
+		k = i
+		maior = 0
+		while k < len(equivalents) :
+			if (equivalents[k][0] > maior) :
+				maior = equivalents[k][0]
+				temp = equivalents.pop(k)
+				equivalents.insert(i, temp)
+			k += 1
+		i += 1
+
+	#printando 
+	for eq in equivalents:
+		print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name), file=file);
