@@ -171,28 +171,6 @@ class Course:
 
 		return (a, b, ab, names)
 
-
-	def printComparisson(self, result):
-
-		equivalents = result[2]
-		# ordenando
-		i = 0
-		while i < len(equivalents) :
-			k = i
-			maior = 0
-			while k < len(equivalents) :
-				if (equivalents[k][0] > maior) :
-					maior = equivalents[k][0]
-					temp = equivalents.pop(k)
-					equivalents.insert(i, temp)
-				k += 1
-			i += 1
-
-		#printando 
-		for eq in equivalents:
-			print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name))
-
-
 	# returns a list of disciplines
 	def getCoreDisciplines(self, coreName):
 		return self.cores[coreName].disciplines

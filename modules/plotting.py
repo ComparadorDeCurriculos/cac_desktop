@@ -1,3 +1,5 @@
+import sys
+
 def autoLabel(axis,rects):
 
 	for rect in rects:
@@ -51,7 +53,7 @@ def plotBar(name,labels,values,title):
 	autoLabel(ax,bars);
 
 	plt.title(title);
-	plt.xticks(index+(barWidth/2),labels,size='small');
+	plt.xticks(index,labels,size='small');
 
 	plt.tight_layout();
 
@@ -83,9 +85,10 @@ def plotBarCores(name, dicti):
 			i = 4
 		else:
 			i = 5
+
 		values[i] = dicti[core]
 
-	plotBar(name, labels, values, title='Créditos por Núcleo')
+	plotBar(name, labels, values, title='Créditos por Núcleo ' + name.split('_')[1])
 
 
 def plotVenn(result, filename):
@@ -117,10 +120,9 @@ def plotVenn(result, filename):
 	c[0].set_lw(2.0)       # Line width
 
 	plt.savefig(filename)
-
 	plt.clf();
 
-def plotTextList(compResult):
+def plotTextList(compResult, filename):
 	from matplotlib import pyplot as plt
 
 	#finding bigger set of disciplines
@@ -164,5 +166,52 @@ def plotTextList(compResult):
 	                   				fc=fc,
 	                   		   ))
 
-	plt.savefig("testeee.pdf");
-	plt.clf();
+	plt.savefig(filename);
+	plt.clf()
+
+def printComparisson(result, file=sys.stdout):
+
+	equivalents = result[2]
+	# ordenando
+	i = 0
+	while i < len(equivalents) :
+		k = i
+		maior = 0
+		while k < len(equivalents) :
+			if (equivalents[k][0] > maior) :
+				maior = equivalents[k][0]
+				temp = equivalents.pop(k)
+				equivalents.insert(i, temp)
+			k += 1
+		i += 1
+
+	#printando 
+	for eq in equivalents:
+		print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name), file=file)
+
+def dumpCompResult(result, path):
+	a_course_name = result[3][0].split(' ')[0]
+	b_course_name = result[3][1].split(' ')[0]
+	a_univ_name = result[3][0].split(' ')[1]
+	b_univ_name = result[3][1].split(' ')[1]
+
+	filename = path + a_course_name+"_"+a_univ_name+"_x_" + b_course_name+"_"+b_univ_name
+
+	Afile = open("A_"+filename+".txt",mode='w')
+	Bfile = open("B_"+filename+".txt",mode='w')
+	ABfile = open("AB_"+filename+".txt",mode='w')
+
+	#dumping A:
+	for discipline in result[0]:
+		print(discipline.name,file=Afile)
+
+	#dumping B:
+	for discipline in result[1]:
+		print(discipline.name,file=Bfile)
+
+	#dumping AB:
+	for discipline_tuple in result[2]:
+		print("{0} ; {1} ; [{2:.2%}]".format(discipline_tuple[1].name,
+											discipline_tuple[2].name,
+											discipline_tuple[0]), 
+											file=ABfile)
