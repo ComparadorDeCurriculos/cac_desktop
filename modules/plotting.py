@@ -85,9 +85,10 @@ def plotBarCores(name, dicti):
 			i = 4
 		else:
 			i = 5
+
 		values[i] = dicti[core]
 
-	plotBar(name, labels, values, title='Créditos por Núcleo')
+	plotBar(name, labels, values, title='Créditos por Núcleo ' + name.split('_')[1])
 
 
 def plotVenn(result, filename):
@@ -123,6 +124,7 @@ def plotVenn(result, filename):
 	plt.clf()
 
 def printComparisson(result, file=sys.stdout):
+
 	equivalents = result[2]
 	# ordenando
 	i = 0
@@ -139,4 +141,4 @@ def printComparisson(result, file=sys.stdout):
 
 	#printando 
 	for eq in equivalents:
-		print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name), file=file);
+		print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name), file=file)
