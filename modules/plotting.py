@@ -1,4 +1,7 @@
 import sys
+from matplotlib import pyplot as plt
+import numpy as np
+from matplotlib_venn import venn2, venn2_circles
 
 def autoLabel(axis,rects):
 
@@ -19,17 +22,7 @@ def autoLabel(axis,rects):
 			va='bottom',
 			color=clr);
 
-def plotBar(name,labels,values,title):
-
-	import matplotlib
-	#changes matplotlib backend to one that isn't interactive
-	#we don't need interactivity; we can just generate the image
-	matplotlib.use('Agg');
-	import matplotlib.pyplot as plt
-	import numpy as np
-
-	#removing borders
-	fig, ax = plt.subplots();
+def removePlotBorders(fig, ax):
 	ax.spines['top'].set_visible(False);
 	ax.spines['right'].set_visible(False);
 	ax.spines['left'].set_visible(False);
@@ -41,6 +34,13 @@ def plotBar(name,labels,values,title):
 		top='off');
 	plt.xticks([]);
 	plt.yticks([]);
+
+
+def plotBar(name,labels,values,title):
+
+	#removing borders
+	fig, ax = plt.subplots();
+	removePlotBorders(fig,ax);
 
 	barWidth = 0.7;
 	index = np.arange(len(values));
@@ -61,18 +61,40 @@ def plotBar(name,labels,values,title):
 
 	plt.clf();
 
-# generates a bar graph with the SBC cores as labels
-def plotBarCores(name, dicti):
-	labels = ['Fundamentos\nde\nComputação\n', 
-			  'Tecnologias\nde\nComputação\n',
-			   'Matemática\n', 
-			   'Ciências\nBásicas', 
-			   'Eletrônica\n',
-			   'Contexto Social\ne\nProfissional\n']
-	values = [0, 1, 2, 3, 4, 5]
+def plotTwoBar(name,labels,name1,name2,val1,val2,title):
 
-	# Filling in list values
-	for core in dicti:
+	fig, ax = plt.subplots();
+	removePlotBorders(fig,ax);
+
+	barWidth = 0.35;
+	index = np.arange(len(val1));
+
+	bars1 = ax.bar(index,val1,barWidth,
+		color='#0066cc',
+		label='BCC',
+		linewidth=0);
+	bars2 = ax.bar(index+barWidth,val2,barWidth,
+		color='#e8dd43',
+		label='BSI',
+		linewidth=0);
+
+	autoLabel(ax,bars1);
+	autoLabel(ax,bars2);
+
+	plt.xticks(index+(barWidth/2.0),labels,size='small');
+
+	plt.title(title);
+
+	ax.legend((bars1[0], bars2[0]),(name1,name2),frameon=False, title="Cursos")
+
+	plt.tight_layout();
+
+	plt.savefig(name,bbox_inches='tight');
+	plt.clf();
+
+def getCoresValues(cores):
+	values = [0,1,2,3,4,5]
+	for core in cores:
 		if   (core == 'Fundamentos de Computação'):
 			i = 0
 		elif (core == 'Tecnologias de Computação'):
@@ -85,86 +107,129 @@ def plotBarCores(name, dicti):
 			i = 4
 		else:
 			i = 5
+		values[i] = cores[core];
+	return values;
 
-		values[i] = dicti[core]
+# generates a bar graph with the SBC cores as labels
+def plotBarCores(filename, cores):
+	labels = ['Fundamentos\nde\nComputação\n', 
+			  'Tecnologias\nde\nComputação\n',
+			   'Matemática\n', 
+			   'Ciências\nBásicas', 
+			   'Eletrônica\n',
+			   'Contexto Social\ne\nProfissional\n']
 
-	plotBar(name, labels, values, title='Créditos por Núcleo ' + name.split('_')[1])
+	values = getCoresValues(cores)
 
+	plotBar(filename, labels, values, title='Créditos por Núcleo ' + filename.split('_')[1])
 
-def plotVenn(result, filename):
-	from matplotlib import pyplot as plt
-	from matplotlib_venn import venn2, venn2_circles
+def plot2BarCores(filename,name1,name2, dicti, dicti2):
+	labels = ['Fundamentos\nde\nComputação\n', 
+			  'Tecnologias\nde\nComputação\n',
+			   'Matemática\n', 
+			   'Ciências\nBásicas', 
+			   'Eletrônica\n',
+			   'Contexto Social\ne\nProfissional\n']
 
-	s = (len(result[0]),len(result[1]),len(result[2]))
+	val1 = getCoresValues(dicti);
+	val2 = getCoresValues(dicti2);
 
-	v = venn2(subsets=s, set_labels=result[3]);
+	plotTwoBar(filename, labels, name1, name2, val1, val2, title='Comparação\nCréditos-aula obrigatórios por Núcleo\n{0} x {1}'.format(name1,name2))
+
+def plotVenn():
+
+	plt.figure(figsize=(4,4))
+	# s = (len(result[0]),len(result[1]),len(result[2]))
+	s = (5,30,6)
+	v = venn2(subsets=s, set_labels=('A','B'), set_colors=['#e8dd43','#0066cc'], alpha=1.0);
+
+	# a = v.get_circles(0);
+	print(type(v.centers));
+	print(dir(v.centers))
+
+	# plt.draw()
+	plt.savefig("test.pdf");
+	# v..get_figure().text(-.5,-0.5,"test")
 
 	# Subset labels
-	v.get_label_by_id('10').set_text(s[0])
-	v.get_label_by_id('01').set_text(s[1])
-	v.get_label_by_id('11').set_text(s[2])
+	# v.get_label_by_id('10').set_text(s[0])
+	# v.get_label_by_id('01').set_text(s[1])
+	# v.get_label_by_id('11').set_text(s[2])
 
 	# Subset colors
-	v.get_patch_by_id('10').set_color('red')#993333
-	v.get_patch_by_id('01').set_color('blue')
-	v.get_patch_by_id('11').set_color('c')
+	# v.get_patch_by_id('10').set_color('#e8dd43')
+	# v.get_patch_by_id('01').set_color('#0066cc')
+	# v.get_patch_by_id('11').set_color('green')
 
 	# Subset alphas
-	v.get_patch_by_id('10').set_alpha(0.8)#0.4
-	v.get_patch_by_id('01').set_alpha(1.0)#1.0
-	v.get_patch_by_id('11').set_alpha(0.8)#0.7
-
+	# v.get_patch_by_id('10').set_alpha(1.0)#0.4
+	# v.get_patch_by_id('01').set_alpha(1.0)#1.0
+	# v.get_patch_by_id('11').set_alpha(0.7)#0.7
+	
 	# Border styles
-	c = venn2_circles(subsets=s, linestyle='solid')
-	c[0].set_ls('dashed')  # Line style
-	c[0].set_lw(2.0)       # Line width
+	# c = venn2_circles(subsets=s, linestyle='solid')
+	# c[0].set_ls('dashed')  # Line style
+	# c[0].set_lw(2.0)       # Line width
 
-	plt.savefig(filename)
-	plt.clf();
+	# return c
+
+	# return v
+	# plt.savefig(filename)
+	# plt.clf();
 
 def plotTextList(compResult, filename):
-	from matplotlib import pyplot as plt
 
-	#finding bigger set of disciplines
-	nitens = 0;
-	for i in range(0,3):
-		if(len(compResult[i]) > nitens):
-			nitens = len(compResult[i]) 
+	venn = plotVenn(compResult);
 
-	for i in range(0,3):
-		if (i == 0):
-			ha = 'left'
-			ec = (1., 0.5, 0.5)
-			fc = (1., 0.8, 0.8)
-			x = 0.2
-		elif (i == 1):
-			ha = 'center'
-			ec = (0.5, 1., 0.5)
-			fc = (0.8, 1., 0.8)
-			x = 0.5
-		elif (i == 2):
-			ha = 'right'
-			ec = (0.5, 0.5, 1.)
-			fc = (0.8, 0.8, 1.)
-			x = 0.8
+	# print(venn.set_labels[0].get_position())
+	# x, y = venn.set_labels[0].get_position()
+	# print(venn.get_circle_center(0));
 
-		hspacing = 0.2
+	# if venn is not None:
+	# 	radius = venn[0].radius
+	# else:
+	# 	radius = 0;
+	# #finding bigger set of disciplines
+	# nitens = 0;
+	# for i in range(0,3):
+	# 	if(len(compResult[i]) > nitens):
+	# 		nitens = len(compResult[i]) 
 
-		figheight = nitens*hspacing;
+	# for i in range(0,3):
+	# 	if (i == 0):
+	# 		ha = 'left'
+	# 		ec = (1., 0.5, 0.5)
+	# 		fc = (1., 0.8, 0.8)
+	# 		x = 0.2
+	# 	elif (i == 1):
+	# 		ha = 'center'
+	# 		ec = (0.5, 1., 0.5)
+	# 		fc = (0.8, 1., 0.8)
+	# 		x = 0.5
+	# 	elif (i == 2):
+	# 		ha = 'right'
+	# 		ec = (0.5, 0.5, 1.)
+	# 		fc = (0.8, 0.8, 1.)
+	# 		x = 0.8
 
-		fig1 = plt.figure(1, (4/1.5, figheight/1.5))
+	# 	hspacing = 0.2
 
-		fontsize = 0.3*14
+	# 	figheight = nitens*hspacing;
 
-		for v, word in enumerate(compResult[i]):
-			if type(word) is tuple:
-				word = word[1]
-			fig1.text(x, (hspacing * (float(nitens) - v) - 0.5)/figheight, word, size=fontsize,
-			 ha='center', wrap=True,
-						bbox=dict(boxstyle="round",
-	                   				ec=ec,
-	                   				fc=fc,
-	                   		   ))
+	# fig1 = plt.figure(1)
+	# fig1.text(0,y,"test", color="green")
+
+	# 	fontsize = 0.3*14
+
+	# 	for v, word in enumerate(compResult[i]):
+	# 		if type(word) is tuple:
+	# 			word = word[1]
+	# 		fig1.text(x, ((hspacing * (float(nitens) - v) - 0.5) + radius)/figheight, word, size=fontsize,
+	# 		 ha='center', wrap=True,
+	# 					bbox=dict(boxstyle="round",
+	#                    				ec=ec,
+	#                    				fc=fc,
+	#                    		   ))
 
 	plt.savefig(filename);
 	plt.clf()
@@ -190,6 +255,7 @@ def printComparisson(result, file=sys.stdout):
 		print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name), file=file)
 
 def dumpCompResult(result, path):
+
 	a_course_name = result[3][0].split(' ')[0]
 	b_course_name = result[3][1].split(' ')[0]
 	a_univ_name = result[3][0].split(' ')[1]
