@@ -40,7 +40,7 @@ def plotBar(name,labels,values,title):
 
 	#removing borders
 	fig, ax = plt.subplots();
-	removePlotBorders(fig,ax);
+	# removePlotBorders(fig,ax);
 
 	barWidth = 0.7;
 	index = np.arange(len(values));
@@ -64,7 +64,7 @@ def plotBar(name,labels,values,title):
 def plotTwoBar(name,labels,name1,name2,val1,val2,title):
 
 	fig, ax = plt.subplots();
-	removePlotBorders(fig,ax);
+	# removePlotBorders(fig,ax);
 
 	barWidth = 0.35;
 	index = np.arange(len(val1));
@@ -121,7 +121,7 @@ def plotBarCores(filename, cores):
 
 	values = getCoresValues(cores)
 
-	plotBar(filename, labels, values, title='Créditos por Núcleo ' + filename.split('_')[1])
+	plotBar(filename, labels, values, title='Créditos por Núcleo BCC ICMC')
 
 def plot2BarCores(filename,name1,name2, dicti, dicti2):
 	labels = ['Fundamentos\nde\nComputação\n', 
@@ -136,46 +136,46 @@ def plot2BarCores(filename,name1,name2, dicti, dicti2):
 
 	plotTwoBar(filename, labels, name1, name2, val1, val2, title='Comparação\nCréditos-aula obrigatórios por Núcleo\n{0} x {1}'.format(name1,name2))
 
-def plotVenn():
+def plotVenn(result, filename):
 
 	plt.figure(figsize=(4,4))
-	# s = (len(result[0]),len(result[1]),len(result[2]))
-	s = (5,30,6)
-	v = venn2(subsets=s, set_labels=('A','B'), set_colors=['#e8dd43','#0066cc'], alpha=1.0);
+	s = (len(result[0]),len(result[1]),len(result[2]))
+	# s = (5,30,6)
+	v = venn2(subsets=s, set_labels=(result[3][0],result[3][1]), set_colors=['#e8dd43','#0066cc'], alpha=1.0);
 
 	# a = v.get_circles(0);
-	print(type(v.centers));
-	print(dir(v.centers))
+	# print(type(v.centers));
+	# print(dir(v.centers))
 
 	# plt.draw()
-	plt.savefig("test.pdf");
+	# plt.savefig("test.pdf");
 	# v..get_figure().text(-.5,-0.5,"test")
 
 	# Subset labels
-	# v.get_label_by_id('10').set_text(s[0])
-	# v.get_label_by_id('01').set_text(s[1])
-	# v.get_label_by_id('11').set_text(s[2])
+	v.get_label_by_id('10').set_text(s[0])
+	v.get_label_by_id('01').set_text(s[1])
+	v.get_label_by_id('11').set_text(s[2])
 
 	# Subset colors
-	# v.get_patch_by_id('10').set_color('#e8dd43')
-	# v.get_patch_by_id('01').set_color('#0066cc')
-	# v.get_patch_by_id('11').set_color('green')
+	v.get_patch_by_id('10').set_color('#e8dd43')
+	v.get_patch_by_id('01').set_color('#0066cc')
+	v.get_patch_by_id('11').set_color('green')
 
 	# Subset alphas
-	# v.get_patch_by_id('10').set_alpha(1.0)#0.4
-	# v.get_patch_by_id('01').set_alpha(1.0)#1.0
-	# v.get_patch_by_id('11').set_alpha(0.7)#0.7
+	v.get_patch_by_id('10').set_alpha(1.0)#0.4
+	v.get_patch_by_id('01').set_alpha(1.0)#1.0
+	v.get_patch_by_id('11').set_alpha(0.7)#0.7
 	
 	# Border styles
-	# c = venn2_circles(subsets=s, linestyle='solid')
-	# c[0].set_ls('dashed')  # Line style
-	# c[0].set_lw(2.0)       # Line width
+	c = venn2_circles(subsets=s, linestyle='solid')
+	c[0].set_ls('dashed')  # Line style
+	c[0].set_lw(2.0)       # Line width
 
 	# return c
 
 	# return v
-	# plt.savefig(filename)
-	# plt.clf();
+	plt.savefig(filename)
+	plt.clf();
 
 def plotTextList(compResult, filename):
 
