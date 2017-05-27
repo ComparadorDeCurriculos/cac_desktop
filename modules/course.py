@@ -137,7 +137,7 @@ class Course:
 		b = []	# unique disciplines of course
 		ab = []	# equivalent disciplines between self and course
 		eqs = []
-		names = (self.name + ' ' + self.university, course.name + ' ' + course.university)
+		names = (self.university + ' ' + self.name, course.university + ' ' + course.name)
 
 
 		# iterating on course 1 disciplines
@@ -176,7 +176,7 @@ class Course:
 		return self.cores[coreName].disciplines
 
 	#returns a dictionary of {core_name: n_of_credits}
-	def getCoresCreditsDict(self):
+	def getDisciplineCount(self):
 		return {name : self.cores[name].credits for name in self.cores}
 
 	#returns a list of [n_of_credits]

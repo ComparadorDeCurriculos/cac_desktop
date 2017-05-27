@@ -3,6 +3,15 @@ from matplotlib import pyplot as plt
 import numpy as np
 from matplotlib_venn import venn2, venn2_circles
 
+def titleize(text, exceptions):
+    exceptions = exceptions.split()
+    text = text.split()
+    # Capitalize every word that is not on "exceptions" list
+    for i, word in enumerate(text):
+        text[i] = word.title() if word not in exceptions or i == 0 else word
+    # Capitalize first word no matter what
+    return ' '.join(text)
+
 def autoLabel(axis,rects):
 
 	for rect in rects:
@@ -36,7 +45,7 @@ def removePlotBorders(fig, ax):
 	plt.yticks([]);
 
 
-def plotBar(name,labels,values,title):
+def _plotOneBar(name,labels,values,title):
 
 	#removing borders
 	fig, ax = plt.subplots();
@@ -51,6 +60,8 @@ def plotBar(name,labels,values,title):
 		linewidth=0);
 
 	autoLabel(ax,bars);
+	plt.xlabel('Núcleos do curriculo de referência')
+	plt.ylabel('Créditos-Aula')
 
 	plt.title(title);
 	plt.xticks(index,labels,size='small');
@@ -61,7 +72,7 @@ def plotBar(name,labels,values,title):
 
 	plt.clf();
 
-def plotTwoBar(name,labels,name1,name2,val1,val2,title):
+def _plotTwoBar(name,labels,name1,name2,val1,val2,title):
 
 	fig, ax = plt.subplots();
 	# removePlotBorders(fig,ax);
@@ -70,16 +81,17 @@ def plotTwoBar(name,labels,name1,name2,val1,val2,title):
 	index = np.arange(len(val1));
 
 	bars1 = ax.bar(index,val1,barWidth,
-		color='#0066cc',
-		label='BCC',
+		color='red',
 		linewidth=0);
 	bars2 = ax.bar(index+barWidth,val2,barWidth,
-		color='#e8dd43',
-		label='BSI',
+		color='#0066cc',
 		linewidth=0);
 
 	autoLabel(ax,bars1);
 	autoLabel(ax,bars2);
+
+	plt.xlabel('Núcleos do curriculo de referência')
+	plt.ylabel('Créditos-Aula')
 
 	plt.xticks(index+(barWidth/2.0),labels,size='small');
 
@@ -92,64 +104,62 @@ def plotTwoBar(name,labels,name1,name2,val1,val2,title):
 	plt.savefig(name,bbox_inches='tight');
 	plt.clf();
 
-def getCoresValues(cores):
-	values = [0,1,2,3,4,5]
-	for core in cores:
-		if   (core == 'Fundamentos de Computação'):
-			i = 0
-		elif (core == 'Tecnologias de Computação'):
-			i = 1
-		elif (core == 'Matemática'):
-			i = 2
-		elif (core == 'Ciências Básicas'):
-			i = 3
-		elif (core == 'Eletrônica'):
-			i = 4
-		else:
-			i = 5
-		values[i] = cores[core];
-	return values;
+def setLabels(course):
+	#alphabetically sorts labels
+	oldlabels = []
+	for core in course.cores:
+		oldlabels.append(core);
+	values = course.getCoresCreditsList();
 
-# generates a bar graph with the SBC cores as labels
-def plotBarCores(filename, cores):
-	labels = ['Fundamentos\nde\nComputação\n', 
-			  'Tecnologias\nde\nComputação\n',
-			   'Matemática\n', 
-			   'Ciências\nBásicas', 
-			   'Eletrônica\n',
-			   'Contexto Social\ne\nProfissional\n']
+	oldlabels, values = zip(*sorted(zip(oldlabels, values)))
 
-	values = getCoresValues(cores)
+	labels = []
+	for label in oldlabels:
+		labels.append(label.replace(' ','\n'));
 
-	plotBar(filename, labels, values, title='Créditos por Núcleo BCC ICMC')
+	return (labels, values)
 
-def plot2BarCores(filename,name1,name2, dicti, dicti2):
-	labels = ['Fundamentos\nde\nComputação\n', 
-			  'Tecnologias\nde\nComputação\n',
-			   'Matemática\n', 
-			   'Ciências\nBásicas', 
-			   'Eletrônica\n',
-			   'Contexto Social\ne\nProfissional\n']
+def plotOneBar(course):
 
-	val1 = getCoresValues(dicti);
-	val2 = getCoresValues(dicti2);
+	#sets filename
+	filename = "results/" + course.university + "-" + course.name + ".png"
 
-	plotTwoBar(filename, labels, name1, name2, val1, val2, title='Comparação\nCréditos-aula obrigatórios por Núcleo\n{0} x {1}'.format(name1,name2))
+	name = course.university + ' ' + course.name
 
-def plotVenn(result, filename):
+	#alphabetically sorts x-axis labels
+	labels, values = setLabels(course)
 
-	plt.figure(figsize=(4,4))
+	_plotOneBar(filename, labels, values, title='Créditos-aula por Núcleo\n{0}'.format(name))
+
+def plotTwoBar(course1, course2):
+
+	#sets filename
+	filename = "results/" + course1.university + "-" + course1.name + '_' +  course2.university + '-' + course1.name + "_2bar.png"
+
+	name1 = course1.university + ' ' + course1.name
+	name2 = course2.university + ' ' + course2.name
+
+	#alphabetically sorts x-axis labels.
+	labels, val1 = setLabels(course1)
+	print(labels);
+	labels, val2 = setLabels(course2)
+	print(labels);
+
+	_plotTwoBar(filename, labels, name1, name2, val1, val2, title='Créditos-aula por Núcleo\n{0} x {1}'.format(name1,name2))
+
+def plotVenn(course1,course2):
+	"""plots a venn diagram with the result of a Course.compare()
+	
+	Args:
+	    result (tuple): return of a Course.compare() call
+	    filename (str): name of the resulting file
+	"""
+
+	filename = "results/" + course1.university + "-" + course1.name + '_' +  course2.university + '-' + course1.name + "_venn.png"
+	result = course1.compare(course2,0.2);
+
 	s = (len(result[0]),len(result[1]),len(result[2]))
-	# s = (5,30,6)
-	v = venn2(subsets=s, set_labels=(result[3][0],result[3][1]), set_colors=['#e8dd43','#0066cc'], alpha=1.0);
-
-	# a = v.get_circles(0);
-	# print(type(v.centers));
-	# print(dir(v.centers))
-
-	# plt.draw()
-	# plt.savefig("test.pdf");
-	# v..get_figure().text(-.5,-0.5,"test")
+	v = venn2(subsets=s, set_labels=(result[3][0],result[3][1]), set_colors=['red','#0066cc'], alpha=1.0);
 
 	# Subset labels
 	v.get_label_by_id('10').set_text(s[0])
@@ -157,9 +167,8 @@ def plotVenn(result, filename):
 	v.get_label_by_id('11').set_text(s[2])
 
 	# Subset colors
-	v.get_patch_by_id('10').set_color('#e8dd43')
-	v.get_patch_by_id('01').set_color('#0066cc')
-	v.get_patch_by_id('11').set_color('green')
+	v.get_patch_by_id('10').set_color('red')
+	v.get_patch_by_id('11').set_color('yellow')
 
 	# Subset alphas
 	v.get_patch_by_id('10').set_alpha(1.0)#0.4
@@ -168,71 +177,84 @@ def plotVenn(result, filename):
 	
 	# Border styles
 	c = venn2_circles(subsets=s, linestyle='solid')
-	c[0].set_ls('dashed')  # Line style
-	c[0].set_lw(2.0)       # Line width
 
-	# return c
+	plt.legend(v.patches, (v.set_labels[0].get_text(),v.set_labels[1].get_text()),frameon=False)
+	plt.title("Número de disciplinas equivalentes e únicas de cada curso");
 
-	# return v
+	plt.tight_layout();
+
 	plt.savefig(filename)
 	plt.clf();
 
-def plotTextList(compResult, filename):
+def plotTextList(course1,course2):
+	"""Plots a list with disciplines compared through Course.compare()
+	
+	Args:
+	    compResult (Tuple): the return of a Course.compare() call
+	    filename (str): the name of the resulting file
+	"""
+	filename = "results/" + course1.university + "-" + course1.name + '_' +  course2.university + '-' + course1.name + "_text.png"
+	compResult = course1.compare(course2,0.2);
 
-	venn = plotVenn(compResult);
+	#finding bigger set of disciplines 
+	nitens = 0; 
+	for i in range(0,3): 
+		if(len(compResult[i]) > nitens): 
+			nitens = len(compResult[i])  
 
-	# print(venn.set_labels[0].get_position())
-	# x, y = venn.set_labels[0].get_position()
-	# print(venn.get_circle_center(0));
+	# padding between boxes
+	hpad = 0.2
+	# starting position for boxes
+	hbegin = 0.07;
+	# height of the figure
+	figheight = ((nitens+4)*hpad)+hbegin;
+ 	# font size
+	fontsize = 0.35*14
 
-	# if venn is not None:
-	# 	radius = venn[0].radius
-	# else:
-	# 	radius = 0;
-	# #finding bigger set of disciplines
-	# nitens = 0;
-	# for i in range(0,3):
-	# 	if(len(compResult[i]) > nitens):
-	# 		nitens = len(compResult[i]) 
+	#setting the figure size
+	fig1 = plt.figure(1, (4/1.5, (figheight/1.5)))
 
-	# for i in range(0,3):
-	# 	if (i == 0):
-	# 		ha = 'left'
-	# 		ec = (1., 0.5, 0.5)
-	# 		fc = (1., 0.8, 0.8)
-	# 		x = 0.2
-	# 	elif (i == 1):
-	# 		ha = 'center'
-	# 		ec = (0.5, 1., 0.5)
-	# 		fc = (0.8, 1., 0.8)
-	# 		x = 0.5
-	# 	elif (i == 2):
-	# 		ha = 'right'
-	# 		ec = (0.5, 0.5, 1.)
-	# 		fc = (0.8, 0.8, 1.)
-	# 		x = 0.8
+	#plot title
+	fig1.text(0.5, 0.97,
+		"Lista de disciplinas equivalentes e únicas entre os cursos",
+		 size=fontsize*2, ha='center') 
+	
+	#for each subset (Ab, aB, AB), plots its disciplines
+	for subset in range(0,3): 
+		# Setting the correct 
+		if (subset == 0): 
+			courseName = compResult[3][0]
+			ec = '#c62828'
+			fc = 'red'
+			x = 0.2 
+		elif (subset == 2): 
+			courseName = "Equivalentes"
+			ec = '#c49000'
+			fc = 'yellow'
+			x = 0.5 
+		elif (subset == 1): 
+			courseName = compResult[3][1]
+			ec = '#283593'
+			fc = '#0066cc'
+			x = 0.8 
 
-	# 	hspacing = 0.2
+		# plots the name of the course over the list of disciplines
+		fig1.text(x, 0.93, courseName, size=fontsize*1.5, ha='center', wrap=True)
 
-	# 	figheight = nitens*hspacing;
+		for v, discipline in enumerate(compResult[subset]):
+			# When fetching discipline name for the AB subset, the 'discipline' will be a tuple with two disciplines
+			if type(discipline) is tuple: 
+				discipline = discipline[1]
 
-	# fig1 = plt.figure(1)
-	# fig1.text(0,y,"test", color="green")
+			# Use titleized case on text (This is an Example)
+			usedWord = titleize(discipline.name.lower(),"à em de da a e")
 
-	# 	fontsize = 0.3*14
+			y = ((hpad * (nitens - v))/figheight)
+			# plots each discipline
+			fig1.text(x, y, usedWord, size=fontsize, ha='center', wrap=True, bbox=dict(boxstyle="round",fc=fc, ec=ec, alpha=0.6))
 
-	# 	for v, word in enumerate(compResult[i]):
-	# 		if type(word) is tuple:
-	# 			word = word[1]
-	# 		fig1.text(x, ((hspacing * (float(nitens) - v) - 0.5) + radius)/figheight, word, size=fontsize,
-	# 		 ha='center', wrap=True,
-	# 					bbox=dict(boxstyle="round",
-	#                    				ec=ec,
-	#                    				fc=fc,
-	#                    		   ))
-
-	plt.savefig(filename);
-	plt.clf()
+	plt.savefig(filename, dpi=200)
+	plt.clf();
 
 def printComparisson(result, file=sys.stdout):
 

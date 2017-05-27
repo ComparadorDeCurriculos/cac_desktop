@@ -1,7 +1,7 @@
 
 all:
+	@mkdir results -p
 	@python modules/main.py 
-	@# @evince icmc_bccXime_list.pdf &
 clear:
 	rm *.pdf  -f
 	rm *X*.txt -f
