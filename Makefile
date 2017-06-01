@@ -1,4 +1,8 @@
 all:
-	python3 modules/main.py 
+	@mkdir results -p
+	@python modules/main.py 
 clear:
-	rm result.pdf -f
+	rm *.pdf  -f
+	rm *X*.txt -f
+	rm bar*.pdf -f
+	rm A*.txt B*.txt -f

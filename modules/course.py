@@ -26,6 +26,12 @@ class Discipline:
 		self.credits = credits
 		self.core = core
 
+	def __str__(self):
+		return self.name;
+
+	def __repr__(self):
+		return self.name;
+
 	def classifyCore(self,reference):
 
 		winnerCore = ''
@@ -113,14 +119,25 @@ class Course:
 				#inserts discipline in core
 				self.cores[discipline.core].addDiscipline(discipline)
 
-
 	def compare(self, course, threshold):
-
+		"""Compares two courses, generating lists with similar and non similar courses
+		
+		Args:
+		    course (Course): the course to be compared with self
+		    threshold (float): a percentage (from 0 to 1) to be used as similarity threshold 
+		
+		Returns:
+		    tuple: (a,b,ab,names), with:
+		    		a = list with unique disciplines of SELF
+		    		b = list with unique disciplines of course
+		    		ab = list with similar disciplines between a and b
+		    		names = tuple with the names of a and b courses
+		"""
 		a = []	# unique disciplines of self
 		b = []	# unique disciplines of course
 		ab = []	# equivalent disciplines between self and course
 		eqs = []
-		names = (self.name + ' ' + self.university, course.name + ' ' + course.university)
+		names = (self.university + ' ' + self.name, course.university + ' ' + course.name)
 
 
 		# iterating on course 1 disciplines
@@ -154,34 +171,12 @@ class Course:
 
 		return (a, b, ab, names)
 
-
-	def printComparisson(self, result):
-
-		equivalents = result[2]
-		# ordenando
-		i = 0
-		while i < len(equivalents) :
-			k = i
-			maior = 0
-			while k < len(equivalents) :
-				if (equivalents[k][0] > maior) :
-					maior = equivalents[k][0]
-					temp = equivalents.pop(k)
-					equivalents.insert(i, temp)
-				k += 1
-			i += 1
-
-		#printando 
-		for eq in equivalents:
-			print('{0:.2f} => {1} <-> {2}'.format(eq[0], eq[1].name, eq[2].name))
-
-
 	# returns a list of disciplines
 	def getCoreDisciplines(self, coreName):
 		return self.cores[coreName].disciplines
 
 	#returns a dictionary of {core_name: n_of_credits}
-	def getCoresCreditsDict(self):
+	def getDisciplineCount(self):
 		return {name : self.cores[name].credits for name in self.cores}
 
 	#returns a list of [n_of_credits]
