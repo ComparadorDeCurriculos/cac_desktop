@@ -179,7 +179,7 @@ def plotVenn(course1,course2):
 	c = venn2_circles(subsets=s, linestyle='solid')
 
 	plt.legend(v.patches, (v.set_labels[0].get_text(),v.set_labels[1].get_text()),frameon=False)
-	plt.title("Número de disciplinas equivalentes e únicas de cada curso");
+	plt.title("Número de disciplinas equivalentes\n" + course1.university + " " + course1.name + " X " + course2.university + " " + course2.name);
 
 	plt.tight_layout();
 
