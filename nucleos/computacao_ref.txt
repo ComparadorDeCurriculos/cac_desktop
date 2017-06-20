@@ -6,7 +6,7 @@ Introdução - Movimento em 1D – Vetores; Movimento em 2D - Força e Movimento
 Circuitos Eletrônicos 
 Propriedades Eletrônicas de Materiais. Semicondutores, Junções Semicondutoras e Diodos  Semicondutores. Transistores Bipolares e de Efeito de Campo. Circuitos Integrados  Lineares. Amplificadores Operacionais. Multivibradores e Osciladores.
 0
-{Fundamentos de Computação}
+{Fundamentos da Computação}
 Análise de Algoritmos
 Medidas de Complexidade, Análise Assintótica de Limites de Complexidade, Técnicas de Prova de Cotas Inferiores. Notação “Big O”, “Little o”, “Omega” e “Theta”. Medidas Empíricas de Performance. O Uso de Relações de Recorrência para Análise de Algoritmos Recursivos. Análise de Algoritmos Iterativos e Recursivos.
 0
@@ -102,7 +102,7 @@ Significado do Social. Estrutura da Sociedade. A Estratificação Social. O Esta
 Psicologia
 Psicologia das Relações Humana. A Personalidade e seus Componentes. O Individuo e o Grupo, Normas e Pressão de Conformidade, Preconceitos Estereótipos e Dinâmica Interna. Conflito e Tensão Interpessoal. Chefia e Liderança. Stress e Pressão no Trabalho. Relações Humanas e Manejo de Tensão. Feedback nas Relações Interpessoais. Perfil e Estilo de Atuação. Resolução Moderna de Conflitos.
 0
-{Tecnologias de Computação}
+{Tecnologia da Computação}
 Análise de Desempenho
 Processos Estocásticos. Técnicas de Aferição: “Benchmarking”, Prototipação e Monitoramento. Técnicas de Modelagem Analítica: Cadeias de Markov e Teoria de Filas. Técnicas de Modelagem por Simulação. Ferramentas.
 0
