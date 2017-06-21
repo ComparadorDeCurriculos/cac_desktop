@@ -11,7 +11,7 @@ if __name__ == '__main__':
 	folderOut = 'comparison/'
 	filesList = listdir(path='cursos')
 	instList = []
-	courseList = ['BCC', 'BSI', 'ENG']
+	courseList = ['BCC', 'BSI', 'Eng. Comp.']
 	instProc = []
 
 	# removendo arquivos antigos
@@ -62,6 +62,10 @@ if __name__ == '__main__':
 					spamwriter.writerow(list(course1.getDisciplineCount())) # núcles
 					spamwriter.writerow(list(course1.getDisciplineCount().values()))	# créditos
 					spamwriter.writerow(list(course2.getDisciplineCount().values()))	# créditos
+
+				# Gerando imagem do gráfico de venn
+				plt.plotVenn(course1, course2);
+		
 		# insera a instituição na lista das processadas para que não haja arquivos duplicados
 		instProc.append(i1)
 

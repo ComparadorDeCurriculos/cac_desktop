@@ -155,7 +155,7 @@ def plotVenn(course1,course2):
 	    filename (str): name of the resulting file
 	"""
 
-	filename = "results/" + course1.university + "-" + course1.name + '_' +  course2.university + '-' + course1.name + "_venn.png"
+	filename = "comparison/venn-" + course1.university + "_" + course1.name + '-' +  course2.university + '_' + course2.name + ".png"
 	result = course1.compare(course2,0.2);
 
 	s = (len(result[0]),len(result[1]),len(result[2]))

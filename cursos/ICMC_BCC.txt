@@ -1,4 +1,4 @@
-Informação Profissional em Ciências da Computação 	
+Informação Profissional em Ciências da Computação
 Disciplina de caráter informativo tratando de assuntos relativos ao desenvolvimento histórico da ciência da computação e suas conseqüências tecnológicas, sociais e econômicas. Descobertas e invenções que representaram saltos tecnológicos. Currículo e estruturas obrigatórias e opcionais do Curso de Bacharelado em Ciência da Computação. Os temas serão desenvolvidos em seminários e/ou palestras.
 1
 Introdução à Ciência de Computação I
