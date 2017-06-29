@@ -1,6 +1,6 @@
 all:
 	@mkdir results -p
-	@python3.5 modules/main.py 
+	@python modules/main.py 
 clear:
 	rm *.pdf  -f
 	rm *X*.txt -f

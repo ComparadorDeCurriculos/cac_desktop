@@ -1,0 +1,117 @@
+Circuitos e Técnicas Digitais
+Simulação e medidas elétricas de portas CMOS: tensões, correntes, atraso, minimização e mapeamento. Circuitos combinacionais (codificador, decodificador, somador,multiplicador, barrel shifter, unidade lógica e aritmética). Elementos de interconexão (multiplexador, barramento tri- state) e de armazenamento (latch, flip-flop, registrador, célulade memória). Relógio e temporização. Circuitos seqüenciais: registrador de deslocamento e contador. Memórias (DRAM, SRAM, ROM, FLASH). Arranjos lógicos (PAL, PLA,FPGA).
+5
+Introdução à Computação
+Uso versus funcionamento interno de computadores. Organização de Computadores. Teoria da Computação. Linguagem de Computador. Sistemas Operacionais. Redes deComputadores. Sistemas Distribuídos. Engenharia de Software. Matemática na Computação. Tecnologias da informação: Bancos de Dados, Computação Gráfica, Segurança,Inteligência Artificial. Computação e Ética.
+2
+Programação Orientada a Objetos I 
+Algoritmo. Programação de computador. Resolução de problemas usando computador. Linguagem de Programação. Elementos de programação imperativa: variáveis simples,coleções uni e n dimensionais; tipos das variáveis; comandos; procedimentos e funções. Conceitos fundamentais do paradigma de Programação Orientada a Objetos: objeto,atributo, método, classe. Prática de programação usando alguma linguagem de programação orientada a objetos.
+6
+Fundamentos de Matemática Discreta para Computação
+Conjuntos, Seqüências e Somas. Lógica Proposicional, Lógica de Primeira Ordem, Lógica Matemática (Prova de Teoremas), Indução e Recursão. Análise Combinatória: Permutações e Combinações, O Princípio do Pombal, Relações de Recorrência. Relações: Propriedades de Relações, Relações de Equivalência, Fecho de Relações. Funções: Definição e Tipos. Composição de Funções, Crescimento de Funções. Relações de Ordenamento: Reticulados, Álgebras Booleanas. Estruturas Algébricas: Semigrupos e Grupos. Elementos de Teoria de Números. Aplicações da Matemática Discreta.
+6
+Calculo A
+Funções reais de variável real. Funções elementares. Noções sobre limite e continuidade. A derivada. Aplicações da derivada. Integral definida e indefinida.
+4
+Programação Orientada a Objetos II
+Herança. Polimorfismo. Reusabilidade de software. Componentes. Criação e uso de bibliotecas de classes. Padrões de projeto. Interface Gráfica com o Usuário. Exceções. Relacionamentos entre classes: agregação, composição e especialização. Persistência de dados e de objetos. Prática de programação com alguma linguagem de programação orientada a objetos.
+6
+Probabilidade e Estatística
+Análise combinatória. Planejamento de uma pesquisa. Análise exploratória de dados. Probabilidade. Variáveis aleatórias discretas e contínuas. Principais modelos teóricos. Estimação de parâmetros. Testes de hipóteses.
+5
+Sistemas Digitais
+Máquinas seqüenciais síncronas (Mealy e Moore) e sua representação (diagramas de transição e descrição em HDL). Síntese de circuitos seqüenciais (minimização e codificação de estados). Mapeamento e alternativas de implementação de máquinas de estado ("hardwired", PLA, ROM e PLD). Estudos de casos: controladores de memória, de interrupção, de DMA. Simulação de sistemas digitais descritos em HDL no nível de transferência entre registradores. CPU vista como um sistema digital (datapath e unidade de controle). Unidade de controle de uma CPU simples ("hardwired" e microprogramada).
+5
+Ciência, Tecnologia e Sociedade
+Estudo das relações entre ciência, tecnologia e sociedade ao longo da história, com ênfase na atualidade; filosofia da ciência; análise de valores e ideologias envolvendo a produção e divulgação da ciência e da tecnologia; influências das diferenças culturais nas concepções de ciência e tecnologia e de suas relações com as sociedades; a participação da sociedade na definição de políticas relativas às questões científicas, tecnológicas, econômicas e ecológicas. O impacto da informática na sociedade.
+3
+Geometria Analítica
+Matrizes.  Determinantes.  Sistemas  lineares.  Álgebra  vetorial.  Estudo  da  reta  e  do  plano.  Curvas  planas.  Superfícies.
+4
+Cálculo B para Computação
+Aplicações da integral definida. Integrais impróprias. Funções de várias variáveis. Derivadas parciais. Séries de números reais. Séries de funções. Avaliação de funções: série de Taylor e Maclaurin.
+4
+Estruturas de Dados
+Alocação dinâmica de memória. Variáveis estáticas e dinâmicas. Estruturas lineares. Tabelas de Espalhamento. Árvores. Árvores de Pesquisa. Métodos de ordenação. Métodos de acesso a arquivos. Técnicas de implementações iterativas e recursivas de estruturas de dados. Complexidade dos algoritmos em estruturas de dados.
+6
+Cálculo Numérico para Computação
+Máquinas digitais: precisão, exatidão e erros. Aritmética de ponto flutuante. Sistemas de enumeração. Sistemas lineares. Resolução computacional de sistemas de equações lineares. Resolução de equações transcendentes. Aproximação de funções: interpolação spline, ajustamento de curvas, aproximação racional e por polinômios de Chebyschev. Integração numérica: Newton-Cotes e quadratura Gaussiana.
+4
+Programação Concorrente
+Multiprogramação. Multitarefa. Execução concorrente. Recursos compartilhados e exclusão mútua. Regiões críticas. Coordenação de processos e threads. Semáforos. Monitores. Troca de mensagem. Programação concorrente orientada a objeto. Deadlock. Modelos de computação concorrente.
+4
+Organização de Computadores I
+Tendências tecnológicas na fabricação de CPUs e memórias. CPU: instruções e modos de endereçamento. Formatos de instruções e linguagem de montagem. Simulador e montador. Aritmética. Avaliação de desempenho. Datapath e unidade de controle. Alternativas de implementação (monociclo, multiciclo, pipeline, superescalar). Exceções e interrupções. Hazards estruturais, de dados e de controle. Hierarquia de memória e associatividade (cache e TLB). Dispositivos de entrada e saída: tipos, características e sua conexão à CPU e à memória. Comunicação com a CPU (polling, interrupção, DMA). 
+6
+Álgebra Linear
+Espaço vetorial. Transformações lineares. Mudança de base. Produto interno. Transformações ortogonais. Autovalores e autovetores de um operador. Diagonalização. Aplicação da Álgebra linear às ciências.
+4
+Sistemas Operacionais I
+Programação de Sistemas. Histórico de Sistemas Operacionais. Arquitetura de Sistemas Operacionais. Funcionalidades de Sistemas Operacionais. Gerência de Processos e Threads: Controle e Escalonamento. Impasses: Modelagem e Tratamento. Memória: Alocação, Gerência e Memória Virtual. Entrada e Saída: princípios de hardware e software, dispositivos periféricos. Sistema de Arquivos: Arquivos, Diretórios e Implementação. Proteção e Segurança. Sistemas com Múltiplos Processadores.
+4
+Grafos
+Grafos e grafos orientados. Representação de problemas com grafos. Caminhos, ciclos e caminho de custo mínimo. Conexidade e alcançabilidade. Árvores e árvore de custo mínimo. Coloração e planaridade de grafos. Grafos hamiltonianos e eulerianos. Fluxo máximo em redes. Estabilidade e emparelhamento em grafos. Problemas de cobertura e de travessia. Representações computacionais e complexidade de algoritmos em grafos.
+4
+Redes de Computadores I
+Capacidade de canal. Taxa de transmissão. Codificação analógica-digital, digital-digital e digital-analógica. Princípios dos modelos das redes de computadores: OSI e TCP/IP. Meios de transmissão de dados. Serviços e tarefas ofertados na camada de enlace. Estudo de casos de protocolos e tecnologias de enlace de dados. Redes de comutação de circuito e de pacotes.
+4
+Teoria da Computação
+Programas, Máquinas e Computações. Máquinas de Turing. Funções Recursivas. Computabilidade. Decidibilidade. Análise e Complexidade de Algoritmos. Classes e complexidade de problemas computacionais.
+4
+Paradigmas de Programação
+Caracterização e classificações dos paradigmas. Problemas tratáveis pelos paradigmas. Definição e caracterização dos principais paradigmas declarativos e imperativos. Programação em Lógica. Programação Funcional. Prática de programação com os principais paradigmas apresentados.
+5
+Engenharia de Software I
+Análise de requisitos: requisitos funcionais e requisitos não-funcionais; técnicas para levantamento e representação de requisitos, incluindo casos de uso. Modelagem OO: classe, atributo, associação, agregação e herança. Projeto OO: técnicas para projeto; padrões de projeto, componentes e frameworks; projeto de arquitetura; mapeamento objeto-relacional. Linguagem de especificação orientada a objetos. Métodos de análise e projeto orientados a objetos. Desenvolvimento de um software OO.
+5
+Computação Distribuída
+Arquitetura de Sistemas Distribuídos. Paradigmas de Computação Distribuída: Troca de Mensagens, Cliente/Servidor, Comunicação em Grupo, Objetos Distribuídos. Comunicação entre Processos. Suporte de SO para Computação Distribuída. Sincronização em Sistemas Distribuídos. Consistência e Replicação de Dados em Sistemas Distribuídos. Sistemas de Arquivo Distribuídos. Computação GRID.
+4
+Engenharia de Software II
+Evolução da prática de desenvolvimento de software; qualidade de artefatos de software; modularidade e reusabilidade; modelagem estrutural e dinâmica em orientação a objetos, diferentes visões de um sistema; metodologias de análise e projeto orientadas a objetos; teste de software; manutenção de software; modelos de ciclo de vida; engenharia reversa; modelagem formal de sistemas; abordagens voltadas ao reuso de software; gerenciamento do processo de produção de software e técnicas de apoio ao gerenciamento do processo de produção de software; apoio automatizado ao desenvolvimento de software.
+4
+Computação Gráfica
+Computação Gráfica Básica. Sistema Gráfico Interativo. Transformações geométricas 2D e coordenadas homogêneas. Clipping. Curvas paramétricas em 2D e 3D. Estruturas de dados gráficas 3D. Navegação 3D. Projeções, perspectiva e clipping 3D. Superfícies paramétricas bicúbicas. Visualização em 3D contendo, Rayshading, Raycasting e Raytracing. Conversão por varredura e buffer de profundidade. Iluminação de objetos. Implementação de um rayshader. APIs Gráficas e OpenGL. Animação e utilização de modelos hierárquicos. Simulação de movimentação de animais e humanos. Realidade virtual e VRML.
+4
+Linguagens Formais e Compiladores 
+O processo de compilação. Linguagens e suas representações. Gramáticas: definição formal, classificação (Hierarquia de Chomsky), propriedades, problemas de decisão e aplicações. Gramáticas regulares, autômatos finitos, conjuntos regulares e expressões regulares. Gramáticas livres de contexto. Autômatos de pilha. Teoria de Parsing. Análise léxica e sintática.
+4
+Redes de Computadores II
+Camada de Rede TCP/IP: endereçamento, roteamento, protocolos. Camada de Aplicação: conceitos e protocolos. Aspectos de segurança em redes de computadores. Dispositivos de interconexão, conceito de processores de redes. Protocolos leves. Métodos formais para especificação e verificação de protocolos. Administração de redes de computadores.
+4
+Banco de Dados I
+Banco de Dados (BD). Sistema de Gerência de BD: funcionalidades, módulos principais, categorias de usuários, dicionário de dados. Modelo relacional: conceitos, restrições de integridade, álgebra relacional, cálculo relacional. Linguagens SQL: DDL, DML, restrições de integridade, visões, autorização de acesso. Modelagem de dados: etapas do projeto de um BD relacional, modelo Entidade-Relacionamento (ER), mapeamento ER-relacional. Teoria da Normalização: objetivo, dependências funcionais, formas normais.
+4
+Banco de Dados I
+Desenvolvimento de Sistemas Operacionais: projeto lógico, arquitetura, inicialização de Sistemas Computacionais, componentes (processos, threads, escalonador, mecanismos de sincronização, gerenciadores de memória, sistemas de arquivos, drivers de dispositivos de entrada e saída), teste, depuração, estudos de caso.
+4
+Modelagem e Simulação
+Modelagem de sistemas. Modelos analíticos e Modelos de simulação. Processos estocásticos. Introdução à teoria das filas. Redes de filas. Geração de números pseudo-aleatórios. Geração de variáveis aleatórias. Metodologia de projetos de modelagem e simulação de sistemas. Modelos voltados à simulação: definição, taxonomia e desenvolvimento. Validação de modelos de simulação. Praticas de modelagem e simulação. Linguagens de simulação. Estudo de casos.
+4
+Construção de Compiladores
+Projeto de especificação de linguagens de programação. Implementação das etapas que compreendem o processo de compilação: Análise Léxica, Análise Sintática, Análise Semântica, Geração e Otimização de Código. Evolução e tendências da área de compiladores e linguagens de programação.
+4
+Planejamento e Gestão de Projetos
+Projetos. Metodologias de planejamento e gestão de projetos. Áreas de conhecimento da gerência de projetos: Escopo, Tempo, Risco, Integração, Comunicação, Custo, Recursos Humanos, Aquisição, Qualidade. Grupos de processos: Iniciação, Planejamento, Execução, Controle, Encerramento. Técnicas de acompanhamento de projetos. Ferramentas computacionais de apoio ao planejamento e gerência de projetos. Estudo de casos.
+4
+Informática e Sociedade
+Ética pessoal, profissional e pública na área da informática. Dilemas éticos do profissional da informática; privacidade, vírus, hacking, uso da internet, direitos autorais, etc. Desemprego e informatização. Responsabilidade social. O profissional e o mercado de trabalho. Trabalho e relações humanas. O empreendedorismo como opção do profissional da informática. Legislação: Política nacional e tendências atuais referentes à regulamentação da profissão.
+4
+Segurança em Computação
+Segurança em aplicações: programação segura, detecção de falhas, códigos maliciosos (malware). Segurança em sistemas operacionais: princípios de controle de acesso, sistemas confiáveis. Segurança em redes de computadores: ataques e defesas. Princípios de criptografia: criptografia simétrica e assimétrica, integridade de dados. Protocolos de autenticação: princípios, infra-estrutura de chaves públicas e aplicações (X.509, OpenPGP, SPKI, IBE), protocolos criptográficos (S/Mime, IPSec, SSL, OpenSSH, Kerberos, VPNs).
+4
+Inteligência Artificial
+Histórico, Teoria de Problemas, Paradigma Simbólico da IA, Modelagem de Agentes Inteligentes, Métodos de Busca, Representação de Conhecimento, Métodos de Inferência, Tratamento de Incertezas, Sistemas Especialistas, Lógica Nebulosa, Paradigma Conexionista da IA, Redes Neurais Diretas e Algoritmos de Aprendizado, Paradigma Evolucionário da IA, Algoritmos Genéticos.
+4
+Sistemas Multimídia
+Definição de sistemas multimídia e problemática envolvida. Representação digital de áudio, imagens e vídeos. Técnicas e padrões de compressão. Aplicações multimídia: caracterização e requisitos. Protocolos de transporte de mídia e de controle-sinalização. Qualidade de Serviço.
+4
+Banco de Dados II
+SQL embutida: instruções estáticas e dinâmicas, cursores. Processamento de consultas: otimização algébrica; plano de execução de uma consulta considerando estimativas sobre os dados, índices, buffers e pipelines. Transações: definição, propriedades, estados. Recuperação de falhas: categorias de falhas, gerência de buffer, técnicas de recuperação. Controle de concorrência: teoria da serializabilidade, escalonadores otimistas e pessimistas, tratamento de deadlock. Noções básicas de bancos de dados distribuídos: arquiteturas, projeto, processamento de consultas, gerência de transações.
+4
+Trabalho de Conclusão de Curso I (TCC)
+Conceituação da pesquisa em cursos de graduação em ciência da computação. Conceitos e técnicas para preparação de projetos de pesquisa: introdução, objetivos, hipóteses, metodologia, justificativa, resultados esperados, estado da arte, desenvolvimento, experimentos, conclusões. Conceitos e técnicas para proceder à revisão bibliográfica e a escrita de artigos científicos. Orientação para o desenvolvimento do projeto em Ciência da Computação. Relatórios sobre o andamento dos projetos.
+6
+Trabalho de Conclusão de Curso II (TCC)
+Orientação para o desenvolvimento da fase final do projeto em Ciência da Computação. Defesa final do trabalho perante banca examinador.
+6
