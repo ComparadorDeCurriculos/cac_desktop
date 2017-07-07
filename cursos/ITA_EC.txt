@@ -1,0 +1,146 @@
+Introdução a Computação
+Conceitos primários: Computador, algoritmo, programa, linguagem de programação, compilador. Representação de informações: sistemas de numeração, mudança de base, aritmética binária, operações lógicas, textos e instruções. Evolução das linguagens de programação. Unidades básicas de um computador. Software básico para computadores. Desenvolvimento de algoritmos: linguagens para algoritmos e refinamento passo a passo. Comandos de uma linguagem procedimental: atribuição, entrada e saída, condicionais, repetitivos e seletivos. Variáveis escalares e estruturadas homogêneas e heterogêneas. Subprogramação: funções, procedimentos, passagem de parâmetros, recursividade. Ponteiros.
+4
+Cálculo Diferencial e Integral I
+Números reais. Funções reais de uma variável real. Limites. Funções contínuas: teoremas do valor intermediário e de Bolzano-Weierstrass. Derivadas: definição e propriedades, funções diferenciáveis, regra da cadeia e derivada da função inversa. Teorema do valor médio. Fórmula de Taylor e pesquisa de máximos, mínimos e pontos de inflexão; aplicações. Regras de L’Hospital. Integral de Riemann: definição, propriedades e interpretação geométrica. O Teorema Fundamental do Cálculo. Técnicas de integração. Aplicações. Integrais impróprias. Seqüências numéricas: continuidade e convergência, seqüências monótonas, convergência e completude do conjunto dos números reais. Séries Numéricas: convergência ou divergência de uma série. Critérios de convergência: critérios do termo geral, da razão, da raiz, da integral e critério de Leibniz. Convergência absoluta e convergência condicional. Séries de Potências: intervalo de convergência e o Teorema de Abel. Propriedades da soma de uma série de potências: continuidade, derivação e integração termo a termo. Séries de Taylor das principais funções elementares. Aplicações.
+5
+Vetores e Geometria Analítica
+O espaço V3: segmento orientado, vetor, características de um vetor, operações com vetores, dependência linear. Bases. Produto interno, ortogonalidade, projeção e bases ortonormais. O espaço R3: orientação, produto vetorial, produto misto, duplo produto vetorial. Geometria Analítica: sistemas de coordenadas, posições relativas de retas e planos, distâncias, áreas e volumes. Transformações do plano: rotação, translação e o conceito de aplicação linear. Estudo das cônicas: equações reduzidas, translação, rotação.
+2
+Química Geral I
+Principais experiências para a caracterização do átomo, espectro atômico do átomo de hidrogênio e o modelo de Bohr, estrutura atômica, espectros atômicos, seus níveis energéticos e geometria dos orbitais atômicos. Ligações Químicas: covalentes, iônicas e metálicas com abordagem nos modelos do elétron localizado e dos orbitais moleculares. Momento de dipolo elétrico das moléculas. Estrutura cristalina dos metais e dos compostos iônicos simples. Faces planas naturais e ângulos diedros, clivagem, hábito. Célula unitária e sistemas cristalinos. Empilhamento compacto. Índices de Miller. Difração de raios X. Defeitos e ideias básicas sobre estrutura dos silicatos.
+2
+Desenho Técnico
+Conceitos de construções geométricas; projeções ortogonais; representação do ponto, da reta e do plano; métodos descritivos; projeções de figuras planas e projeções dos sólidos; seções planas; noções de intersecções de sólidos; desenho a mão livre (esboço); normas e convenções; leitura e interpretação de desenhos; escalas; projeções auxiliares; perspectivas; cortes; cotagem e noções de tolerância.
+1
+Epistemologia e Filosofia da Ciência
+Conhecimento, crença e metafísica. Epistemologia em Platão e Aristóteles. Relativismo e Ceticismo. O desenvolvimento da Ciência Moderna. Geocentrismo e Heliocentrismo. Os Paradigmas Científicos segundo Kuhn. Realismo e Instrumentalismo. Experimentos, leis e teorias. Racionalismo e Empirismo. Programa e método em Descartes e Bacon. Naturalismo filosófico. Causalidade e uniformidade da natureza. Determinismo e Indeterminismo. O Criticismo de Kant. Iluminismo e Positivismo. Contexto de descoberta e contexto de justificação. O problema da demarcação epistêmica. Verificacionismo e Falsificacionismo. Epistemologia e história em Bachelard, Koyré e Feyerabend. Relações entre ciência e tecnologia.
+3
+Tecnologia e Sociedade 
+Análise de aspectos da sociedade brasileira à luz de estudos sobre a formação social do Brasil. O papel da tecnologia na sociedade. A produção da tecnologia: determinismo ou construcionismo? A questão do acesso: inclusão e exclusão social e digital. Racionalização e tecnocracia. Avaliação sócio-ambiental da técnica. Cultura digital: potenciais e limites. Conhecimento “glocal”: tecnologia e educação.
+3
+Mecânica I
+orças. Estática. Equilíbrio de um corpo rígido. Cinemática da partícula em um plano. Movimento circular. Dinâmica da partícula. Conceito de referencial inercial. Leis de Newton. Princípio de conservação do momento linear. Atrito. Sistemas com massa variável. Dinâmica do movimento curvilíneo. Momento angular. Forças centrais. Movimento relativo. Transformações de Galileo. Referenciais não inerciais. Trabalho e energia. Forças conservativas e energia potencial. Movimento sob ação de forças conservativas. Curvas de potencial. Forças não conservativas. Dinâmica de um sistema de partículas: centro de massa, momento angular, energia cinética. Tópicos de teoria cinética dos gases. Colisões.
+4
+Cálculo Diferencial e Integral II
+Noções da topologia no Rn. Curvas parametrizadas em Rn. Funções de várias variáveis, curvas e superfíceis de nível. Limite e continuidade. Derivadas direcionais e derivadas parciais. Diferenciabilidade e diferencial. Regra da cadeia. O vetor gradiente e sua interpretação. Derivadas parciais de ordem superior. Fórmula de Taylor e pesquisa de máximos, mínimos e pontos de sela. Extremos condicionados: Multiplicadores de Lagrange. Transformações entre espaços reais: a diferencial e a matriz Jacobiana. Conjuntos de nível. Teorema da Função Implícita e Teorema da Função Inversa. Integrais Múltiplas: integral dupla e integral tripla. Integral iterada e o Teorema de Fubini. Mudança de variáveis na integral. Coordenadas polares, cilíndricas e esféricas. Aplicações.
+4
+Álgebra Linear e Aplicações
+Espaços vetoriais reais e complexos: definição e propriedades, subespaços vetoriais, combinações lineares, dependência linear, espaços finitamente gerados, bases. Teorema da invariância, dimensão, soma de subespaços, mudança de bases. Espaços com produto interno, norma e distância, ortogonalidade, bases ortonormais, teorema da projeção. Transformações lineares: núcleo e imagem de uma transformação linear; isomorfismo, automorfismo e isometria; matriz de uma transformação linear. Espaço das transformações lineares, espaço dual, base dual, operadores adjuntos e auto-adjuntos. Autovalores e autovetores de um operador linear, operadores diagonalizáveis, diagonalização de operadores auto-adjuntos. Aplicações.
+4
+Química Geral II
+Termodinâmica química: energia interna, entalpia, entropia e energia livre de Gibbs. Potencial químico, atividade e fugacidade. Relação entre energia livre de Gibbs e constante de equilíbrio. Eletroquímica: equilíbrios de reações de óxido-redução, eletrodos, potenciais de equilíbrio dos eletrodos, pilhas e baterias, leis da eletrólise e corrosão.
+2
+Desenho Assistido por Computador
+MPG-04 – DESENHO ASSISTIDO POR COMPUTADOR. Requisitos: MPG-03. Horas semanais: 1-0-2-2. Técnicas CAD para esboços, parametrização; criação de partes e montagem de conjuntos; seleção e aplicação de materiais; propriedades de massa; criação e utilização de bibliotecas de features utilização de geometria auxiliar; desenho de formas orgânicas; desenho de formas especiais (seções tubulares e chapas finas); técnicas de apresentação (renderização e animação). Introdução CAE: apresentação de ferramentas para análises estáticas, dinâmicas, térmicas e fluidodinâmica. Introdução ao CAM na definição de processos e etapas de usinagem, trajetórias de ferramentas. Integração CAD/CAE/CAM.
+1
+Tecnologia e Sociedade 
+Análise de aspectos da sociedade brasileira à luz de estudos sobre a formação social do Brasil. O papel da tecnologia na sociedade. A produção da tecnologia: determinismo ou construcionismo? A questão do acesso: inclusão e exclusão social e digital. Racionalização e tecnocracia. Avaliação sócio-ambiental da técnica. Cultura digital: potenciais e limites. Conhecimento “glocal”: tecnologia e educação.
+3
+Algoritmos e Estruturas de Dados
+Tópicos avançados em recursividade. Técnicas para desenvolvimento de algoritmos. Noções de complexidade de algoritmos. Vetores e encadeamento de estruturas. Pilhas, filas e deques. Árvores gerais e binárias. Grafos orientados e não orientados. Algoritmos para grafos. Filas de prioridades. Métodos de Ordenação. Noções de programação orientada a objetos.
+3
+Mecânica II
+Dinâmica do corpo rígido: centro de massa, momento de inércia, energia, equação do movimento de rotação, rolamento, movimento giroscópico. Movimento oscilatório: dinâmica do movimento harmônico simples; pêndulos, osciladores acoplados, oscilações harmônicas, oscilações amortecidas, oscilações forçadas e ressonância. Movimento ondulatório: ondas em cordas, ondas estacionárias, ressonância, ondas sonoras, batimento, efeito Doppler. Gravitação. Introdução à Mecânica Analítica: trabalho virtual, equação de D’Alembert, equações de Lagrange, princípio de Hamilton e equações de Hamilton.
+4
+Eletricidade e Magnetismo
+Lei de Coulomb. O campo elétrico. Dipolos. Linhas de força. Fluxo do campo elétrico. Lei de Gauss. Potencial elétrico. Energia potencial Eletrostática. Equação de Poisson. Coordenadas curvilíneas. Capacitância. Estudo dos dielétricos. Energia do campo elétrico. Vetor Polarização e Deslocamento Elétrico.Corrente Elétrica. Resistência elétrica. Condutores ôhmicos e não ôhmicos. Leis de Kirchhoff. Circuito RC. O campo magnético. Força sobre cargas em movimento. Forças sobre correntes. Dipolos magnéticos. Efeito Hall. Lei de Biot-Savart. Lei de Ampère. Forças entre correntes. Lei de indução de Faraday. Lei de Lenz. Fluxo do campo magnético. Lei de Gauss do Magnetismo. Potencial vetor. Auto-indutância e indutância mútua. Circuito LR. Transformador. Energia do campo magnético. Propriedades magnéticas da matéria. Equações de Maxwell da eletrostática e da magnetostática. Formas integral e diferencial. Histerese magnética.
+4
+Equações Diferenciais Ordinárias
+Equações diferenciais ordinárias (EDO’s) de primeira ordem lineares, separáveis, exatas e fatores integrantes; problema de valor inicial, existência e unicidade de solução. EDO’s lineares de segunda ordem: conjunto fundamental de soluções, resolução de equações com coeficientes constantes, redução de ordem, método dos coeficientes a determinar e da variação dos parâmetros. EDO’s lineares de ordem n. Sistemas de EDO’s lineares com coeficientes constantes. Transformada de Laplace: condições de existência, propriedades, transformada inversa, convolução, delta de Dirac, resolução de EDO’s. Solução em séries de potências de equações diferenciais lineares de segunda ordem. Equação de Cauchy-Euler. Método de Frobenius. Funções especiais: funções de Bessel e polinômios de Legendre, principais propriedades.
+4
+Cálculo Vetorial
+Curvas no R 2 e no R 3 : parametrização, curvas regulares, reparametrização, reta tangente e reta normal, orientação de uma curva regular, comprimento de arco. Integrais de linha: propriedades, teoremas de Green, campos conservativos. Superfícies no R 3 : parametrização, superfícies regulares, plano tangente e reta normal, reparametrização, área de superfície. Integrais de superfície. Divergente e rotacional de um campo, teorema de Gauss, teorema de Stokes. Coordenadas curvilíneas: coordenadas ortogonais, elemento de volume, expressão dos operadores gradiente, divergente, rotacional e laplaciano num sistema de coordenadas ortogonais.
+3
+Matemática Computacional
+Aritmética computacional. Métodos de resolução para sistemas lineares, equações algébricas e transcendentes. Interpolação de funções. Ajuste de curvas. Integração numérica. Resolução numérica de equações diferenciais ordinárias. Implementação dos métodos numéricos.
+1
+Ondas e Física Moderna
+Circuitos de Corrente Alternada. Impedância complexa. Potência. Ressonância. Corrente de Deslocamento. Propriedades dos campos elétrico e magnético de uma onda eletromagnética. Equação Diferencial da onda eletromagnética. Vetor de Poynting. O espectro eletromagnético. Momento linear, pressão de radiação e polarização. Interferência. Difração. Redes de difração. Difração em cristais. Radiação do corpo negro. Quantização de energia. Dualidade onda-partícula. Efeito fotoelétrico e efeito Compton. O átomo de Bohr. Função de onda. Princípio da incerteza. Equação de Schrödinger. Operadores e Valores Esperados. Equação de Schrödinger em uma dimensão: barreira de potencial, tunelamento, poço quadrado; Equação de Schrödinger tridimensional e Átomo de Hidrogênio; Laser. Teoria de Bandas de Condução. Diodo.
+4
+Equações Diferenciais Parciais
+Conceitos básicos de equações diferenciais parciais (EDP’s), equações lineares de 1 a ordem. EDP’s de 2 a ordem: formas canônicas; equação do calor; equação de Laplace; equação da onda. Método de separação de variáveis; análise de Fourier: séries de Fourier nas formas trigonométrica e complexa. Séries de Fourier- Bessel e Fourier-Legendre. Problemas de valor inicial e de contorno. Problemas não-homogeneos. Problemas de Sturm-Liouville. Problemas de contorno envolvendo a equação de Laplace em domínios retangulares, cilíndricos e esféricos. Transformada de Fourier e aplicações.
+4
+Funções de Variável Complexa
+Revisão de números complexos. Noções de topologia no plano complexo. Funções complexas: limite, continuidade, derivação, condições de Cauchy-Riemann, funções harmônicas. Função exponencial. Funções trigonométricas e hiperbólicas. Função logarítmica. Integral de linha: teorema de Cauchy-Goursat, funções primitivas, fórmula de Cauchy, teorema de Morera, teorema de Liouville, teorema do módulo máximo. Seqüências e séries de funções: teoremas de integração e derivação termo a termo. Série de Taylor. Série de Laurent. Classificação de singularidade. Zeros de função analítica. Resíduos. Transformação conforme e aplicações.
+3
+Probabilidade e Estatística
+Conceitos clássico e freqüentista de probabilidade. Probabilidade condicional e independência de eventos. Teoremas de Bayes e da probabilidade total. Variáveis aleatórias discretas e contínuas. Funções massa, densidade, e distribuição acumulada. Valor esperado e variância. Desigualdades de Markov e Tchebyshev. Variáveis aleatórias discretas: Bernoulli, Binomial, Geométrica e Poisson. Variáveis aleatórias contínuas: Exponencial negativa, Normal e Weibull. Momentos, função geratriz de momentos. Funções de variáveis aleatórias. Variáveis aleatórias conjuntas, função distribuição conjunta e marginal. Independência estatística; Covariância e Coeficiente de Correlação. Amostras aleatórias. Teoremas do limite central. Estimação pontual de parâmetros. Método dos momentos e da máxima verossimilhança. Variáveis aleatórias Qui-quadrado, t de Student e F de Snedecor. Intervalos de confiança. Testes de hipótese unidimensionais. Teste de hipótese entre parâmetros de populações distintas.
+3
+Mecânica dos Sólidos
+Objetivos; histórico. Equilíbrio de corpos deformáveis; forças e momentos transmitidos por barras; diagramas de esforços internos. Estados de tensão e deformação num ponto: transformação de coordenadas; valores principais; diagrama de Mohr. Relações deformação-deslocamento. Equações constitutivas. Energia de deformação. Teoremas de Castigliano. Barras sob esforços axiais. Torção de barras circulares. Teoria de vigas de Euler- Bernoulli. Estruturas Hiperestáticas. Critérios de escoamento.
+3
+Termodinâmica
+Conceitos fundamentais. Propriedades de uma substância pura. Trabalho e calor. Primeira lei da Termodinâmica em sistemas e volumes de controle. Segunda lei da Termodinâmica. Entropia. Segunda lei em volumes de controle. Noções de transferência de calor.
+3
+Programação Orientada a Objetos
+Classes e instâncias. Comportamento e estado interno. Herança e polimorfismo. Programação para interfaces. Tipos de dados e operadores. Métodos e variáveis estáticas. Encapsulamento e modificadores de acesso. Modularização de software e pacotes. Características de linguagens de tipagem estática e dinâmica. Fundamentos de programação concorrente. Criação de interfaces gráficas. Testes de unidade. Conceitos de acoplamento e coesão. Estruturas de dados orientadas a objetos e tipos genéricos. Fundamentos de projeto de software.
+3
+Lógica Matemática e Estruturas Discretas
+Funções e Operações Binárias. Relações de equivalência e ordem. Enumerabilidade de conjuntos. Grupos, reticulados e álgebras de Boole. Cálculo proposicional e de predicados. Sistemas dedutivos. Lógica matemática: resolução, sistemas de dedução e refutação, sistemas especialistas. Sistemas baseados em conhecimento. Linguagem PROLOG. Planejamento.
+2
+Circuitos Digitais
+Sistemas numéricos e códigos. Álgebra Booleana. Portas lógicas. Circuitos combinatórios: síntese, análise; lógica de dois níveis e multinível. Minimização lógica. Funções combinatórias. Redes iterativas. Aritmética digital inteira: operações em sinal e magnitude, complemento de dois e BCD; circuitos ripple-carry e carry look-ahead; projeto de unidade lógica aritmética. Circuitos sequenciais: modelos de máquinas de estado finito (MEF), conversão de modelos e minimização de estados. Síntese de MEF assíncrona: conceitos de hazard, corrida crítica e modos de operação; projeto de latches, flip-flops e interfaces. Síntese e análise de MEF síncrona: aplicações gerais, contadores, registradores e divisores de frequência. Analise de temporização. Implementação de algoritmos por hardware síncrono: MEF com datapath; síntese datapath. Conceitos de dispositivos programáveis (PLD). Projeto de circuitos digitais implementados em PLD. Introdução a VHDL.
+4
+Sistemas de Controle I
+Modelos de sistemas dinâmicos contínuos. Controle por realimentação. Linearidade e invariância no tempo. Linearização. Transformada de Laplace e função de transferência. Análise da estabilidade. Determinação de propriedades e respostas de sistemas contínuos lineares invariantes no tempo. Diagrama de Bode. Sistemas contínuos de primeira e segunda ordem. Especificação de desempenho para sistemas de controle automático. Métodos gráficos para projeto de controladores empregando diagramas de Bode e de Nyquist, lugar geométrico das raízes e a carta de Nichols-Black. Controladores PID.
+4
+Eletromagnetismo e Sistemas
+Campos eletromagnéticos e espectro eletromagnético. Eletrodinâmica: Equações de Maxwell. Equação de onda. Teorema de Poynting. Propagação de ondas eletromagnéticas no espaço livre. Grandezas típicas da engenharia de rádio frequência. Linhas de transmissão e medidas em sistemas de rádio frequência. Sistemas práticos e seus parâmetros. Princípios de antenas e características dos sistemas irradiantes. Comunicações ópticas componentes e configurações. Laser e modulação óptica. Enlaces de comunicações via rádio e ópticos. Softwares de simulação.
+3
+Fundamentos de Engenharia de Software
+Requisitos de Software. Projeto orientado a objetos. Linguagem Unificada de Modelagem (UML). Arquitetura de software e arquitetura de referência. Padrões de projeto e arquiteturais. Componentes e frameworks. Refatoração. Modularização de aplicações. Paradigmas arquiteturais e suas implicações. Testes de software. Fundamentos de qualidade de software.
+3
+Automata e Linguagens Formais
+Automata finitos e expressões regulares. Propriedades dos conjuntos regulares. Linguagens e gramáticas. Linguagens livres de contexto, sensíveis ao contexto e tipo-0. Fundamentos de análise sintática (parsing). Autômato de pilha. Máquinas de Turing: seus modelos restritos e tese de Church. Indecidabilidade e problemas intratáveis.
+2
+Sistemas Digitais Programáveis
+Organização do computador digital convencional: processador, memória, dispositivos de entrada e saída. Processador: registradores, conjunto de instruções, barramentos para comunicação com memória e interfaces de entrada e saída. Microprocessadores e microcontroladores. Programação de microcontroladores em linguagens Assembly e C. Ambientes integrados de programação. Estrutura interna do processador: unidade funcional e unidade de controle. Microprogramação
+3
+Sistemas de Controle II
+Relações entre
+as equações de estado e a função de transferência. Realizações de funções de transferência. Análise de estabilidade empregando o método direto de Lyapunov. Realimentação de estado: alocação de polos e controle ótimo quadrático. Sistemas amostrados. Transformada z e suas propriedades. Determinação de propriedades e respostas de sistemas discretos lineares invariantes no tempo. Análise da estabilidade: caso de tempo discreto. Métodos para obtenção de modelos e controladores discretizados. Controle direto digital. Especificação de desempenho para controle por computador. Compensadores para sistemas discretos. Observadores de estado. Princípio da separação. Filtro de Kalman.
+4
+Introdução a Comunicações
+Sistemas de comunicação: objetivos, tipos, elementos. Análise espectral de sinais e sistemas de tempo contínuo e de tempo discreto. Representação de sinais no espaço de sinais. Modulações digitais: técnicas e desempenho em canais Gaussianos. Sistemas com múltiplos usuários. Técnicas de acesso múltiplo: mutiplexação temporal, em frequência ou por códigos de acesso. Tópicos contemporâneos em comunicações.
+4
+Circuitos Eletrônicos II
+Amplificadores
+transistorizados. Realimentação e estabilidade de amplificadores. Resposta em frequência. Amplificadores diferenciais. Amplificadores operacionais. Fontes de alimentação. Osciladores senoidais. Análise dos circuitos lógicos fundamentais (portas e células elementares de memória nas tecnologias MOS, CMOS, TTL e ECL). Multivibradores. Geradores de formas de onda. Dispositivos Semicondutores de Potência.
+3
+Arquiteturas para Alto Desempenho
+Unidades básicas de um computador: processadores, memória e dispositivos de entrada e saída. Técnicas para aumento de desempenho de computadores. Memória cache, entrelaçada e virtual. Segmentação do ciclo de instrução, das unidades funcionais e do acesso a memória. Computadores com conjunto reduzido de instruções. Linha de execução de instruções (pipeline). Microprograma de unidade central de processamento. Processadores Superescalares. Execução especulativa de código. Multiprocessadores e Computação em escala Warehouse.
+3
+Engenharia de Software
+Processos de desenvolvimento de software. Engenharia de requisitos. Processo unificado. Metodologias ágeis. Desenvolvimento orientado a modelos (MDD). Verificação e validação: inspeções e testes de software. Gerência de configuração de software. Modelos de capacitação organizacional: CMMI, SPICE e MPS.br. Ferramentas e ambientes de desenvolvimento de software. Qualidade, confiabilidade e segurança de software. Fundamentos de gerência de projeto de software. Interação humano-computador: usabilidade e acessibilidade. Aspectos econômicos no desenvolvimento de software.
+4
+Sistemas Operacionais
+Conceituação. Estruturação de sistemas operacionais. Gerenciamento de processos: modelo e implementação. Mecanismos de intercomunicação de processos. Escalonamento de processos. Múltiplas filas, múltiplas prioridades, escalonamento em sistemas de tempo real. Deadlocks. Gerenciamento de memória. Partição e relocação. Gerenciamento com memória virtual. Ligação dinâmica. Gerenciamento de E/S. Gerenciamento de arquivos. Mecanismos de segurança e proteção. Tópicos de sistemas operacionais distribuídos. Interfaces gráficas de sistemas operacionais modernos.
+3
+Compiladores
+Anatomia de um compilador. Gramáticas e linguagens. Diagramas de transição. Análise léxica. Análise sintática: metodologias top-down e bottom-up. Organização de tabelas de símbolos. Tratamento de erros. Análise semântica e definições orientadas pela sintaxe. Geração de código intermediário e de código objeto. Organização de memória em tempo de execução. Otimização de código. Meta-compiladores e ferramentas automáticas para construção de compiladores.
+3
+Lógica Matemática
+O desenvolvimento da Lógica e a relevância do seu estudo. Três registros importantes para o estudo da Lógica: Lógica formal, lógica simbólica e lógica matemática. Cálculo proposicional. Cálculo de predicados. Sistemas dedutivos e aritmética formal. Lógica matemática e ciência da computação: resolução, sistemas de dedução e refutação, sistemas especialistas. Sistemas baseados em conhecimento: engenharia, aquisição e processamento do conhecimento. Planejamento. Aritmética de Peano. Linguagem PROLOG.
+2
+Microcontroladores e Sistemas Embarcados
+Conceituação de Sistema Embarcado. Estrutura de um sistema microprocessado: processador, memórias, interfaces com o mundo externo, barramentos. As famílias AVR, MSP430 e MCS51 de microcontroladores. Ambientes integrados de programação. Interfaces seriais e paralelas. Temporizadores, relógios e cão de guarda. Interrupções. Programação concorrente e em tempo real. Redes de microcontroladores e protocolos de comunicação. Sistemas com comunicação sem fio.
+2
+Fundamentos de Computação Gráfica
+Elementos básicos de computação gráfica. Dispositivos gráficos. Primitivas gráficas: pontos, linhas, textos, representação e preenchimento de polígonos. Transformações 2D. Janelamento e recorte. Segmentação. Técnicas de interação. Introdução a gráficos tridimensionais: representação “wire-frame”. Eliminação de superfícies ocultas. Modelos de Iluminação: Gouraud, Phong, Ray Tracing, radiosidade, filtros.
+2
+Processamento Distribuído
+Introdução a sistemas distribuídos. Linguagens de programação distribuída. Anéis lógicos. Rotulação de tempo e relógios lógicos. Transações em bancos de dados distribuídos. Computações difusas. Detecção de “deadlocks” em sistemas distribuídos. Algoritmos de consenso. Algoritmos para evitar inanição.
+2
+Técnicas de Bancos de Dados
+Métodos de organização de arquivos e pesquisa. Modelo de entidade/relacionamento. Modelo de dados relacional. Modelo de dados hierárquico. Modelo de dados em rede. Projeto de um banco de dados relacional. Banco de dados distribuído. Compressão de dados. Segurança e integridade. Privacidade em banco de dados. Suporte para tomadas de decisão. Banco de dados orientado a objetos.
+3
+Redes de Computadores e Internet
+Noções básicas de redes de computadores: hardware e software. Necessidade de protocolos: o modelo TCP/IP. O nível de enlace: padrões IEEE. O nível de rede: algoritmos de roteamento; controle de congestionamento; o protocolo IP. O nível de transporte: os protocolos TCP e UDP. O nível de aplicação: protocolos de suporte e de serviços. Aspectos de segurança. Redes Definidas por Software.
+3
+Projeto de Sistemas Embarcados
+Aplicações práticas de conceitos sobre engenharia de software e micro-controladores para sistemas embarcados. Desenvolvimento de um protótipo de sistema embarcado em estudo de caso envolvendo problema real e necessidades do mercado. Aplicação de um método de desenvolvimento ágil e suas boas práticas. Manifesto ágil e suas aplicações. Princípios ágeis para o desenvolvimento de protótipo de sistema computadorizado embarcado de tempo real composto por sensores, plataformas de coletas de dados, salas de controles e seus bancos de dados associados. Utilização prática da teoria básica de microprocessadores, de sua programação em linguagens de alto nível e de sistema operacional de tempo real e suas interfaces com sistemas analógicos e digitais. Utilização prática de uma arquitetura dirigida por modelo e da configuração de ferramentas automatizadas em um ambiente integrado de engenharia de software ajudada por computador, para geração de código e de teste de software. Exemplos de implementações de software embarcado em dispositivos móveis com sistemas operacionais Android, IOS, Windows Mobile, Java ME e outros.
+1
+Inteligência Artificial
+Conceituação, aplicações. Resolução de problemas: técnicas e métodos, representação, heurísticas, decomposição de problemas, jogos. Estratégias de busca e decomposição, representação, algoritmo A*, Algoritmos genéticos. Aprendizagem de máquina: aprendizado indutivo, árvores de decisão e modelos de redes neurais artificiais para aprendizado supervisionado, não-supervisionado. Modelo decisório de Markov e Aprendizado por reforço. Introdução a lógica nebulosa. Fundamentos de redes bayesianas : construção de modelos e inferência.
+2
