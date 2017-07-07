@@ -59,7 +59,8 @@ class Course:
 		self.university = university
 		self.cores = {}
 		self.path = path
-		self.fillCourse(reference);
+		self.fillCourse(reference)
+		self.result = ()
 
 	#gets all disciplines from the course file, classificates it in the cores dictionary and counts the number of credits in each core			
 	def fillCourse(self, reference):

@@ -1,0 +1,96 @@
+Circuitos Lógicos
+Sistemas de numeração e códigos. Minimização e decomposição de funções booleanas. Aritmética binária. Circuitos combinacionais e seqüenciais. Projetos de máquinas de estados e sistemas digitais.
+3
+Algoritmos e Estrutura de Dados I
+Características básicas do computador. Representação e aritmética binária. Algoritmos. Representação de dados. Introdução a uma linguagem de programação. Solução de problemas simples por computadores.
+3
+Introdução a Álbebra
+Operações binárias; Noções de Grupos; Anéis.
+4
+Geometria Analítica I
+Vetores no plano e no espaço. Retas e planos no espaço com coordenadas cartesianas. Translação e rotação de eixos. Curvas no plano. Superfícies. Outros sistemas de coordenadas.
+4
+Cálculo Diferencial e Integral I
+Funções. Derivadas. Aplicações do cálculo diferencial. Integrais. Séries.
+4
+Projetos Digitais e Microprocessadores
+Estruturas de microcomputadores: microprocessador, memória, entrada e saída. Arquitetura do microprocessador: registradores, indexadores, pilhas, endereçamento. Interfaces: paralelas, seriais, analógicas/digitais. Organização de memórias: RAM, EPROM, EAROM. Aplicações.
+3
+Algoritmos e Estruturas de Dados II
+Estilos de programação. Refinamentos sucessivos. Tipos abstratos de dados: listas, pilhas, filas. Recursividade. Ordenação interna. Busca. Análise de complexidade dos algoritmos.
+3
+Oficina de Computação
+Uso dirigido de ferramentas de desenvolvimento de software. Práticas de projetos de algoritmos.
+3
+Álbebra Linear
+Matrizes e equações lineares. Espaços vetoriais. Transformações lineares. Operadores e matrizes diagonalizáveis. Espaços com produto interno. Operadores sobre espaços com produto interno. Cônicas. Quádricas.
+4
+Cálculo Diferencial e Integral II
+Noções elementares de topologia do Rn;Cálculo diferencial de funções de mais de uma variável. Noções elementares de equações diferenciais ordinárias.
+4
+Organização e Arquitetura de Computadores
+Componente de fluxo de dados e sua organização. Unidade aritmética e lógica. Unidade de controle. Vias de acesso. Elemento de um conjunto de instruções. A arquitetura Von Neumann. Arquitetura de entrada e saída. Otimização de arquitetura.
+3
+Algoritmos e Estruturas de Dados III
+Memória principal. Acesso seqüêncial, indexado. Árvore. Complexidade algoritmos. Ordenação externa. Árvores balanceadas. Conjuntos não ordenáveis.
+3
+Software Básico
+Linguagem de máquina. Técnicas de endereçamento. Representação digital de dados. Codificação simbólica e montadores. Definição e geração de macros. Segmentação e ligação de programas. Projetos ilustrativos da estrutura básica das máquinas e técnicas de programação.
+3
+Matemática Discreta
+Análise combinatória. Funções geradoras. Relações de recorrência. Enumeração.
+3
+Metodologia Científica
+Fundamentos do Conhecimento Científico. olíticas de Ciência e Tecnologia. Elaboração de Textos Científicos.
+3
+Sistemas Operacionais
+Componentes de um sistema. Administração dos recursos: memória principal e secundária. Administração dos processos: prioridades, interrupção, filas. Comunicação entre processos: semáforos e mensagens. Segurança.
+3
+Técnicas Alternativas de Programação
+Programação em lógica. Programação funcional. Programação orientada a objetos.
+3
+Estatística II
+
+4
+Redes de Computadores I
+Projeto de sistemas de teleprocessamento. Transmissão de dados a alta e baixa velocidade. Camadas 1 e 2 do modelo ISO/OSI.
+3
+Introdução à Computação Científica
+Construção de modelos matemáticos e técnicas de soluções numéricas. Aplicações de simulação computacional. Desenvolvimento de programas que modelam sistemas sendo estudados e os executam com diversos conjuntos de parâmetros de entrada. Supercomputadores e plataformas de computação distribuída. Simulação numérica. Adequação de modelos e análise de dados.
+3
+Engenharia de Requisitos
+Engenharia de software e engenharia de requisitos, análise de sistemas e negócio, engenharia de requisitos, extração de requisitos, especificação de requisitos, validação de requisitos, modelos de análise; métodos de análise, interação entre requisitos e análise, construção do modelo de análise.
+3
+Algoritmos e Teoria dos Grafos
+Introdução à teoria dos grafos. Algoritmos em grafos.
+3
+Introdução à Teoria da Computação
+Linguagem regulares, livres de contexto, sensível a contexto. Autômatos, máquina de Turing. Computabilidade. Problema da parada. Noções de Lambda calculus, funções recursivas e computabilidade.
+3
+Redes de Computadores II
+Topologia de rede e técnicas de chaveamento. Componentes e funções de rede. Processadores de comunicação. Redes locais. Confiabilidade e segurança de redes. Modelo OSI. Padrões nacionais.
+3
+Introdução a Teoria Geral da Administração
+
+4
+Projeto de Software
+Projeto de software, interação entre análise e projeto, modelos de projeto de software, métodos de projeto de software, construção do modelo de projeto de software, revisões e inspeções, padrões de projeto, interação entre o projeto e a implementação.
+3
+Análise de Algoritmos
+Introdução à Notação Assintótica e Análise de Algoritmos.
+3
+Inteligência Artificial
+Simulação da inteligência em diferentes áreas. Linguagem natural. Linguagem artificial. Aplicações.
+3
+Sistemas de Bancos de Dados
+Sistema de informação em ambiente de banco de dados. Estruturas em rede, hierárquicas e relacional. Administração de dados.
+3
+Teoria de Sistemas
+O conceito de sistemas. Definição e modelação de sistemas. Aplicação das abordagens de sistemas. Sistemas de administração.
+3
+Engenharia de Software
+Administração do projeto de engenharia de software. Validação. Técnicas de teste de produto. Metodologia de programação. Qualidade do produto de software. Complexidade de software: recursos, confiabilidade, disponibilidade. Planejamento de recursos.
+3
+Construção de Compiladores
+Gramáticas. Automatos. Computabilidade. Análise lexica. Análise sintática. Geração de código. Recuperação de erros. Compiladores de compiladores.
+3

@@ -59,13 +59,48 @@ if __name__ == '__main__':
 					
 					spamwriter.writerow(['Créditos-aula por Núcleo'])
 					spamwriter.writerow([course1.university, course1.name, course2.university, course2.name])
-					spamwriter.writerow(list(course1.getDisciplineCount())) # núcles
+					spamwriter.writerow(list(course1.getDisciplineCount())) # núcleos
 					spamwriter.writerow(list(course1.getDisciplineCount().values()))	# créditos
 					spamwriter.writerow(list(course2.getDisciplineCount().values()))	# créditos
 
 				# Gerando imagem do gráfico de venn
 				plt.plotVenn(course1, course2);
-		
+
+				eq = []
+				for tup in course1.result[2]:
+					eq.append(tup[1])
+
+				u1_iter = iter(course1.result[0])
+				u2_iter = iter(course1.result[1])
+				eq_iter = iter(eq)
+				c1_len  = len(course1.result[0])
+				c2_len  = len(course2.result[1])
+				eq_len  = len(eq)
+				table   = []
+
+				for i in range(max(c1_len, eq_len, c2_len)):
+					table.append([])
+					
+					try:
+						table[i].append(next(u1_iter))
+					except StopIteration:
+						table[i].append(" ")
+					
+					try:
+						table[i].append(next(eq_iter))
+					except StopIteration:
+						table[i].append(" ")
+
+					try:
+						table[i].append(next(u2_iter))
+					except StopIteration:
+						table[i].append(" ")
+				
+				with open(folderOut+'disciplinas-'+i1+'_'+c1+'-'+i2+'_'+c2+'.csv', 'w', newline='') as csvfile:
+					spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+					for line in table:
+						spamwriter.writerow(line)	# course1 unique disciplines
+
 		# insera a instituição na lista das processadas para que não haja arquivos duplicados
 		instProc.append(i1)
 

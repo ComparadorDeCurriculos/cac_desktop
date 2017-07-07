@@ -1,0 +1,105 @@
+INTRODUCAO A PROGRAMACAO
+Introdução a computadores e a linguagens de programação imperabvas. Variáveis, expressões e funções. Controle de fluxo iterações e condicionais. Valores básicos e estruturados. Funções e recursão. Arquivos.
+4
+INTROD ARQ DE COMPUTADORES
+Arquitetura básica de um computador, cpu, memória, periféricos. Armazenamento e representação de dados: base binária e complemento a dois, ponto flutuante, caractere. Armazenamento e representação de instruções. Modos de endereçamento. Conjunto típico de instruções de uma cpu. Montador e compilador. Modelo de execução da linguagem de programação estudada em técnicas de programação i. Tratamento de entradas e saídas de dados em computadores. Noções de sistemas operacionais. Serviços e chamadas do sistema operacional.
+2
+LOGICA PARA COMPUTACAO
+Relação da lógica com as questões centrais da filosofia, com ênfase nos aspectos epistemológicos (justificação, dedução, definição), aspectos metafísicos (verdade, essência, individuação) e aspectos linguísticos (termo, proposição, juízo, forma lógica). Noções do desenvolvimento histórico da lógica de Aristóteles a Frege.
+4
+INTR INT HUMANO-COMPUTADOR
+Comunicação usuário-sistema. Comunicação projetista usuário. Engenharia cognitiva e semiótica de sistemas interativos. Estilos e paradigmas de interação: interfaces gráficas; manipulação direta, ícones e linguagens visuais. Modelagem de interfaces: cenarização; modelos de tarefas; modelos de usuário; modelos de interação. Concretização do projeto de interface: storyboarding e prototipação de interfaces; ferramentas de apoio a construção de interfaces. Avaliação de sistemas interativos: inspeção e testes com usuários; aspectos éticos na relação com os usuários. Acessibilidade: interfaces para dispositivos móveis; usabilidade universal.
+4
+CALCULO DE UMA VARIAVEL
+Números reais, representação decimal. Sequências numéricas. Funções e gráficos. Continuidade. Limites de funções, limites assintóticos. Diferenciabilidade. Funções elementares: polinomial, exponencial, logaritmo e seus gráficos. Funções trigonométricas, suas inversas e derivadas. Máximos e mínimos locais, derivadas de ordem superior, pontos de inflexão. Otimização. Integral definida. Teorema fundamental do cálculo, primitivas. Aplicações de integrais.
+6
+O HUMANO E O FENOM RELIGIOSO
+Fundamentação antropológica da abertura do ser humano ao Transcendente. O fenômeno religioso no contexto atual, interpelações e novos paradigmas. Construção de conceitos fundamentais do fenômeno religioso e estudo crítico dos modelos teóricos de interpretação. Manifestações religiosas históricas e contemporâneas. Pluralismo, tolerância e o necessário diálogo inter-religioso. Os direitos humanos na perspectiva das grandes religiões.
+4
+Mecânica Newtoniana
+Vetores. Cinemática vetorial. Forças e Leis de Newton. Trabalho. Teorema Trabalho-Energia Cinética. Forças Conservativas, Energia potencial e energia mecânica. Momento linear. Conservação de momento linear e colisões. Cinemática rotacional. Momento de inércia de corpos rígidos. Torque. Equilíbrio de corpos rígidos. Momento angular e sua conservação. Rolamento de corpos rígidos.
+4
+LAB DE MECANICA NEWTONIANA
+Vetores. Cinemática vetorial. Forças e leis de Newton. Trabalho. Teorema trabalho-energia cinética. Forcas conservativas. Energia potencial e energia mecânica. Momento linear. Conservação de momento linear e colisões. Cinemática rotacional. Momento de inércia de corpos rígidos. Torque. Equilíbrio de corpos rígidos. Momento angular e sua conservação. Rolamento de corpos rígidos.
+2
+PROGRAMACAO II
+Linguagens imperativas. Recursão, arrays e algoritmos básicos: pesquisa sequencial e pesquisa binária, ordenação por seleção, "heapsort", "mergesort", "quicksort", ordenação por caixas. Tipos estruturados. Estruturas lineares: listas, representação por arrays e por encadeamento, pilhas e filas. Alocação dinâmica de memória. Cadeia de caracteres. Introdução a programação modular.
+4
+CALCULO A VARIAS VARIAVEIS I
+Continuidade e diferenciabilidade de funções de 2 e 3 variáveis: gráfico, domínio, imagem; aproximação linear; classificação de pontos críticos; teorema de Weierstrass; multiplicadores de Lagrange; integrais duplas e triplas em coordenadas cartesianas, polares, cilíndricas, e esféricas.
+4
+ALGEBRA LINEAR I
+Sistemas lineares. Coordenadas no plano e no espaço. Vetores, produto escalar, determinantes, produto vetorial, produto misto. Equações de retas e planos. Subespaços vetoriais, bases. Transformações lineares, matrizes, autovalores e autovetores.
+4
+PROBABILIDADE E ESTATISTICA
+Tipos de dados: seccionais e series temporais; bases de dados brasileiras e internacionais; tipos de variáveis (qualitativas e quantitativas) e escalas; medidas de tendência central, dispersão e simetria, quantis e percentis; histograma; box-plot e outras medidas de síntese de dados; definição de probabilidade; variáveis aleatórias; distribuição e densidades; transformação de variáveis; independência; variáveis discretas; variáveis continuas.
+4
+ESTRUTURAS DE DADOS AVANCADAS
+Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, filas de prioridades, árvores balanceadas. Heaps e estruturas para partições dinâmicas. Conjuntos: operações, representação por listas e por vetores característicos, hashing. Grafos e algoritmos básicos.
+4
+MODELAGEM DE DADOS
+Modelo de entidade-relacionamento: conceitos básicos de entidade, relacionamento e atributo; generalização/especialização; entidades associativas. Modelo conceitual de dados utilizando a linguagem UML. Estudos de casos
+2
+SOFTWARE BASICO
+Arquitetura básica de um computador; CPU, memória, periféricos. Armazenamento e representação de tipos primitivos; base binária, complemento a dois, ponto flutuante, código ASCII. Conjunto de instruções típico de uma CPU; modos de endereçamento, interrupções. Linguagem de montagem. Serviços e chamadas ao Sistema Operacional; Sistema de Arquivos. Modelo de Execução de Uma Linguagem de Alto Nível; implementação de instruções e dados. Organização de memória em um programa; área estática, área de alocação dinâmica, registros de ativação. Ligação e relocação de programas objeto.
+4
+EQUACOES DIFER E DE DIFERENCAS
+Interpretação geométrica e existência e unicidade de equação diferenciais de primeira ordem; equações diferenciais e de diferenças separáveis e lineares de primeira ordem, casos homogêneo e não-homogêneo; equações diferenciais e de diferenças separáveis e lineares de segunda ordem com coeficientes constantes; sistemas de dimensão 2; séries de potências e séries de Taylor; uso de séries de potências em equações de funções.
+4
+SISTEMAS DE COMPUTACAO
+Introdução: funções e estrutura de um sistema operacional. Processos: conceitos básicos; comunicação e sincronização; escalonamento. Gerência de memória: partições fixas e variáveis; realocação; memória virtual; swapping; sistemas de arquivos.
+4
+PROGRAMACAO MODULAR
+Módulos, interfaces acoplamento, coesão, modelagem física. Construção e uso de bibliotecas; compilação independente e em separado. Tipos abstratos de dados; amarração dinâmica; princípios de orientação a objetos. Especificação; independência entre especificação e implementação. Assertivas, argumentação da corretude. Instrumentação, princípios de testes de programas. Qualidade de software.
+4
+BANCOS DE DADOS
+Introdução aos sistemas de gerência de bancos de dados. Projeto de banco de dados: conceitual, lógico e físico. Modelo conceitual de entidades e relacionamentos. Modelo de dados relacional. Dependências funcionais e normalização. Linguagens de definição e de manipulação de dados. Álgebra relacional e sql. Restrições de integridade e visões. Organização física de bancos de dados: técnicas de armazenamento e indexação.
+4
+LING FORMAIS E AUTOMATOS
+Hierarquia de Chomsky. Alfabetos e Linguagens. Gramáticas. Autômatos finitos e linguagens regulares; máquinas de pilha e linguagens livres de contexto, gramáticas LL(k) e LR(k); gramáticas sensíveis a contexto; máquinas de Turing. Capacidade e limite de cada classe, Decidibilidade e Computabilidade.
+4
+ESTRUTURAS DISCRETAS
+Construções indutivas. Provas por indução; indução forte, indução estrutural. Princípios de contagem, combinatória. Grafos e árvores.
+4
+ETICA CRISTA
+A consciência ética fundada no valor da Vida e nos Direitos Humanos. A Pessoa humana em todas as suas dimensões: somática, psicoafetiva, social, ecológico-planetária e espiritual. A universalidade da proposta do Reino de Deus, anunciada e inaugurada por Jesus Cristo, como referencial mobilizador da ética: compromisso histórico práxico nas relações básico fundamentais do ser humano.
+2
+SEMANTICA DE LINGUAGENS
+Semântica operacional. Semântica axiomática. Semântica denotacional. Gramática de Atributos. Verificação de propriedades.
+4
+ENGENHARIA DE REQUISITOS
+Elicitação de requisitos; identificação das fontes de informação; técnicas de elicitação; modelagem; técnicas de modelagem; análise de requisitos; validação e verificação; gerência de requisitos; certificação e padrões internacionais; ferramentas.
+4
+ANALISE NUMERICA I
+Apresentação e análise do erro dos métodos mais conhecidos para a solução computacional de problemas matemáticos de amplo espectro de aplicação. Teoria dos erros. Aproximação de funções. Integração numérica de EDOs. Métodos para sistemas de equações lineares. Zeros de funções.
+4
+PROGRAMACAO ORIENTADA OBJETOS
+Objetos e classes; métodos; polimorfismo e late-binding; abstração de dados; herança simples e múltipla; interfaces; programação orientada a eventos; princípios de linguagens orientadas a objetos; classes e tipos genéricos.
+4
+COMPILADORES
+O processo de compilação. Análise léxica e sintática. Tradução dirigida pela sintaxe, tabelas de símbolos e tratamento de erros. Geração e otimização de código.
+4
+ANALISE DE ALGORITMOS
+Conceitos Básicos: motivação e solução de problemas, critérios de análise, correção e eficiência. Análise de Algoritmos: tempo de processamento e operações elementares, complexidade de pior caso, algoritmos polinomiais, comparação de algoritmos, algoritmos recursivos, algoritmos pseudo-polinomiais. Algoritmos e estruturas de dados para problemas em grafos: componentes conexas, planaridade, coloração, árvores geradoras de peso mínimo, caminhos mais curtos, caminhos críticos, fluxo máximo, aplicações. Teoria da Complexidade: problemas de decisão, transformações polinomiais, classe P, algoritmos não-determinísticos, classe NP e Co-NP, problemas NP-completos, classe P-space.
+4
+ETICA SOCIOAMBIENT DIR HUMANOS
+A crise socioambiental contemporânea. Fundamentos antropológicos, históricos, filosóficos e teológicos da ética socioambiental e dos Direitos Humanos. A contribuição da perspectiva cristã para o discernimento crítico e a construção de uma nova sociedade sustentável, justa e inclusiva. Os Direitos Humanos e o Estado Democrático de Direito. Diálogo interdisciplinar e Direitos Humanos. A Igreja Católica e suas contribuições aos Direitos Humanos. Movimentos eclesiais e Direitos Humanos: identidade, diálogo e profetismo hoje.
+2
+MODELAGEM DE SOFTWARE
+Princípios de modelagem software. Modelagem orientada a objetos. A linguagem UML. Arquiteturas de software. Padrões de Projeto. Verificação e Validação de modelos UML.
+4
+ESPEC/ANAL FORMAL DE SISTEMAS
+Lógica temporal para verificação de sistemas. Álgebra de processos: CCS, mu-Calculus e pi-Calculus. Verificação de propriedades de sistemas concorrentes.
+4
+REDES DE COMUNICACAO DE DADOS
+Introdução a comutação. Topologia de redes. Arquitetura de redes (osi, tcp/ip, etc.). Nível físico. Nível de enlace. Protocolos de acesso. Padrões ieee 802. Nível de rede (protocolo ip). Nível de transporte (protocolo tcp, udp, apis de transporte). Níveis de sessão, apresentação e aplicação: middleware. Sistemas operacionais de redes. Introdução a redes de alta velocidade (comutação de rótulos).
+4
+INTELIGENCIA ARTIFICIAL
+Jogos, busca. Lógica de primeira ordem resolução. Lógica não monotônica. Planos. Aprendizado. Sistemas Especialistas. Linguagem natural.
+4
+TESTE DE SOFTWARE
+Inspeção de software. Princípios e técnicas de testes de software: teste de unidade; teste de integração; teste de regressão. Desenvolvimento orientado a testes. Automação dos testes. Geração de casos de teste. Teste de interfaces humanas. Teste de aplicações para a web. Testes alfas, beta e de aceitação. Ferramentas de testes. Planos de testes. Gerenciamento do processo de testes. Registro e acompanhamento de problemas.
+4
+COMPUTABILIDADE
+Evidências para a tese de Church. Equivalência de modelos de computação: linguagem PL, Máquinas de Turing e Lambda Calculus; técnicas de programação nesses modelos. Máquina universal, problema da parada, problemas indecidíveis; conjuntos recursivamente enumeráveis; conjuntos recursivos. Teorema de Rice e Teorema de Rogers. Complexidade computacional: reducibilidade, classes naturais de problemas.
+4

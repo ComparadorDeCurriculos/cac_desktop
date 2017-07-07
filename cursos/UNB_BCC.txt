@@ -1,0 +1,108 @@
+Algebra 1
+Noções de lógica e teoria dos conjuntos; Os números inteiros; Estruturas algébricas: grupos, anéis, domínios de integridade e corpos; Polinômios sobre domínios de integridade.
+2
+Algoritmos e Programação de Computadores
+Princípios fundamentais de construção de programas. Construção de algoritmos e sua representação em pseudocódigo e linguagens de alto nível. Noções de abstração. Especificação de variáveis e funções. Testes e depuração. Padrões de soluções em programação. Noções de programação estruturada. Identificadores e tipos. Operadores e expressões. Estruturas de controle: condicional e repetição. Entrada e saída de dados. Estruturas de dados estáticas: agregados homogêneos e heterogêneos. Iteração e recursão. Noções de análise de custo e complexidade. Desenvolvimento sistemático e implementação de programas. Estruturação, depuração, testes e documentação de programas. Resolução de problemas. Aplicações em casos reais e questões ambientais.
+4
+Autômatos e Computabilidade
+Gramática. Linguagens Regulres, Livre do Contexto e Sensíveis ao Contexto. Tipos de Reconhecedores. Operações com Linguagens. Propriedades das Linguagens. Autômatos de Estado Finito. Autômatos a Pilha. Máquina de Turing. Variações da Máquina de Turing.Tese de Church-Turing. Décimo Problema de Hilbert. Decidibilidade. O Problema da Parada. Redutibilidade. Teorema da Recursão. Oráculos. Enumeração e Números de Gödel. Funções Recursivas. Equivalência de Funções Recursivas e Funções Computáveis a Turing. Relações Recursivamente Enumeráveis.
+6
+BANCOS DE DADOS
+NIVEIS DE ABSTRACAO DE INFORMACOES E DADOS; MODELO RELACIONAL; MODELO DE REDE; MODELO HIERARQUICO; SEGRUANCA, INTEGRIDADE E CONCORRENCIA; ESTUDO DE CASOS; NOVAS APLICACOES PARA BANCO DE DADOS. 
+4
+Cálculo 1
+Funções de uma variável real, limite e continuidade, derivada, integral, aplicações da integral.
+2
+Cálculo 2
+Sequências e séries numéricas; séries de potências; fórmula de Taylor; equações diferenciais ordinárias de 1ª ordem; equações diferenciais ordinárias lineares; o método da série de potências; a transformada de Laplace; sistemas lineares de equações diferenciais ordinárias de 1ª ordem.
+4
+CALCULO NUMERICO
+ZEROS DE FUNCOES. ZEROS DE POLINOMIOS; SISTEMAS DE EQUACOES LINEARES. INVERSAO DE MATRIZES; AJUSTE DE CURVAS. INTERPOLACAO; INTEGRACAO NUMERICA; RESOLUCAO NUMERICA DE EQUACOES DIFERENCIAIS ORDINARIAS.
+4
+CIRCUITOS DIGITAIS
+Linguagens de descrição de hardware. ÁlgebraBooleana. Estruturas de Portas Lógicas.Circuitos Combinacionais. Memórias. Circuitos Sequenciais. Conversão A/D e D/A.
+4
+Compiladores
+
+4
+Computação Experimental
+
+2
+ENGENHARIA DE SOFTWARE
+SOFTWARE E ENGENHARIA DE SOFTWARE; PLANEJAMENTO DO PROJETO DE SOFTWARE FUNDAMENTOS E METODOS DE ANALISE; FUNDAMENTOS DO PROJETO DE SOFTWARE; ASSEGURANDO A QUALIDADE DO SOFTWARE: FATORES E ATIVIDADES; FORMAIS; METODOS DE QUALIDADE; TECNICAS DE TESTES; MANUTENCAO; AUTOMACAO DO PROCESSO DE DESENVOLVIMENTO DE SOFTWARE: AMBIENTES APOIADOS EM SISTEMAS OPERACIONAIS, LINGUAGENS E METODOLOGIAS; FERRAMENTAS INTELIGENTES PARA AUXILIO A PRODUCAO DE SOFTWARE. 
+4
+ESTRUTURAS DE DADOS
+Gerenciamento dinâmico da memória. Listas. Pilhas. Filas. Árvores. Ordenação e Pesquisa.Pesquisa em Árvores. Grafos. Análise e aplicação de estruturas avançadas em problemas de programação. Resolução de problemas. Aplicações em problemas ambientais.
+4
+Fundamentos de Sistemas Operacionais
+
+4
+Fundamentos Teóricos da Computação
+Estudo de fundamentos de lógica, técnicas de prova, indução matemática, teoria de conjuntos, análise combinatória, funções, recursão, relações em conjuntos.
+2
+INFORMATICA E SOCIEDADE
+FUNDAMENTOS DE SOCIEDADE, INFORMATICA E CONHECIMENTO TECNICO-CIENTIFICO; DESENVOLVIMENTO TECNOLOGICO, APLICACOES E PERSPECTIVAS DA INFORMATICA; IMPACTOS DA TECNOLOGIA DE INFORMATICA; INFORMATICA NO BRASIL.
+2
+INTRODUCAO A INTELIGENCIA ARTIFICIAL
+Introdução a IA. Resolução de problemas. Métodos de busca. Conhecimento e raciocínio sem incerteza. Aspectos gerais de sistemas baseados em conhecimento. Aplicações de IA.
+4
+INTRODUCAO A INTELIGENCIA ARTIFICIAL
+Introdução a IA. Resolução de problemas. Métodos de busca. Conhecimento e raciocínio sem incerteza. Aspectos gerais de sistemas baseados em conhecimento. Aplicações de IA.
+4
+Introdução aos Sistemas Computacionais
+Os cursos de graduação em computação da UnB. Normas e currículos. Histórico e evolução da computação. Conceitos básicos de eletricidade e eletrônica digital. Representação de Dados. Introdução à Álgebra Booleana. Noções básicas de organização e arquitetura de computadores.
+2
+INTRODUCAO A ALGEBRA LINEAR
+Sistemas lineares e matrizes; Espaços vetoriais; Produto interno; Transformações lineares; Autovalores e autovetores; Diagonalização de operadores; Aplicações.
+2
+LINGUAGENS DE PROGRAMACAO
+INTRODUCAO; CONCEITOS: VARIAVEIS, EXPRESSOES, ESCOPO, COMANDOS, TIPAGEM, PROCEDIMENTOS, TIPOS DE DADOS, ABSTRACAO, CONTROLE ETC. PARADIGMAS E LINGUAGEM DE PROGRAMACAO: IMPERATIVAS, LOGICAS, E ORIENTADAS POR OBJETOS. 
+4
+Lógica Computacional 1
+Noções Básicas Linguagem Natural vs Linguagens Formais; Verdade, Validade, Satisfatibilidade; Lógica Proposicional: Sintaxe e Semântica; Propriedades e Relações Semânticas; Conseqüência Lógica; Simplificação de Fórmulas; Lógica de Primeira Ordem: Sintaxe e Semântica; Propriedades e Relações Semânticas; Formas Normais. Métodos de Validação Métodos Diretos de Prova; Métodos de Prova por Contradição; Indução. Linguagem para experimentação Aplicações Básicas.
+2
+Metodologia Científica
+
+0
+ORGANIZACAO E ARQUITETURA DE COMPUTADORES
+Desempenho de Processadores. Arquitetura do Conjunto de Instruções e Linguagem de Máquina. Aritmética Computacional. Organização e Projeto de Processadores (Uniciclo, Multiciclo e Pipeline). HIerarquia de Memória. Sistemas de entrada e saída. Introdução ao Multiprocessamento. 
+4
+Organização de Arquivos
+TECNOLOGIAS DE DISPOSITIVOS DE ARMAZENAMENTO SECUNDARIO; PARAMETROS DE HARDWARE; ORGANIZACOES BASICAS DE ARQUIVOS; PILHA, SEQUENCIAL, SEQUENCIAL-INDEXADO, DIRETO E INVERTIDO; ORGANIZACOES HIBRIDAS DE ARQUIVOS: AVALIACAO DE SISTEMAS DE ARQUIVOS; COMPRESSAO DE DADOS; CLASSIFICACAO EM MEMORIA SECUNDARIA. 
+2
+Probabilidade e Estatística
+ANALISE DE OBSERVACOES - MODELO MATEMATICO - EXP. ALEATORIA E ESPACO AMOSTRAL AXIOMAS E TEOREMAS BASICOS - VARIAVEIS ALEATORIAS-DISTRIBUICOES E SUAS CARACTERISTICAS - COVARIANCIA E CORRELACAO - DISTRIBUICAO CONJUNTA - PRINCIPAIS MODELOS - DISCRETOS E CONTINUOS-ESTATISTICA DESCRITIVA - AJUSTAMENTOS DE FUNCOES REAIS - CORRELACAO E REGRESSAO NOCOES DE AMOSTRAGEM E TESTES DE HIPOTESES - APLICACOES.
+4
+Programação Concorrente
+
+2
+Projeto e Análise de Algoritmos
+Fundamentos matemáticos para análise de algoritmos; Análise assintótica de algoritmos; Paradigmas de projeto de algoritmos; Algoritmos eficientes para ordenação, comparação de sequências, problemas em grafos; Fundamentos de complexidade computacional, redução entre problemas, classes P e NP, problemas NP-Completos.
+4
+Redes de Computadores
+Noções básicas de transmissão de dados: tipos de enlace, códigos, modos e meios de transmissão. Redes de computadores: locais, metropolitanas e de longa distância. Terminologia e aplicações, topologias, modelos de arquitetura (OSI/ISO e TCP/IP) e protocolos. Interconexão de redes. Nível de transporte.
+2
+Segurança Computacional
+
+4
+SISTEMAS DE INFORMACAO
+FUNDAMENTOS DA TEORIA GERAL DE SISTEMAS; TEORIA DA INFORMACAO: CONCEITO DE INFORMACAO, CONCEITO DE DADOS, REPRESENTACAO DE DADOS E DE CONHECIMENTO; SISTEMAS DE INFORMACOES: FASES E ETAPAS; DOCUMENTACAO; PROTOTIPACAO; MODELAGEM CONCEITURAL: ABSTRACAO, MODELO ENTIDADE RELACIONAMENTO, ANALISE FUNCIONAL, ADMINISTRACAO DE DADOS; ESTUDO DE CASO. 
+4
+SOFTWARE BASICO
+PROGRAMACAO EM LINGUAGEM DE MAQUINA; MONTADORES, LIGADORES E CARREGADORES; PROGRAMACAO EM LINGUAGEM C. 
+4
+Tecnicas de Programação 1
+
+2
+Tecnicas de Programação 2
+
+2
+Teoria e Aplicação de Grafos
+
+2
+Trabalho de Graduação 1
+
+0
+Trabalho de Graduação 2
+
+0

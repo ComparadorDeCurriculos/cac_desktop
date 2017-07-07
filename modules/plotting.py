@@ -156,10 +156,11 @@ def plotVenn(course1,course2):
 	"""
 
 	filename = "comparison/venn-" + course1.university + "_" + course1.name + '-' +  course2.university + '_' + course2.name + ".png"
-	result = course1.compare(course2,0.2);
+	course1.result = course1.compare(course2,0.2);
+	course2.result = course1.result
 
-	s = (len(result[0]),len(result[1]),len(result[2]))
-	v = venn2(subsets=s, set_labels=(result[3][0],result[3][1]), set_colors=['red','#0066cc'], alpha=1.0);
+	s = (len(course1.result[0]),len(course1.result[1]),len(course1.result[2]))
+	v = venn2(subsets=s, set_labels=(course1.result[3][0],course1.result[3][1]), set_colors=['red','#0066cc'], alpha=1.0);
 
 	# Subset labels
 	v.get_label_by_id('10').set_text(s[0])
