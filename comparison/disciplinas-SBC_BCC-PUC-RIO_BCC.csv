@@ -1,28 +1,28 @@
-Circuitos Eletrônicos,Algoritmos e Estruturas de Dados,SOFTWARE BASICO
-Análise de Algoritmos,Arquitetura e Organização de Computadores,SEMANTICA DE LINGUAGENS
-Fundamentos de Sistemas,Circuitos Digitais,COMPUTABILIDADE
-Circuitos Integrados,Linguagens de Programação,INTRODUCAO A PROGRAMACAO
-Computação Gráfica,Organização de Arquivos e Dados,MODELAGEM DE DADOS
-Automação e Controle,Sistemas Operacionais,PROGRAMACAO MODULAR
-Métodos Formais,Teoria dos Grafos,PROGRAMACAO ORIENTADA OBJETOS
-Processamento Digital de Sinais,Análise de Desempenho,MODELAGEM DE SOFTWARE
-Processamento de Imagens,Bancos de Dados,TESTE DE SOFTWARE
-Segurança e Auditoria de Sistemas,Compiladores,LAB DE MECANICA NEWTONIANA
-Sistemas Embarcados,Engenharia de Software,LOGICA PARA COMPUTACAO
-Telecomunicações,Inteligência Artificial,O HUMANO E O FENOM RELIGIOSO
-Administração,Interação Humano-Computador,ETICA CRISTA
-Computadores e Sociedade,Matemática Computacional,ETICA SOCIOAMBIENT DIR HUMANOS
-Comunicação e Expressão,Modelagem e Simulação,CALCULO A VARIAS VARIAVEIS I
-Contabilidade e Custos,Programação Paralela,PROBABILIDADE E ESTATISTICA
-Direito e Legislação,Redes de Computadores, 
-Economia,Sistemas Digitais, 
-Empreendedorismo,Sistemas Distribuídos, 
-Estágio,Sistemas Multimídia, 
-Filosofia,Tolerância a Falhas, 
-Informática na Educação,Física, 
-Inglês,Álgebra Linear, 
-Métodos Quantitativos Aplicados à Administração de Empresas,Análise Combinatória, 
-Sociologia,Cálculo Diferencial e Integral, 
-Psicologia,Equações Diferenciais, 
-Matemática Discreta,Geometria Analítica, 
-Probabilidade e Estatística,Lógica Matemática, 
+Matemática Discreta,Álgebra Linear,CALCULO A VARIAS VARIAVEIS I
+Probabilidade e Estatística,Análise Combinatória,PROBABILIDADE E ESTATISTICA
+Análise de Algoritmos,Cálculo Diferencial e Integral,LAB DE MECANICA NEWTONIANA
+Fundamentos de Sistemas,Equações Diferenciais,SOFTWARE BASICO
+Administração,Geometria Analítica,SEMANTICA DE LINGUAGENS
+Computadores e Sociedade,Lógica Matemática,COMPUTABILIDADE
+Comunicação e Expressão,Física,LOGICA PARA COMPUTACAO
+Contabilidade e Custos,Algoritmos e Estruturas de Dados,O HUMANO E O FENOM RELIGIOSO
+Direito e Legislação,Arquitetura e Organização de Computadores,ETICA CRISTA
+Economia,Circuitos Digitais,ETICA SOCIOAMBIENT DIR HUMANOS
+Empreendedorismo,Linguagens de Programação,INTRODUCAO A PROGRAMACAO
+Estágio,Organização de Arquivos e Dados,MODELAGEM DE DADOS
+Filosofia,Sistemas Operacionais,PROGRAMACAO MODULAR
+Informática na Educação,Teoria dos Grafos,PROGRAMACAO ORIENTADA OBJETOS
+Inglês,Análise de Desempenho,MODELAGEM DE SOFTWARE
+Métodos Quantitativos Aplicados à Administração de Empresas,Bancos de Dados,TESTE DE SOFTWARE
+Sociologia,Compiladores, 
+Psicologia,Engenharia de Software, 
+Circuitos Integrados,Inteligência Artificial, 
+Computação Gráfica,Interação Humano-Computador, 
+Automação e Controle,Matemática Computacional, 
+Métodos Formais,Modelagem e Simulação, 
+Processamento Digital de Sinais,Programação Paralela, 
+Processamento de Imagens,Redes de Computadores, 
+Segurança e Auditoria de Sistemas,Sistemas Digitais, 
+Sistemas Embarcados,Sistemas Distribuídos, 
+Telecomunicações,Sistemas Multimídia, 
+Circuitos Eletrônicos,Tolerância a Falhas, 

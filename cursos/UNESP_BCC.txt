@@ -1,0 +1,114 @@
+Cálculo I
+Função real de uma variável real. Limites. Derivadas. Aplicações de Derivadas.
+4
+Geometria Analítica
+Vetores. A Reta. O Plano. Distância e Ângulos. Curvas Planas.
+4
+Lógica Computacional
+Lógica proposicional; lógica quantificacional; álgebra dos conjuntos; sistemas booleanos, sistemas fuzzy.
+4
+Probabilidade e Estatística
+Estatística Descritiva. Probabilidades. Variáveis Aleatórias. Amostragem. Estimação de Parâmetros. Testes de Hipóteses. Correlação e Regressão.
+4
+Algoritmos I
+Metodologia para o desenvolvimento de programas. Estruturas básicas: tipos, constantes e variáveis. Expressões: aritméticas e lógicas. Estruturas de controle. Modularização. Manipulação de Cadeias de Caracteres. Estruturas de Dados Compostas Homogêneas.
+4
+Fundamentos de Computação
+Sistemas de Numeração. Representação interna de dados. Arquitetura de Computadores. Conceitos de linguagens de programação. Tecnologia da Informação.
+2
+Dispositivos e Circuitos Eletrônicos
+Analise de Circuitos. Teoria dos Semicondutores. Transistor de Junção Bipolar. Transistor de Efeito de Campo de Junção (JFET). Transistor de Efeito de Campo de Metal Oxido Semicondutor (MOSFET). Chaveamento com Transistores. Amplificadores Operacionais. Outros Circuitos Integrados Lineares.
+4
+Laboratório de Mecânica Aplicada
+Medição de grandezas físicas Movimento unidimensional Aceleração e força Massa e força Trabalho e força Momento linear Movimento bidimensional
+2
+Cálculo II
+Integral Indefinida e Técnicas de Integração. Coordenadas Polares. Integral Definida e Aplicações. Integral Imprópria.
+4
+Álgebra Linear
+Matrizes. Sistemas Lineares. Espaços Vetoriais. Transformações Lineares.
+4
+Metodologia da Pesquisa Científica
+Planejamento e desenvolvimento da pesquisa científica: as etapas da pesquisa, pesquisa bibliográfica, experimental, correlacional e de campo. Metodologia de observação e registro do comportamento. Técnicas de Pesquisa Bibliográfica: itens básicos para a elaboração e apresentação de trabalho científico. Normalização de referência bibliográfica.
+2
+Algoritmos II
+Estruturas de dados compostas heterogêneas. Arquivos. Recursividade. Complexidade de Algoritmos. Algoritmos de Busca. Algoritmos de Ordenação Interna. Listas Lineares.
+4
+Linguagem de Montagem
+Linguagem de Montagem e Montadores. Instruções e modos de endereçamento. Macroinstruções e montagem condicional. Integração de Linguagens de Montagem com Linguagens de Alto Nível.
+2
+Circuitos Digitais
+Circuitos Lógicos. Codificadores e Decodificadores. Multiplexadores e Demultiplexadores. Circuitos Aritméticos. Introdução a Lógica Seqüencial. Flip-Flops. Registradores de Deslocamento. Contadores e Divisores. Famílias Lógicas e Circuitos Integrados. Memórias Semicondutoras. Interface com o Mundo analógico. Dispositivos de Lógica Programável. Introdução ao Microprocessador e ao Microcomputador.
+4
+Laboratório de Circuitos Digitais
+Experimentos com Portas Lógicas. Experimentos com Circuitos Lógicos. Experimentos com Circuitos Codificadores e Decodificadores. Experimentos com Circuitos Multiplex e Demultiplex. Experimentos com Circuitos Aritméticos.Experimentos com Flip-Flops. Multivibradores Ástavel e Monoestável. Experimentos com Registradores de Deslocamento. Experimentos com Contadores Digitais. Experimentos com Memórias Semicondutoras. Conversores Digitais.Dispositivos de Lógica Programável.
+4
+Cálculo IV
+Funções reais de duas ou mais variáveis reais. Limites. Derivadas Parciais. Aplicações de Derivadas Parciais - Máximos e Mínimos. Fórmula de Taylor.
+4
+Pesquisa Operacional I
+Algoritmos Numéricos. Cálculo de Zero de Funções. Solução de Sistemas Algébricos Lineares. Interpolação de Funções. Ajuste de Curvas. Diferenciação Numérica. Integração Numérica. Solução de Sistemas de Equações Não Lineares.
+4
+Teoria da Computação e Linguagens Formais
+ Tipo Abstrato de Dados e Abstração. Pilhas. Filas. Árvores. Coleta e compactação. Heap. Hashing.
+4
+Estruturas de Dados II
+Programação Orientada a Objetos. Técnicas de Projeto de Algoritmos. Aplicações de Linguagens de Programação.
+4
+Administração de Sistemas de Informação
+Fundamentos sobre arquitetura e organização de computadores. Organização de processsadores, memórias, barramentos e dispositivos de Entrada e Saída. Análise de sistemas paralelos. Análise de tópicos avançados em arquitetura e organização de computadores.
+4
+Sistemas Operacionais I
+Carga elétrica Campo elétrico Potencial elétrico Capacitância Corrente elétrica Bandas de energia
+4
+Pesquisa Operacional II
+Programação Linear Inteira. Programação Não Linear: Otimização Monovariável, >Otimização Multivariável sem Restrições, Otimização Multivariável com Restrições.
+4
+Compiladores
+Introdução à compilação. Analisador léxico. Analisador sintático descendente. Analisador sintático ascendente. Análise Semântica. Sistema de Execução básico de uma linguagem de programação. Organização do Computador.
+4
+Banco de Dados I
+Introdução aos sistemas de banco de dados. Modelagem de dados. Linguagem de definição, manipulação e consulta de dados. Projeto de banco de dados
+4
+Engenharia de Software I
+ Paradigmas da engenharia de software. O processo de desenvolvimento de software. Métricas de software. Gerenciamento, estimativas, análise de risco e planejamento em projetos de software. Qualidade de software. Análise de requisitos e engenharia de requisitos. Metodologias para análise de requisitos.
+4
+Sistemas Operacionais II
+Gerenciamento de Memória Virtual. Gerenciamento de Entrada e Saída. Deadlocks. Sistemas de Arquivos. Projeto e Implementação de Sistemas Operacionais
+4
+Microcontroladores
+Arquitetura de Microcontroladores. Programação de Microcontroladores. Desenvolvimento de Projetos.
+4
+Computação Gráfica
+Conceitos Básicos de Computação Gráfica; Fundamentos da Imagem Digital; Dispositivos Gráficos; Transformações Geométricas 2D e 3D; Transformações para Visualização; Modelos Geométricos; Rasterização; Mecanismos de Visualização 3D; Modelos de Iluminação e Tonalização.
+4
+Inteligência Artificial
+Aspectos Filosóficos, conceitos de conhecimento e bases de conhecimento; Introdução às representações; Estratégias de controle; Estratégias de pesquisa; Mecanismo de inferência; deduções baseadas em regra, Planejamento Orientado a Metas; Aplicações de entendimento; Representação de conhecimento; Quadros e roteiros; Linguagens de Programação, ferramentas e Banco de dados para Inteligência Artificial; Sistemas baseados em conhecimento; Sistemas de robótica.
+4
+Banco de Dados II
+Transações. Controle de Concorrência. Recuperação de falhas. Bancos de Dados Distribuídos. Segurança e Integridade. Banco de dados orientado a objetos e objetorelacionais. Tecnologias emergentes em banco de dados.
+4
+Engenharia de Software II
+Fundamentos e fatores qualidades de um projeto de software. Arquitetura de software. Padrões de projeto de software. Técnicas e estratégias de teste de software. Implementação e manutenção de software. Gerenciamento de Configuração. Métodos ágeis no desenvolvimento de software. Utilização de ferramentas CASE na fase de projeto, implementação e teste de software.
+4
+Redes de Computadores
+Introdução. Conceitos Básicos em Redes de Computadores. Modelo OSI. A rede Mundial Internet. Arquitetura TCP/IP. Segurança e Gerenciamento de Redes.
+4
+Direito, Legislação e Ética
+Direito, Ramos do Direito, Direito público e privado e fontes do Direito a Constituição Federal/88. Licitações, Importações e Exportações. Relações Trabalhistas, Prestações de Serviços, Legislação sobre Informática, Direitos Autorais.
+4
+Segurança em Sistemas de Informação
+Revisão dos conceitos de redes de computadores. Protocolos TCP/IP. Conceitos em segurança de redes de computadores. Vulnerabilidade e exposição. Ataques cibernéticos. Códigos maliciosos. Dispositivos de defesa em redes de computadores. Firewalls, Sistemas de Detecção de Intrusos, Sistemas de autenticação. Fundamentos de criptografia. Conceitos básicos de programação segura. Conceitos sobre gerenciamento, monitoração e auditoria de redes de computadores. Plano de segurança de sistemas.
+4
+Projeto e Implementação de Sistemas I 12
+Apresentação de pré-proposta de desenvolvimento do projeto. Escolha de orientador para seu desenvolvimento. Revisão bibliográfica e estudo de produtos ou projetos similares. Apresentação de proposta definitiva em comum acordo com o orientador de projeto. Início do desenvolvimento do projeto, Apresentação de palestras, seminários e relatórios sobre o desenvolvimento do projeto.
+4
+Empreendedorismo 
+Fundamentos de Administração de Empresas Estruturas Organizacionais Liderança, Comunicação, Gerenciamento Empreendedorismo Investigar e entender a ação empreendedora, concentrando-se nos processos de auto-conhecimento, perfil do empreendedor, criatividade, desenvolvimento de visão e identificação de oportunidades. Planos de Negócios: Entender e exercitar a elaboração de Planos de Negócios, buscando o entendimento do processo de definição de uma nova empresa de base tecnológica e seus principais desafios para operação.
+4
+Projeto de Redes de Computadores
+Introdução ao Projeto de Redes. Identificação das necessidades. Projeto Lógico da Rede. Projeto Físico da Rede. Exemplos de projeto de redes.
+4
+Projeto e Implementação de Sistemas II
+Continuação do desenvolvimento do projeto iniciado na disciplina Projeto e Implementação de Sistemas I. Apresentação de palestras, seminários e relatórios sobre o desenvolvimento do projeto. Documentação do projeto. Apresentação pública do projeto.
+12

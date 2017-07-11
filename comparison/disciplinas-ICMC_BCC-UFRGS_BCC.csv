@@ -1,19 +1,26 @@
-Introdução à Ciência de Computação II,Introdução à Ciência de Computação I,INTRODUÇÃO À ARQUITETURA DE COMPUTADORES
-Programação Orientada a Objetos,Laboratório de Introdução à Ciência de Computação I,ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES I
-Algoritmos Avançados e Aplicações,Prática em Lógica Digital,ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES II
-Sistemas de Informação,Introdução à Lógica Digital,TEORIA DA COMPUTAÇÃO N
-Processos Estocásticos,Eletrônica para Computação,COMPLEXIDADE DE ALGORITMOS - B
-Introdução ao Desenvolvimento Web,Algoritmos e Estruturas de Dados I,SISTEMAS OPERACIONAIS I N
-Física Básica I,Prática em Sistemas Digitais,FUNDAMENTOS DE PROCESSAMENTO DE IMAGENS
-Laboratório de Física Geral I,Sistemas Digitais,ENGENHARIA DE SOFTWARE N
-Informação Profissional em Ciências da Computação,Organização de Arquivos,MODELOS DE LINGUAGEM DE PROGRAMAÇÃO
-Evolução Histórica da Computação e Aplicações,Modelagem Computacional em Grafos,TÉCNICAS DE CONSTRUÇÃO DE PROGRAMAS
-Computadores e Sociedade I,Sistemas Operacionais I,EMPREENDIMENTO EM INFORMÁTICA
-Projeto Supervisionado I,Teoria da Computação e Linguagens Formais,FUNDAMENTOS DE ALGORITMOS
-Projeto Supervisionado II,Arquitetura de Computadores,CÁLCULO E GEOMETRIA ANALÍTICA II - A
-Cálculo III,Organização de Computadores Digitais I,LÓGICA PARA COMPUTAÇÃO
- ,Bases de Dados,TEORIA DOS GRAFOS E ANÁLISE COMBINATÓRIA
- ,Computação Gráfica,SEMÂNTICA FORMAL N
+Cálculo III,Geometria Analítica,FUNDAMENTOS DE ALGORITMOS
+Física Básica I,Cálculo I,CÁLCULO E GEOMETRIA ANALÍTICA II - A
+Laboratório de Física Geral I,Matemática Discreta I,LÓGICA PARA COMPUTAÇÃO
+Introdução à Ciência de Computação II,Cálculo II,TEORIA DOS GRAFOS E ANÁLISE COMBINATÓRIA
+Programação Orientada a Objetos,Cálculo IV,SEMÂNTICA FORMAL N
+Algoritmos Avançados e Aplicações,Estatística,INTRODUÇÃO À ARQUITETURA DE COMPUTADORES
+Sistemas de Informação,Álgebra Linear e Equações Diferenciais,ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES I
+Informação Profissional em Ciências da Computação,Introdução à Ciência de Computação I,ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES II
+Evolução Histórica da Computação e Aplicações,Laboratório de Introdução à Ciência de Computação I,TEORIA DA COMPUTAÇÃO N
+Computadores e Sociedade I,Prática em Lógica Digital,COMPLEXIDADE DE ALGORITMOS - B
+Projeto Supervisionado I,Introdução à Lógica Digital,SISTEMAS OPERACIONAIS I N
+Projeto Supervisionado II,Eletrônica para Computação,TÉCNICAS DE CONSTRUÇÃO DE PROGRAMAS
+Processos Estocásticos,Algoritmos e Estruturas de Dados I,EMPREENDIMENTO EM INFORMÁTICA
+Introdução ao Desenvolvimento Web,Prática em Sistemas Digitais,FUNDAMENTOS DE PROCESSAMENTO DE IMAGENS
+ ,Sistemas Digitais,ENGENHARIA DE SOFTWARE N
+ ,Organização de Arquivos,MODELOS DE LINGUAGEM DE PROGRAMAÇÃO
+ ,Modelagem Computacional em Grafos, 
+ ,Sistemas Operacionais I, 
+ ,Teoria da Computação e Linguagens Formais, 
+ ,Arquitetura de Computadores, 
+ ,Organização de Computadores Digitais I, 
+ ,Bases de Dados, 
+ ,Computação Gráfica, 
  ,Cálculo Numérico, 
  ,Engenharia de Software, 
  ,Redes de Computadores, 
@@ -21,10 +28,3 @@ Cálculo III,Organização de Computadores Digitais I,LÓGICA PARA COMPUTAÇÃO
  ,Programação Matemática, 
  ,Programação Concorrente, 
  ,Linguagens de Programação e Compiladores, 
- ,Geometria Analítica, 
- ,Cálculo I, 
- ,Matemática Discreta I, 
- ,Cálculo II, 
- ,Cálculo IV, 
- ,Estatística, 
- ,Álgebra Linear e Equações Diferenciais, 

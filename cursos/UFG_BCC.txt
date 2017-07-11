@@ -1,0 +1,129 @@
+CÁLCULO 1
+Funções de uma variável real. Noções sobre limite e continuidade. A derivada: derivada de ordem superior. Aplicações da derivada. Séries de Taylor.
+4
+INTRODUÇÃO À COMPUTAÇÃO
+Conceituação de computador, informática e software. Histórico da computação. Noções básicas de arquitetura e organização de computadores; unidade central de processamento; memória; conjunto de instruções; execução de instruções; dispositivos de entrada/saída; comunicação com periféricos (fluxo de dados); Armazenamento (disco rígido, CD-ROM, DVD e outros) e representação de dados; sistemas de arquivos; sistemas de numeração; aritmética binária, hexadecimal e decimal; representação de números em ponto fixo e ponto flutuante; representação de caracteres, conceitos de álgebra booleana. Software básico; sistemas operacionais e sistemas gerenciadores de bancos de dados. Conceitos de sistemas; administração da informação; categorização dos sistemas quanto à função, serviços; formas de comercialização, instalação e uso. Noções de software: evolução de linguagens de programação, compiladores e interpretadores, desenvolvimento (análise e projeto), ética, segurança, emprego (e as conseqüências decorrentes), riscos e tecnologias emergentes. Aplicativos: processadores de texto, planilhas de cálculo, editores gráficos e de apresentações. Comunicação de dados. Multimídia e realidade virtual. Redes de computadores; Internet (organização e serviços); correio eletrônico; navegadores (browsers); busca na Internet; servidores WWW, serviços Web, páginas HTML, aplicações em n-camadas.
+4
+LÓGICA MATEMÁTICA
+Lógica Proposicional: Proposições e conectivos; Operações Lógicas sobre proposições; Construção de tabelas-verdade; Tautologias, contradições e contingências; Implicação Lógica; Equivalência Lógica; Álgebra das proposições; Métodos para determinação da validade de fórmulas da Lógica Proposicional (Demonstração condicional e demonstração indireta) Lógica de Predicados: Programação Lógica.
+4
+MATEMÁTICA DISCRETA
+Princípios dos números naturais, inteiros, racionais e reais. Conjuntos: interseção, união, complemento, produto. Figuras de Venn. Noção de relação e de função. Classificação de funções. Técnicas de demonstração. Recursão e Relação de Recorrência. Matrizes. Sistema de equações lineares e solução. Grafos e dígrafos.
+4
+PROGRAMAÇÃO DE COMPUTADORES 1 CN
+LÓGICA DE PROGRAMAÇÃO; CONSTANTES; TIPOS DE DADOS PRIMITIVOS; VARIÁVEIS; ATRIBUIÇÃO; EXPRESSÕES ARITMÉTICAS E LÓGICAS; ESTRUTURAS DE DECISÃO; ESTRUTURAS DE CONTROLE; ESTRUTURAS DE DADOS HOMOGÊNEAS E HETERORGÊNEAS: VETORES (ARRAYS) E MATRIZES; RECURSÃO.
+4
+FÍSICA PARA COMPUTAÇÃO
+Força elétrica, campo elétrico. Lei de Gauss. Potencial elétrico. Capacitores e dielétricos. Corrente e resistência elétrica. Campo magnético. Lei de Ampère, lei de Faraday. Indutância. Propriedades magnéticas da matéria. Corrente alternada. Ondas eletromagnéticas. Noções de ótica física.
+4
+ÁLGEBRA LINEAR
+Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.
+4
+CÁLCULO 2
+Integral indefinida e definida de funções de uma variável real. Integrais impróprias. Aplicações da Integral. Função logaritmo e exponencial. Séries de números reais.
+4
+PROGRAMAÇÃO DE COMPUTADORES 2 CN
+Aprofundamento das técnicas de programação de computadores, especialmente quanto à implementação de programas em uma linguagem procedural e de alto nível. A implementação de programas deve ser feita utilizando uma ferramenta/ambiente de desenvolvimento que permita a edição, compilação, depuração dos códigos, empacotamento e distribuição. Interpretação de enunciados de problemas e a elaboração de soluções na forma de programas implementados em uma linguagem de alto nível. Elaboração de programas modularizados, criando funções e procedimentos, funções recursivas, e utilizando bibliotecas. Domínio de uma linguagem de programação procedural quanto à sintaxe, semântica, estilo, convenções, ferramenta/ambiente de desenvolvimento. Implementação de programas utilizando, de forma aprofundada, estruturas de dados homogêneas e heterogêneas, ponteiros e referências de memória, e manipulação de arquivos (streams).
+4
+SISTEMAS DIGITAIS
+Álgebra booleana e portas lógicas: Introdução a Circuitos Combinacionais, Circuitos Seqüenciais e Famílias Lógicas de Circuitos Integrados. Técnicas de minimização e síntese de Circuitos Combinacionais e Circuitos Seqüenciais. Conversores Analógico-Digitais e Digitais-Analógicos Dispositivos de memória
+4
+PROBABILIDADE E ESTATÍSTICA
+Estatística descritiva; amostragem; probabilidade; variáveis aleatórias; distribuição normal de probabilidades; intervalos de confiança; testes de hipóteses; regressão e correlação.
+4
+ARQUITETURA DE COMPUTADORES
+Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Sistemas de numeração e aritmética binária. Memória e representação da dados e instruções. Processador, ciclo de instrução, formatos, endereçamento, e programação em linguagem de montagem. Dispositivos de entrada e saída. Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Paralelismo ao nível de instrução. Arquiteturas paralelas.
+4
+ESTRUTURAS DE DADOS I
+TIPOS ABSTRATOS DE DADOS. LISTAS: TIPOS DE LISTAS, OPERAÇÕES, IMPLEMENTAÇÃO. PILHAS E FILAS: TIPOS ESTRUTURAS, APLICAÇÕES, IMPLEMENTAÇÃO. MATRIZ. ÁRVORES: TIPOS, APLICAÇÕES, OPERAÇÕES E IMPLEMENTAÇÕES.
+4
+PROGRAMAÇÃO ORIENTADA A OBJETOS
+Abstração; classe; objeto; herança; polimorfismo. Interface gráfica, entrada e saída (streams). Tratamento de exceção. Concorrência (threads). Ferramentas de desenvolvimento: testes de unidade; controle de versão e geradores (como GNU Make). Modelagem e especificação elementares de aplicações orientadas a objeto. Projeto orientado a objeto: noções, patterns e arquiteturas. Implementação de aplicações orientadas a objetos.
+4
+TEORIA DOS GRAFOS
+Noções básicas de grafos. Representação de grafos. Distâncias. Coloração. Matching. Conjuntos independentes de vértices. Planaridade. Problemas do caminho mínimo. Problemas Eulerianos e Hamiltonianos. Fluxo em redes.
+4
+ANÁLISE E PROJETO DE ALGORITMOS
+Medidas de complexidade, análise assintótica de limites de complexidade, técnicas de prova de cotas inferiores. Exemplos de análise de algoritmos iterativos e recursivos. Técnicas de projeto de algoritmos eficientes. Programação dinâmica. Algoritmos probabilísticos.
+4
+BANCO DE DADOS
+Conceitos básicos. Componentes de sistemas de bancos de dados (database systems). Modelagem conceitual (ER e EER). Modelo relacional. Prática de modelagem de dados. Noções de álgebra e cálculo relacional. Mapeamento de esquema conceitual para esquema relacional. Linguagem SQL (extensiva apresentação e prática). Restrições de integridade. Dependências funcionais e formas normais. Transações. Visão geral de mineração de dados e Data Warehousing.
+4
+ESTRUTURAS DE DADOS II
+Conceitos Básicos de Armazenamento e Recuperação; Organização e Acesso em Memória Auxiliar; Métodos de Ordenação; Busca; Implementação de Arquivos; Espalhamento (hashing); Casamento de padrão e Compressão.
+4
+LINGUAGENS DE PROGRAMAÇÃO
+Visão geral de linguagens de programação e de paradigmas de programação. Tradução de linguagens. Máquinas virtuais. Tipos. Estruturas de decisão e controle. Funções. Programação orientada a objetos.
+4
+PESQUISA OPERACIONAL
+Introdução à Programação Linear. Introdução aos processos estocásticos. Modelos de Redes: Teoria dos Jogos e Análise de Decisão.
+4
+ENGENHARIA DE SOFTWARE
+Definição de sistema, software e Engenharia de Software. Contexto social e de negócio da Engenharia de Software. Áreas do conhecimento da Engenharia de Software (requisitos, projeto de software e demais). Métodos de desenvolvimento de software. Ferramentas.
+4
+INTELIGÊNCIA ARTIFICIAL
+Técnicas de Inteligência Artificial aplicadas à resolução de problemas. Representação de conhecimento. Sistemas baseados em conhecimento. Aprendizagem de máquina. Arquiteturas de sistemas de Inteligência Artificial.
+4
+REDES DE COMPUTADORES 1
+Introdução/Conceitos Básicos. Organismos internacionais de padronização (ISO, IEEE, ITUT, IETF, W3C). Transmissão de sinais analógico/ digital, modems, esquemas de codificação. Meios físicos de transmissão, cabeamento e conectores. Protocolos e arquiteturas de interconexão de sistemas: hierarquias de camadas e protocolos, serviços, modelo de referência ISOOSI, modelo TCP/IP. Protocolos de enlace direto: controle de erros, controle de fluxo, transmissão confiável. Comutação de pacotes, comutação de circuitos, circuitos virtuais. Protocolos de acesso ao meio e tecnologias para redes locais padrão IEEE 802 (Ethernet / Fast Ethernet / Gigabit Ethernet). Elementos de interconexão: Hubs e Switches e outros. Inter-redes: algoritmos de roteamento, controle de congestionamento, interconexão de redes , protocolo IP, a Internet. Protocolos para comunicação fim-a-fim: UDP, TCP, API para os protocolos de transporte na Internet (sockets).
+4
+SISTEMAS GERENCIADORES DE BD
+Sistemas de gerenciamento de Banco de Dados (SGBD): arquitetura e aspectos operacionais. Organização de Dados e Estruturas de Armazenamento, Processamento de consultas; Controle de concorrência, Recuperação de falhas, Gerência de transações; Segurança. Estudos de Projeto e Implementação de SGBD.
+4
+SISTEMAS OPERACIONAIS 1
+Introdução: funções, tipos e estruturas de Sistemas Operacionais. Gerenciamento de Processos. Especificação de Execução Concorrente. Mecanismos de Comunicação e Sincronização entre Processos. Mecanismos avançados para a Comunicação e sincronização entre Processos. Escalonamento de Processo. Gerenciamento de Memória. Sistemas de Arquivos e Processamento de Entrada/Saída. Noções de Programação Concorrente. Sistemas Operacionais Distribuídos.
+4
+ENGENHARIA DE REQUISITOS
+Definição de requisitos, análise de requisitos, projeto funcional e de dados, validação. Comunicação interpessoal para análise, técnicas de levantamento de dados. Uso de Metodologias e ferramentas de planejamento, construção e avaliação de sistemas.
+4
+LINGUAGENS FORMAIS E AUTÔMATOS
+Gramáticas e Linguagens regulares, livres de contexto e sensíveis ao contexto. Tipos de reconhecedores. Operações com linguagens. Propriedades de linguagens. Autômatos de estados finitos. Autômatos de pilha. Máquina de Turing.
+4
+REDES DE COMPUTADORES 2
+Redes de alto desempenho. Análise do desempenho de redes. Projeto e verificação de protocolos. Gerenciamento de redes. Segurança em redes de computadores Intenet: Protocolos e serviços avançados (IPv6, SNMP, XTP, RTP, RSVP, HTTP, FTP, SMTP, etc.); uso de XML e meta-dados na Internet. Redes móveis e sem fio (Ethernet sem fio e WLANs, Bluetooth e PANs, redes sem fio de longo alcance). Redes espontâneas (ad hoc) e protocolos de configuração automática. Aplicações de redes de computadores: DNS, correio eletrônico, multimídia, WWW, voz sobre IP. Tendências avançadas em redes de computadores: convergência das tecnologias de telecomunicações e redes de computadores; redes com integração de serviços, etc.
+4
+SISTEMAS DISTRIBUÍDOS
+Introdução: caracterização de sistemas de computação distribuída (hardware e software); aplicações distribuídas (caracterização e aspectos de projeto); objetivos básicos de sistemas distribuídos (transparência, abertura, escalabilidade, etc.). Modelos de sistemas distribuídos: sistemas cliente/servidor e sistemas multi-camadas; sistemas peer-to-peer. Objetos distribuídos: interface x implementação; objetos remotos; chamadas de métodos remotos (RMI) Processos em sistemas distribuídos: threads e seu uso em sistemas distribuídos; processos clientes e processos servidores; noções de código móvel e agentes de software. Sincronização e Coordenação: o conceito de tempo em sistemas distribuídos; consenso; exclusão mútua distribuída; eleição. Serviços de sistemas distribuídos: serviços de nomes; compartilhamento de documentos / recursos distribuídos (ex.: WWW e sistemas de trabalho cooperativo); segurança. Tolerância a falhas: comunicação confiável; replicação e manutenção de consistência entre réplicas; controle de concorrência e transações distribuídas; comunicação de grupo. Noções de plataformas de middleware e processamento distribuído aberto: caracterização de sistemas ODP; middleware como suporte para o desenvolvimento de aplicações em ambientes distribuídos abertos; exemplos de plataformas de middleware e seu uso. Noções de sistemas de multimídia distribuída: características da comunicação de dados multimídia, qualidade de serviço, gerenciamento de recursos, adaptação de fluxos de mídia.
+4
+SISTEMAS OPERACIONAIS 2
+Desenvolvimento de algoritmos para : Gerenciamento de Processos; Especificação de Execução Concorrente; Mecanismos de Comunicação e Sincronização entre Processos; Escalonamento de Processo; Gerenciamento de Memória; Sistemas de Arquivos e Processamento de Entrada/Saída. Noções de Sistemas Operacionais Distribuídos: RPC, Sockets; sistemas de arquivos distribuídos; memória compartilhada distribuída.
+4
+COMPILADORES
+Projeto de linguagens. Organização e estrutura de compiladores. Análise léxica e sintática. Recuperação de erros. Alocação e gerência de memória. Formas de representação interna. Análise semântica. Geração de código.
+4
+COMPUTAÇÃO GRÁFICA
+Elementos de Geometria Analítica: retas e planos; sistemas de coordenadas, vetores no plano e no espaço; produto escalar e produto vetorial. Dispositivos gráficos de entrada e saída. Processadores de exibição gráfica. Teoria de Cor. Transformações geométricas bidimensionais e tridimensionais. Transformação entre sistemas de coordenadas bidimensionais. Transformações de projeção paralela e perspectiva; câmera virtual; transformação entre sistemas de coordenadas tridimensionais. Rasterização bidimensional. Recorte e seleção bidimensional. Visualização tridimensional: iluminação; remoção de linhas e superfícies ocultas; modelos de tonalização (shading). Aplicação de texturas. O problema do serrilhado (aliasing).
+4
+PROJETO DE SOFTWARE
+Princípios de projeto de software. Projeto de software orientado a objetos. Modelagem de projeto de software.Visão geral dos métodos para projeto de sistemas, modelo orientado a objetos. Modelagem e projeto de software: modelo estrutural; projeto de interfaces. Modelo de operações e ciclo de vida. Descrição de módulos. Avaliação de pacotes, Integração de sistemas. Implementação. Desenvolvimento de um estudo de caso completo.
+4
+PROJETO FINAL DE CURSO 1
+Desenvolvimento do projeto acompanhado por professor orientador. Tem como finalidade dar experiência prática, aplicando os conhecimentos adquiridos durante o curso.
+4
+TEORIA DA COMPUTAÇÃO
+Noções de computabilidade efetiva. Modelos de computação. Problemas indecidíveis. Classes P, NP, NP-Completa e NP-Difícil. Algoritmos de Aproximação.
+4
+TÓPICOS 1
+Tópico variável em computação segundo tendências atuais na área.
+4
+DIREITO
+Noções básicas de direito aplicado. Direito Autoral e Propriedade Industrial. Aplicações de Direito do Trabalho. Defesa do Consumidor. Ética Profissional. Legislação específica sobre informática
+4
+COMPUTADOR E SOCIEDADE
+Conceito de ética e critérios para tomada de decisões éticas. Situações específicas: acesso não autorizado, propriedade intelectual, erros e ameaças à segurança, saúde ocupacional, privacidade e uso de dados pessoais. Códigos de ética profissional. Estudos de casos.
+2
+EMPREENDEDORISMO
+O papel do empreendedor no processo de criação de novas empresas. Etapas do Processo de Criação de Empresas: a pesquisa de oportunidades e estudo de tendências de mercado. O projeto de criação e início de atividades da nova empresa. Problemas de gestão de micro e pequenas empresas nascentes. Entidades de apoio à pequena e média empresa. Estruturas de cooperação entre empresas.
+4
+MULTIMÍDIA
+Visão geral dos sistemas multimídia. Autoria: plataformas para multimídia e ferramentas de desenvolvimento. Imagens: representação digital, dispositivos gráficos e processamento. Representação de figuras e animação. Vídeo: interfaces e processamento. Métodos de compactação de vídeo. Som: propriedades físicas, representação digital, processamento e síntese. Métodos de compactação de som. Ferramentas para geração de Hipertextos. Padrões HTML, XML, SMIL e VRML. Sistemas operacionais multimídia. Sistemas de comunicação multimídia. Sincronização. Aplicações multimídia.
+4
+PROJETO FINAL DE CURSO 2
+Desenvolvimento do projeto acompanhado por professor orientador. Tem como finalidade dar experiência prática, aplicando os conhecimentos adquiridos durante o curso.
+4
+SEGURANÇA E AUDITORIA DE SISTEMAS
+Riscos e ameaças: segurança física, lógica e de comunicações. Auditoria de Informática: organização da função, processos, métodos e técnicas. Planos de contingência e recuperação de desastres.
+2
+TÓPICOS 2
+Tópico variável em computação segundo tendências atuais na área.
+4

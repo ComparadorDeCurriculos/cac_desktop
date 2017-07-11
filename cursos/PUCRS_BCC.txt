@@ -1,0 +1,153 @@
+Cálculo A (CC)
+Estudo e caracterização das funções de uma variável real. Definição e apresentação das propriedades de limites e continuidade. Definição e apresentação das propriedades de derivadas. Aplicações de derivadas e diferenciais. Definição e apresentação das propriedades da integral indefinida. Estudo de técnicas de integração. Aplicação de integral indefinida aos problemas clássicos de equações diferenciais. 
+4
+Fundamentos de Programação 
+Discussão sobre algoritmos como ferramenta para a descrição da solução de problemas e os fundamentos necessários para sua implementação usando linguagens de programação. Exame das noções de variáveis e tipos. Estudo de programas sequenciais, comandos de entrada e saída e o processo de compilação. Construção de programas iterativos e uso do conceito de subprograma. Estudo da noção de estrutura de dados usando arranjos e matrizes e conceitos básicos de programação orientada a objetos. 
+6
+Fundamentos do Raciocínio Lógico 
+Introdução aos conceitos e métodos da lógica e seu papel na argumentação. Estudo das propriedades lógicas de proposições e argumentos. Exame das ideias semânticas de significado, referência e verdade. Estudo de proposições categóricas e silogismos. Análise de falácias e erros comuns de raciocínio. Desenvolvimento do pensamento crítico e da capacidade de avaliar e redigir argumentos. 
+4
+Introdução à Ciência da Computação 
+Introdução dos conceitos de processos, procedimentos efetivos e máquinas. Estudo das camadas de um sistema computacional e da história da Computação. Solução de problemas eprojeto de algoritmos. Introdução a linguagens de programação e programação de tiposabstratos de dados. Introdução às aplicações e aos limites da computação.
+4
+Matemática Concreta 
+Estudo de técnicas matemáticas fundamentais para a análise e solução de problemas algorítmicos. Exame de técnicas elementares de contagem. Introdução às leis fundamentais de manipulações de somas finitas, funções inteiras, funções binomiais, recorrências. Fundamentação e exame dos conceitos de notação assintótica e taxas de crescimento. 
+4 
+Matemática Discreta (CC) 
+Exame do significado dos conectivos proposicionais e técnicas básicas de demonstração. Estudo da álgebra da teoria dos conjuntos. Estudo e discussão dos conceitos de relações, funções totais e parciais, relações de ordem parcial e total, relações bem-fundamentadas e relações de equivalência. Definição e construção de tipos matemáticos indutivos e funções recursivas relacionadas. Construção de provas por indução. Apresentação e análise de estruturas e construções algébricas fundamentais. 
+4
+Algoritmos e Estrutura de Dados I 
+Construção e raciocínio sobre diferentes algoritmos e implementações para estruturas de dados lineares e hierárquicas: listas, filas, pilhas e árvores. Exame da adequação destes algoritmos na solução de diversas classes de problemas. Construção de algoritmos e implementações para problemas de ordenação e pesquisa. Discussão, análise e raciocínio sobre a complexidade de todos algoritmos e implementações correspondentes. 
+4 
+Cálculo B (CC) 
+Definição e apresentação das propriedades da integral definida. Apresentação do Teorema Fundamental do Cálculo. Aplicação de integral definida ao cálculo de áreas de regiões planas. Estudo de sequências e séries numéricas. Estudo e aplicação de séries de potências. Estudo e caracterização de funções de várias variáveis. Definição e apresentação das propriedades das derivadas parciais. Estudo de problemas de otimização. 
+4 
+Lógica para Computação 
+Estudos principais conceitos da Lógica Matemática e de sua aplicação na Ciência da Computação. Exame e discussão dos conceitos de sintaxe e semântica, equivalência, relação de consequência lógica, relação de dedutibilidade, cálculo de dedução natural e outros sistemas de dedução tanto para a lógica proposicional como para a lógica de predicados. Teorias de primeira ordem e provas por indução. Fundamentação e aplicação dos conceitos subjacentes à utilização do raciocínio automático na computação. 
+4 
+Programação Orientada a Objetos 
+Desenvolvimento de sistemas de software de complexidade média utilizando o paradigma de orientação a objetos. Estudo e análise dos conceitos de herança e polimorfismo. Discussão de aspectos avançados sobre classes. Discussão sobre empacotamento e distribuição de aplicações. Implementação de estruturas de dados encadeadas. Uso de bibliotecas de coleções. Projeto de sistemas orientados a objetos. 
+4
+Programação de Baixo Nível 
+Estudo da organização dos dados em memória e formas eficiente de manipulação de dados. Otimização da velocidade de acesso dos dados à memória. Utilização da linguagem C como estudo de caso. Desenvolvimento de aplicações com gerenciamento de alocação/desalocação de memória. Uso de ponteiros, de máscaras de dados, de instruções de deslocamento e rotação de dados. Manipulação de dados bit-a-bit. 
+2
+Algoritmos e Estrutura de Dados II 
+Projeto e análise de algoritmos e estruturas de dados avançadas: filas com prioridade, heaps, tabelas de hash, mapas, dicionários, conjuntos e grafos. Discussão, análise e raciocínio sobre a complexidade de todos algoritmos e implementações correspondentes. 
+4
+Linguagens Formais e Autômatos 
+Introdução aos conceitos fundamentais de linguagens e gramáticas formais. Estudo de máquinas como modelos de computação: autômatos finitos determinísticos, autômatos finitos não-determinísticos, autômatos de pilha e máquinas de Turing. Estudo de linguagens como modelos de especificação de computações: linguagens regulares, linguagens livres de contexto, linguagens sensíveis ao contexto. Discussão e análise das equivalências entre os modelos baseados em máquinas e linguagens e da hierarquia sobre estes modelos. 
+4
+Metodologia Científica e Escrita para Computação 
+Fundamentos do conhecimento científico e seus métodos. Pesquisa bibliográfica e resumos. Estudos dos conceitos de fatos, leis, teorias e hipóteses. Estilo de escrita: diretrizes gerais e específicas. Apresentação de algoritmos e textos matemáticos. Declaração, desenvolvimento e defesa de hipóteses. Construção de um projeto científico. Ética na escrita. Diretrizes para a construção de apresentações. 
+4 
+Organização e Arquitetura de Computadores I 
+Apresentação da organização básica de um processador. Estudo das principais unidades, fases de operação, fluxo de dados e instruções e principais variações arquiteturais dos processadores. Discussão do formato das instruções e a interação entre o processador e a memória. Utilização de linguagens de descrição de hardware e simuladores. Estudo e construção de programas em linguagem de montagem. Analise e discussão de casos reais. 
+4 
+Programação Funcional 
+Apresentação do paradigma da programação funcional no contexto da computação. Estudo dos fundamentos do Cálculo Lambda. Fundamentação e construção de tipos de dados indutivos, funções recursivas, funções anônimas e funções de alta ordem. Raciocínio sobre programas recursivos utilizando técnicas da dedução natural. Exploração da utilização dos conceitos de tipos abstratos de dados, assinaturas e morfismos relacionados. 
+4 
+Técnicas de Programação 
+Discussão de técnicas e padrões para o desenvolvimento de software com qualidade. Introdução às técnicas de gerência de configuração. Estudo e aplicação de técnicas de teste unitário. Estudo e uso de programação por contratos no desenvolvimento orientado por testes. Reconhecimento, seleção e aplicação de padrões arquiteturais, padrões de projeto e de reutilização no desenvolvimento de sistemas de porte médio. 
+4
+Álgebra Linear e Geometria Analítica 
+Estudo e caracterização da álgebra de vetores. Estudo e caracterização da reta no espaço. Estudo e caracterização do plano. Definição e apresentação das propriedades de matrizes. Resolução de sistemas de equações lineares. Estudo e caracterização de espaços vetoriais. Definição de bases de um espaço vetorial. Definição e apresentação de propriedades de transformações lineares. Aplicações geométricas e diagonalização de operadores lineares. 
+4
+Teoria da Computabilidade e Complexidade 
+Estudo dos conjuntos enumeráveis e provas por diagonalização. Estudo da teoria das funções recursivas. Definições equivalentes de computabilidade. Discussão da Tese de Church- Turing. Estudo dos problemas decidíveis e do problema da parada. Estudo do conceito de redutibilidade e sua aplicação na determinação da indecidibilidade de problemas lógicos e computacionais. Estudo e aplicação das classes de complexidade de tempo: classe P, classe NP e NP-completude. Estudo e aplicação das classes de complexidade de espaço: classe PSPACE e PSPACE- completude.
+4 
+Organização e Arquitetura de Computadores II 
+Estudo de métodos de exploração de paralelismos em computadores mono e multiprocessados. Discussão sobre os principais métodos de programação paralela e sua relação com a arquitetura/organização do hardware e a organização da memória. Estudo sobre a evolução das topologias de comunicação intrachip. Compreensão do papel da memória cache e métodos de acesso a periféricos no desempenho do sistema. Estudo de métodos de programação visando melhorar a eficiência das memórias cache. Utilização de benchmarks e análise comparativa de desempenho. 
+4 
+Engenharia de Software 
+Introdução aos conceitos fundamentais de Engenharia de Software. Estudo de métodos, processos e ferramentas aplicados no desenvolvimento e manutenção de software. Desenvolvimento de conhecimento teórico-prático na análise de requisitos, projeto, implementação e teste de software. 
+4 
+Fundamentos de Bancos de Dados 
+Visão geral da abordagem banco de dados nos aspectos de modelagem conceitual e projeto de bancos de dados. Uso de dependências funcionais, formas normais e de restrições de integridade para a definição e manipulação de banco de dados e, em especial, SQL. Solução de implementação de bancos de dados: modelo lógico e físico. Mapeamento da modelagem conceitual para o modelo de implementação. 
+4 
+Modelos para Computação Concorrente 
+Estudo de sistemas de transições rotulados, execuções, processos sequenciais e concorrentes. Interpretação de concorrência como paralelismo abstrato. Comunicação com variáveis compartilhadas e canais. Construção de modelos com álgebra de processos. Implementação de modelos em linguagens de programação. Verificação de propriedades de processos concorrentes. Apresentação, implementação e análise de construções para estruturação de processos concorrentes. 
+2 
+Disciplina Integradora I (Lógica e Programação) 
+Aplicação dos conhecimentos obtidos durante o curso de forma integrada, através da especificação, documentação, implementação e execução de um projeto de pesquisa. Integração de conhecimentos envolvendo os eixos de Algoritmos e Programação e Especificação e Lógica e Estruturas Discretas. Aplicação de técnicas de metodologia científica. Orientação através de um professor tutor. Planejamento e administração de trabalho colaborativo. 
+2 
+Humanismo e Cultura Religiosa 
+A condição humana aberta ao transcendente; Fé cristã e cultura atual; O estudo do fenômeno religioso em suas diferentes Tradições; Elementos da cultura e da religiosidade afro-brasileira e indígena; A relação entre fé e razão, e ciência e religião; Motivação para ações comunitárias, como engajamento consequente de uma consciência social e da fé cristã. 
+4 
+Fundamentos de Computação Gráfica 
+Apresentação de uma perspectiva histórica da computação gráfica. Estudo dos conceitos matemáticos fundamentais de computação gráfica. Estudo de técnicas de modelagem geométrica e estruturas de dados adequadas a aplicações gráficas. Estudo dos processos de visualização bidimensional e tridimensional para geração de imagens. Apresentação de algoritmos de síntese de imagens realistas. 
+4
+Sistemas Operacionais 
+Apresentação da organização básica de sistemas operacionais. Estudo da evolução da estrutura e funcionamento dos sistemas operacionais. Introdução e exploração o conceito de algoritmos de escalonamento e de mecanismos de sincronização entre processos que compartilham memória. Desenvolvimento de algoritmos e construção de implementações de programas concorrentes. Análise e discussão de problemas relacionados à “deadlock”, à comunicação entre processos, ao gerenciamento 
+4 
+Métodos Numéricos 
+Estudo e construção de modelos matemáticos na solução de problemas computacionais. Utilização adequada da aritmética de ponto flutuante. Análise dos fundamentos matemáticos de algoritmos numéricos. Identificação dos problemas de implementações em ponto flutuante. Apresentação dos conceitos que sustentam algoritmos numéricos e aplicação desses conceitos para a computação numérica eficiente. Realização de computação científica através da programação de algoritmos numéricos. 
+4 
+Projeto e Otimização de Algoritmos 
+Estudo e técnicas avançadas para projeto de algoritmos. Estudo e análise de técnicas envolvendo programação dinâmica, algoritmos gulosos, divisão e conquista, backtracking, algoritmos genéticos e casamento de padrões de strings. Caraterização e análise destas técnicas como problemas polinomiais e não-polinomiais. Discussão, análise e raciocínio sobre a complexidade de todos algoritmos e implementações correspondentes. 
+4 
+Métodos Formais para Computação 
+Discussão da utilização e importância do uso de métodos formais na computação. Definição e mecanização da prova de propriedades sobre programas recursivos. Estudo da lógica de pré e pós-condição na especificação e verificação de programas e contratos. Utilização da técnica de verificação de modelos para a verificação de sistemas interativos e concorrentes. 
+4
+Engenharia de Software Orientada a Modelos 
+Discussão sobre arquitetura dirigidas por modelos. Estudo de transformações entre modelos. Conceituação e análise de modelos independentes e dependentes de plataforma. Geração de modelos a partir de modelos, código a partir de modelos, código a partir de código e modelos a partir de código. Verificação de propriedades de modelos. Utilização de grafos, máquinas de estados e estruturas de representação de informação. Estudo da equivalência entre modelos e manipulação automática de informações. 
+4
+Disciplina Integradora II (Iniciação Científica)
+Iniciação à Pesquisa Científica. Desenvolvimento e execução de um projeto de pesquisa no contexto da Pós-Graduação em Ciência da Computação. Aplicação de técnica de metodologia científica. Orientação através de um pesquisador tutor. Planejamento e administração de trabalho colaborativo. 
+2 
+Disciplina Integradora III (Especificação e Construção de Sistemas) 
+Aplicação dos conhecimentos obtidos durante o curso de forma integrada, através da especificação, documentação, implementação e execução de um projeto de pesquisa. Integração de conhecimentos envolvendo pelo menos duas disciplinas do Eixo de Especificação e Construção de Sistemas. Aplicação de técnicas de metodologia científica. Orientação através de um professor tutor. Planejamento e administração de trabalho colaborativo. 
+4 
+Probabilidade e Estatística para Computação 
+Organização, análise, interpretação de dados e estudo de modelos probabilísticos enfatizando o princípio da tomada de decisões sob incerteza. Inferência estatística, estimação de parâmetros e o estabelecimento de testes de hipóteses e noções básicas sobre processos Markovianos. 
+4
+Fundamentos de Inteligência Artificial 
+Estudo e utilização de diversas estratégias de busca para a resolução geral de problemas. Exploração de técnicas para representação do conhecimento. Utilização de técnicas para raciocínio automático (inclusive sob incerteza). Construção de sistemas com a capacidade de planejamento automático. Compreensão e emprego de técnicas de aprendizagem de máquina. 
+4 
+Laboratório de Sistemas Operacionais 
+Estudo, utilização, configuração e modificação de um sistema operacional de código aberto. Utilização de ferramentas de programação “open source”. Desenvolvimento de acionadores de dispositivos. Avaliação do desempenho de um sistema operacional frente as modificações realizadas. Utilização de sistema operacional de tempo real. Modificação de políticas de escalonamento de processos.
+4 
+Introdução à Redes de Computadores 
+Estudo das arquiteturas de protocolos OSI e TCP/IP. Estudo dos processos e sistemas de comunicação de dados utilizados em diferentes tipos de redes. Estudo dos níveis físicos, de enlace e de rede, abordando conceitos, funções e protocolos. Apresentação dos padrões e protocolos de redes cabeadas e de redes sem fio. Estudo do protocolo IP. 
+4 
+Implementação de Sistemas de Bancos de Dados 
+Visão geral de sistemas de bancos de dados e de suas principais funcionalidades. Entendimento dos tipos clássicos de organização de arquivos e de índices, e de arquivos de log/jornal, de tablespaces, datafiles e de datablocks. Estudo sobre desempenho e sintonia de bancos de dados, gerência de memória principal, secundária e distribuição de dados. Visão geral da otimização de consultas e de transações em bancos de dados, de controle de concorrência e da recuperação após falhas. 
+4 
+Interpretação de Linguagens de Programação 
+Estudo de técnicas para definição da semântica operacional de linguagens de programação. Definição e interpretação de linguagens imperativas e funcionais. Verificação de propriedades. Análise de sistemas de tipo e propriedades de programas. Implementação de interpretadores com linguagens funcionais e lógicas. Geração de código a partir de assistentes de prova. 
+4
+Laboratório de Redes de Computadores 
+Desenvolvimento de experimentos que abranjam a análise de protocolos da arquitetura Internet. Configuração e análise do funcionamento de protocolos de roteamento. Análise do desempenho de redes locais. Desenvolvimento e análise de comportamento de aplicações distribuídas com diferentes requisitos de qualidade.  
+2 
+Computação Paralela 
+Ementa: Apresentação da evolução das arquiteturas paralelas e suas tendências atuais. Introdução dos principais desafios da computação de alto desempenho. Discussão em profundidade da modelagem de programas paralelos no contexto da computação de alto desempenho. Apresentação das principais interfaces de programação paralela. Exame dos paradigmas de programação para arquiteturas com memória compartilhada e memória distribuída (troca de mensagens). Estudo e aplicação das técnicas de programação paralela em casos de estudo baseados em problemas científicos de diferentes domínios do conhecimento. 
+4 
+Projeto e Implementação de Sistemas Interativos 
+Aplicação de conceitos, teorias, modelos de interação humano-computador e elementos de design de interfaces interativas no projeto e implementação de sistemas interativos. Utilização de ferramentas, técnicas, metodologias e ambientes de desenvolvimento de interfaces. Avaliação da qualidade de uso de sistemas interativos. 
+4 
+Construção de Compiladores 
+Especificação e implementação de compiladores de linguagens imperativas. Descrição formal dos componentes de um compilador. Compreensão da relação entre a representação formal de linguagens e o processo de compilação. Elaboração de rotinas para as análises lexicográfica e sintática. Construção de algoritmos para verificação semântica e recuperação de erros. Implementação de procedimentos de tradução da representação de entrada para código objeto. Projeto e implementação de algoritmos para geração e otimização de código. 
+4 
+Simulação e Métodos Analíticos 
+Estudo de técnicas e opções para simulação e análise estocástica através de modelos computacionais. Técnicas de representação de estados e de tempo, de aleatoriedade e determinismo em contexto computacional. Métodos e ferramentas básicas de simulação e métodos analíticos. Formalismos clássicos e estruturados para representação de modelos. 
+4 
+Redes de Computadores Avançada 
+Estudo dos algoritmos e protocolos de roteamento de tráfego. Estudo dos algoritmos e protocolos de roteamento de tráfego. Estudo da transmissão e roteamento multicast. Estudo dos níveis de transporte e de aplicação, abordando conceitos, funções e protocolos do modelo OSI e da arquitetura Internet. Estudo dos mecanismos de controle de congestionamento e de qualidade de serviço. Estudo dos conceitos e funções do nível de aplicação. Introdução às aplicações de como gerência de redes, resolução de nomes e endereços, correio eletrônico e aplicações atualizadas. 
+4
+Sistemas Inteligentes e Autônomos 
+Apresentação de conceitos e técnicas para a concepção e implementação de agentes autônomos e sistemas multi-agentes. Estudo e aplicação de técnicas avançadas para planejamento automático, incluindo planejamento multi-agente. Programação de sistemas multi-agentes. Exploração de técnicas avançadas para representação de conhecimento, incluindo ontologias. Apresentação de técnicas para o processamento de linguagem natural. Introdução à robótica como exemplo de área de aplicação e de pesquisa multidisciplinar. 
+4 
+Empreendimentos Empresariais 
+Discussão sobre o funcionamento do mundo empresarial trabalhando instrumentos que possibilitem tanto o desenvolvimento de características empreendedoras buscadas pelas empresas, quanto a sua capacitação para a criação de um novo negócio como alternativa ao emprego formal. 
+4 
+Projeto e Desenvolvimento de Jogos 
+Apresentação do histórico, categorias e plataformas de jogos digitais. Análise do mercado de jogos digitais no Brasil e no mundo. Descrição do processo de desenvolvimento de jogos digitais. Estudo de arquiteturas para motores de jogos (engines). Estudo de elementos de design para jogos digitais. Análise de ferramentas utilizadas no desenvolvimento de jogos digitais. Apresentação de um framework para o desenvolvimento de jogos digitais. Discussão de algoritmos e estruturas de dados para jogos digitais. Projeto e implementação de um protótipo de jogo digital. 
+4 
+Sistemas Distribuídos 
+Discussão de considerações arquiteturais para a concepção de sistemas distribuídos. Apresentação dos conceitos de estados locais e globais, relógios lógicos e grupos de processos. Exame de modelos de falhas para sistemas distribuídos e suas implicações. Exploração de mecanismos para implementação de acordo em problemas distribuídos. 
+4 
+Ética e Filosofia da Ciência 
+Introdução às concepções de ética. Reflexão sobre as relações entre ética, conhecimento e ciência. Estudo de concepções de método científico e da natureza do conhecimento científico. Abordagem de problemas referentes à história da ciência e à epistemologia da ciência. 
+4 
+Disciplina Integradora IV - Trabalho de Conclusão 
+Aplicação dos conhecimentos obtidos durante o curso de forma integrada, através da especificação, documentação, implementação e execução de um Projeto de Pesquisa. Integração de conhecimentos envolvendo tópicos estudados no Eixo de Aplicações Avançadas. Aplicação de técnicas de Metodologia Científica e apresentação perante banca examinadora.
+2
