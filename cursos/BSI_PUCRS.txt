@@ -1,0 +1,149 @@
+Cálculo A 
+
+4
+FUNDAMENTOS APLICADOS DA ADMINISTRAÇÃO 
+
+4
+Fundamentos da Computação 
+
+2
+Fundamentos de Programação 
+
+6
+Introdução a Sistemas de Informação 
+
+4
+Engenharia de Software 
+
+2
+Lógica para Computação 
+
+4
+Matemática Discreta
+
+2
+Modelagem de Negócio 
+
+4
+Métodos Estatísticos 
+
+4
+Programação Orientada a Objetos 
+
+4
+Arquitetura de Computadores 
+
+2
+Engenharia de Requisitos 
+
+4
+Fundamentos de Desenvolvimento de Software 
+
+4
+Interação Humano - Computador 
+
+4
+Laboratório de Banco de Dados 
+
+2
+Planejamento e Gestão Estratégica de TI 
+
+4
+Disciplina Integradora I 
+
+4
+Fundamentos de Redes de Computadores 
+
+4
+Modelagem e Projeto de Banco de Dados 
+
+4
+Projeto e Desenvolvimento de Software 
+
+4
+Sistemas Operacionais 
+
+4
+Gerência de Projetos de TI 
+
+4
+Gerência de Redes de Computadores 
+
+2
+Inteligência de Negócio 
+
+4
+Programação de Software Aplicado 
+
+4
+Sistemas Distribuídos 
+
+4
+Sistemas de Gerenciamento de Banco de Dados 
+
+2
+Arquitetura Organizacional Aplicada a SI 
+
+4
+Disciplina Integradora II 
+
+4
+Governança Estratégica em TI 
+
+4
+INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO 
+
+4
+Teoria da Computação 
+
+2
+Tópicos Avançados em Gestão de Dados 
+
+2
+Avaliação de Desempenho de Sistemas 
+
+2
+Disciplina Eletiva 
+
+8
+Empreendimentos Empresariais 
+
+4
+Humanismo e Cultura Religiosa 
+
+4
+Prática Profissional 
+
+1
+
+6
+Qualidade de Produto 
+
+2
+Sistemas de Informação Integrados 
+
+4
+Trabalho de Conclusão I 
+
+4
+Atividades Complementares 
+
+8
+Auditoria e Segurança de Sistemas de Informação 
+
+4
+Comportamento Organizacional 
+
+2
+Legislação em Informática 
+
+2
+Qualidade de Processo 
+
+4
+Trabalho de Conclusão II 
+
+4
+Ética e Filosofia da Ciência 
+
+4

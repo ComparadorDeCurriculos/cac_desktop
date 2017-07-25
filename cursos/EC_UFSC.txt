@@ -1,0 +1,196 @@
+Cálculo I
+Funções elementares. Limites de funções. Funções contínuas. Derivadas.  Aplicações de derivadas. Integrais definidas e indefinidas.
+4
+Geometria Analítica
+Matrizes. Determinantes.Sistemas lineares.Álgebra vetorial. Estudo da reta e do plano. Curvas planas. Superfícies.
+4
+Física A
+Sistemas de Unidades. Movimento retilíneo uniforme e uniformemente acelerado. Movimento em duas e tres dimensões. Leis de Newton. Trabalho, energia cinética e energia potencial. Conservação da energia. Momento linear, impulso e colisões. Rotação, torque e momento angular. 
+4
+Química geral
+Estrutura eletrônica dos átomos. Propriedades periódicas dos elementos. Ligação química. Íons e moléculas. Soluções. Funções, equações químicas, cálculos estequiométricos, ácidos e bases. Cinética química e equilíbrio. Equilíbrio iônico. Eletroquímica.
+4
+Lógica de Programação
+Lógica de Programação. Sequências lógicas, pseudocódigo, fluxograma, diagrama de chapin. Variáveis: nomeação, declaração, inicialização, tipos de dados. Expressões aritméticas, expressões literais, expressões lógicas, expressões relacionais. Estruturas de Dados Simples: vetores, matrizes, registros. Estruturas de Controle de Fluxo: Linear, condicional, repetição. Entrada e Saída de Dados. Aplicação dos conceitos de lógica de programação em uma linguagem de programação.
+4 
+Laboratório Fisica Experimental A
+Erros e Medidas: Introdução. Grandezas, dimensões e unidades. Medidas diretas e indiretas. Classificação dos erros. Algarismos significativos. População e  amostra. Valor mais representativo duma grandeza. Valor verdadeiro, valor mais provável, erro e desvio. Discrepância e discrepância relativa. Exatidão e precisão. Tratamento de Erros Experimentais: Freqüência e probabilidade. Representação de medidas como uma distribuição. Função de Gauss. Medidas de dispersão. Nível de confiança com o desvio padrão. Rejeição de dados. Limite de erro instrumental, desvio avaliado e desvio relativo. Propagação de erros Independentes. Regras para representação do valor e do desvio de uma medida. Análise Gráfica: Regras (Guias) para a Representação Gráfica. Interpolação e Extrapolação. Determinação Gráfica dos Parâmetros da Função Linear. Linearização de Curvas. Linearização pelo Método Da Anamorfose. Linearização pelo Método Logarítmico. Método dos Mínimos Quadrados.
+4
+Introdução à Engenharia da Computação
+Perfil do profissional da computação. Campo de atuação. Ética profissional. Regulamentação profissional. Estrutura e objetivos do curso. Histórico e evolução dos computadores. Introdução à computação. Características básicas dos computadores: hardware e software. Componentes básicos dos computadores: memória, unidade central de processamento, entrada e saída. Modelo de von Neumann. Software básico e programas aplicativos. Sistemas de numeração: representação numérica e conversão de base.
+4 
+Cálculo II
+Métodos de Integração. Aplicações da integral definida. Integrais impróprias. Funções de várias variáveis. Derivadas parciais. Aplicações das derivadas
+parciais. Integração múltipla.
+4
+Álgebra Linear
+Espaço vetorial. Transformações lineares. Mudança de base. Produto interno. Transformações ortogonais. Autovalores e autovetores de um operador. Diagonalização. Aplicação da Álgebra linear às ciências.
+4
+Física B
+Estática e dinâmica dos fluidos. Temperatura e calor. Primeira lei da termodinâmica. Propriedades dos gases. Segunda lei da termodinâmica. Teoria cinética dos gases. Gravitação. Oscilações. Ondas Mecânicas. Ondas sonoras.
+4
+Fundamentos Matemáticos para Computação
+Lógica matemática. Indução finita. Conjuntos. Relações e funções. Contagem. Álgebra booleana. Recursão. Fundamentos de grafos.
+4
+Elaboração de Trabalhos Acadêmicos
+Normas da ABNT para trabalhos acadêmicos: citações e referências bibliográficas. Fontes de pesquisa. Produção de relatório, resumo e resenha. Técnicas de leitura, produção e apresentação de trabalhos científicos.
+2
+Desenho Técnico
+Normas para o desenho. Vistas ortogonais e auxiliares. Perspectivas. Cotagem. Escalas. Indicação do estado de superfícies. Tolerâncias e ajustes mecânicos. Desenho e projeto com auxílio de computador (CAD). Conceitos básicos e tipos de modelagem. Sistemas de coordenadas e de entrada de dados. Estratégias de criação de modelos. Comandos de construção, edição e visualização de modelos. Vistas secionais. Representação de elementos mecânicos e elétricos.
+4
+Linguagem de Programação I
+Programação Estruturada: linguagens que suportam programação estruturada. Ambientes de Programação: escolha, instalação e execução. Variáveis: nomeação, declaração, inicialização, tipos de dados. Expressões: expressão aritméticas, expressão literal, expressão lógicas, expressões relacionais. Arquitetura de Programa Mínimo: paradigmas, regras de escopo, funções, modularização. Estruturas de Dados Simples: vetores, matrizes, registros. Estruturas de Controle de Fluxo: Linear, condicional, repetição. Ponteiros: definição, declaração e uso. Funções: definição, declaração, tipos de passagem de parâmetro. Alocação Dinâmica: definição, declaração e uso. Entrada e Saída de Dados: arquivos, acesso sequencial, acesso direto.
+4 
+Cálculo III
+Funções vetoriais. Derivadas direcionais e o vetor gradiente. Cálculo vetorial: Integrais de linha, teorema de Green, rotacional e divergente, integrais de superfície, teorema de Stokes e de Gauss. Séries numéricas. Séries de potências. Séries de Taylor.
+4
+Probabilidade e Estatística
+O papel da estatística na Engenharia. Probabilidade e estatística: principais distribuições de probabilidade, histograma, medidas de tendência central e dispersão, inferências relativas à média e à variância, dependência estatística, regressão e correlação. Análise combinatória. Planejamento de uma pesquisa. Análise exploratória de dados. Variáveis aleatórias discretas e contínuas. Principais modelos teóricos. Estimação de parâmetros. Testes de hipóteses.
+4
+Física C
+Carga elétrica. Lei de Coulomb. Campo elétrico. Lei de Gauss. Potencial. Capacitores. Corrente elétrica. Força eletromotriz e circuitos. Campo magnético. Lei de Ampére. Lei de Faraday. Indutância. Propriedades magnéticas da matéria. Óptica física: Interferência, difração, polarização.
+4
+Estruturas de Dados I
+Listas lineares e suas generalizações: listas ordenadas, listas encadeadas, pilhas e filas. Aplicações de listas. Algoritmos de inserção, remoção e consulta. Tabelas de Espalhamento Árvores binária. Métodos de pesquisa. Técnicas de implementação iterativa e recursiva de estruturas de dados.
+4
+Análise e Projeto de Software
+Processo de desenvolvimento de Sistemas orientado a objetos. Engenharia de requisitos: Análise de requisitos; técnicas para levantamento e representação de requisitos, incluindo casos de uso. Modelagem orientada a objetos. Projeto orientado por objetos. Linguagem de especificação orientada por objetos. Métodos de análise e projeto orientados por objetos.
+4 
+Lógica Aplicada a Computação
+Introdução à Lógica; Lógica Proposicional - símbolos proposicionais, tabelas verdade, operadores lógicos, fórmulas bem formadas, tautologias, contradições, contingência, métodos de prova; Lógica de Predicados - sintaxe e semântica, interpretação das variáveis, funções e predicados, equivalência entre fórmulas, métodos de prova; Programação em Lógica - Introdução, cláusulas de Horn, resolvente e unificação, SLD derivação e refutação, linguagem de programação Prolog. Lógicas não Clássicas - lógica modal, de multivalores, temporal e não monotônica.
+4
+Teoria Geral de Sistemas
+A origem e o conceito da Teoria Geral de Sistemas. O conceito de sistema. Componentes genéricos de um sistema. As relações entre sistema e ambiente. Hierarquia de sistemas. Classificações dos sistemas. Enfoque sistêmico. O ensamento sistêmico aplicado na resolução de problemas. O pensamento sistêmico aplicado às organizações. Modelagem de Sistemas.
+4
+Cálculo IV
+Números complexos. Equações diferenciais de primeira ordem. Equações lineares de segunda ordem. Soluções em série para EDO´s de segunda ordem (funções de Bessel). Transformada de Laplace. Transformada de Fourier. Séries de Fourier. Equações diferenciais parciais. 
+4
+Cálculo Numérico em Computadores
+Sistemas de numeração e erros numéricos. Resolução de equações não lineares transcendentais e polinomiais. Resolução de Sistemas Lineares e não lineares. Aproximações de funções por séries. Ajuste de curvas a dados experimentais. Integração numérica. Resolução numérica de equações e sistemas de equações diferenciais ordinárias.
+4
+Análise de Sinais e Sistemas
+Sinais contínuos e discretos no tempo. Operações com sinais. Tipos e propriedades de sinais. Sistemas contínuos e discretos no tempo. Amostragem de sinais contínuos no tempo. Convolução contínua e discreta. Resposta de sistemas lineares. Aplicações de sistemas lineares. Transformada de Laplace. Transformada Z.
+4
+Pesquisa Operacional
+Introdução à pesquisa operacional. Modelagem com programação linear. Método Simplex e Análise de Sensibilidade. Dualidade e análise pós-otimização. Problema de transporte e suas variantes. Otimização em redes. Programação linear avançada. Programação de metas. Programação linear inteira. 
+4
+Linguagem de Programação II
+Fundamentos de uma linguagem orientada por objetos: nomes, variáveis, tipos de dados, operadores, expressões, estruturas de controle de fluxo, regras de escopo. Decomposição de problemas por objetos. Encapsulamento. Classes: Abstrata, Derivada, Genérica, Aninhada e Agregada. Mecanismo de herança. Polimorfismo. Interfaces. Objetos Componentes. Interface Gráfica com o Usuário (GUI). Sistemas Orientados por Eventos. Mecanismo de resposta à eventos. Persistência: streams, entrada e saída de dados.
+4 
+Projeto e Análise de Algorítmos
+Técnicas de análise de algoritmos identificando classes de problemas e soluções eficientes. Algoritmos clássicos. Complexidade de Algoritmos. Projetos de algoritmos. Estruturas de dados Avançadas. Teoria dos Grafos: conceitos básicos, algorítmos e aplicações.
+4 
+Inteligência Artificial I
+Introdução à resolução de problemas. Notas Históricas. Métodos de Busca de informação e heurística. Representação e aquisição de Conhecimento. Introdução à Aprendizagem da Máquina e a algoritmos de aprendizagem simbólica. Sistemas Especialistas, Agentes Inteligentes e Sistemas Multiagentes.
+4
+Banco de Dados I
+Introdução aos sistemas de gerência de bancos de dados. Projeto de banco de dados: conceitual, lógico e físico. Projeto conceitual de dados: entidades, relacionamentos, atributos, generalização e especialização. Projeto lógico para o modelo de dados relacional. Dependências funcionais e normalização. Linguagens de definição e de manipulação de dados. Restrições de integridade e visões. Desenvolvimento de aplicação de banco de dados.
+4
+Fundamentos de Materiais
+Materiais e Engenharia. Ligações químicas e seu efeito nas propriedades dos principais Materiais de Engenharia. Estruturas Cristalinas. Defeitos em Sólidos. Propriedades Mecânicas dos Metais. Falhas em Metais. Análise microestrutural de Materiais, principais processamentos de materiais metálicos e sua correlação com microestrutura e propriedades resultantes no material. Estrutura, Propriedades e Processamento de Cerâmicas de Alto Desempenho. Estrutura, Propriedades e Processamento de Plásticos de Engenharia. Noções de Propriedades e Processamento de Materiais Compósitos.
+4
+Fundamentos de Controle
+Definição de sistemas de controle. Analogia e modelagem. Função de transferência. Diagramas de blocos. Resposta dinâmica de Sistemas lineares. Resposta em frequência. Estabilidade. Realimentação. Perturbações e sensibilidade. Diagrama de Nyquist. Diagrama do Lugar das Raizes. Projetos de compensadores. Espaço de estados. Realimentação de estados. Sistemas de tempo discreto.
+4
+Modelagem e Simulação
+Introdução à simulação. Propriedades e classificação dos modelos de simulação. Geração de números aleatórios. Noções básicas em teoria dos números. Geração e teste. Distribuições clássicas contínuas e discretas. Simulação de sistemas discretos e de sistemas contínuos. Verificação e validação de modelos. Técnicas estatísticas para análise de dados e de resultados de modelos de simulação. Simulação de sistemas simples de filas. Simulação de sistemas de computação.
+4
+Fenômenos de Transporte
+Mecânica dos Fluidos: Conceitos básicos em mecânica dos fluidos. Estática dos fluidos. Pressão. Manometria.Forças em corpos submersos.Empuxo hidrostático. Dinâmica dos fluidos. Formulação integral. Teorema do Transporte de Reynolds Formulação diferencial. Equação de Bernoulli. Termodinâmica e Transferência de Calor: Temperatura. Escalas de temperatura. Trabalho e calor. 1ª lei da termodinâmica. Introdução aos mecanismos de transmissão de calor. Condução unidimensional permanente. A parede plana. Equivalência elétrica para a transferência de calor.
+4
+Mecânica dos Materiais
+Estática dos Pontos Materiais; Equilíbrio dos Corpos Rígidos; Centróides; Análise de Estruturas; Atrito; Momento de Inércia; Noções de Dinâmica de Corpo Rígido. Estado de tensão; Esforços solicitantes como resultantes das tensões; Barras submetidas à força normal; Flexão; Torção; Critérios de resistência. Flambagem.
+4 
+Inteligência Artificial II
+Introdução Inteligência Computacional. Lógica Nebulosa/Fuzzy. Conjuntos nebulosos. Tratamento de Incertezas: fuzificação e defuzificação. Raciocínio e inferência em lógica nebulosa. Algoritmos Genéticos e Programação Genética. Sistemas de Colônia de Formigas. Redes Neurais Artificiais. Aprendizado não supervisionado e supervisionado.
+4
+Organização e Arquitetura de Computadores I
+Aritmética binária: ponto fixo e flutuante. Unidades lógicas e aritméticas. Barramento de dados e de controle. Hierarquia de memória: cache, interna e externa. Memória virtual. Entrada e saída. Relógio. Ciclo de máquina. Ciclo de instrução. Microprogramas. Instruções que implementam operações, desvio do fluxo de controle e transferência de dados. Conjuntos de instruções: CISC x RISC. Pipeline. Controle de acesso aos dispositivos e resolução de conflitos. Interrupções. Polling. Acesso direto à memória. Evolução da arquitetura dos computadores.
+4
+Circuitos Elétricos para Computação
+Conceitos básicos, unidades, leis fundamentais; resistência; fontes ideais independentes e dependentes em redes resistivas; amplificador operacional ideal; técnicas de análise de circuitos em corrente contínua, indutância e capacitância; resposta de circuitos RL e RC de primeira ordem; respostas natural e a um degrau de circuitos RLC;circuitos de corrente alternada; introdução a eletrônica; diodos; transistor de efeito de campo; transistor de junção bipolar.
+4 
+Circuitos Digitais
+Álgebra de Boole (teoremas). Portas lógicas. Parâmetros físicos e limitações de portas lógicas e circuitos integrados. Circuitos combinacionais. Técnicas de minimização de hardware. Implementação de dispositivos elementares de memória (latchs e flip-flops). Circuitos Sequenciais. Memória. Linguagens de descrição de hardware. Implementação de módulos básicos. Ambiente de simulação.
+4 
+Laboratórios de Circuitos Elétricos
+Desenvolvimento de atividades práticas que permitam explorar os fundamentos, conceitos e técnicas relativas em circuitos elétricos e eletrônicos.
+4
+Comunicação de Dados
+Fundamentos de comunicação de dados. Formas de transmissão de dados. Modulação por amplitude, ângulo e pulso. Demodulação. Modulação e Transmissão Digital. Meios de transmissão de dados. Detecção e correção de erros. Interfaces de comunicação de dados. Padronização de comunicação de dados.
+4
+Laboratórios de Circuitos Digitais
+Desenvolvimento de atividades práticas que permitam explorar os fundamentos, conceitos e técnicas relativas em circuitos digitais.
+4
+Tópicos Especiais I
+A ementa desta disciplina está condicionada a disciplina prevista para esta unidade curricular.
+4
+Linguagens Formais e Autômatos
+Conceitos Centrais: Símbolos, Alfabeto, Strings e Linguagem. Linguagens Regulares. Expressões Regulares. Automatos Finitos e Expressões Regulares. Propriedades das Linguagens Regulares. Linguagens Livres de Contexto. Automato de Pilha. Introdução a Máquinas de Turing.
+4
+Microprocessadores e Microcontroladores
+Microprocessadores: introdução histórica; estrutura básica de um microprocessador; microprocessadores comercialmente disponíveis; memórias; controladores; computadores; microcontroladores operações de entrada/saída. Microcontroladores: arquiteturas típicas de um microcontrolador e seus registradores; arquiteturas CISC e RISC; exemplos de microcontroladores comerciais; instruções; programação em linguagem Assembler; mapa de memória, portas de entrada e saída; modulo temporizador; contadores; interrupções, conversão analógicodigital; acesso à memória; barramentos padrões; dispositivos periféricos; ferramentas de programação, simulação e depuração. Aplicações de microcontroladores e microprocessadores. Projetos de sistemas práticos com microcontroladores.
+4
+Tópicos Especiais II
+A ementa desta disciplina está condicionada a disciplina prevista para esta unidade curricular.
+4
+Linguagem de Descrição Hardware
+Desenvolvimento de projetos em Alto Nível através de Linguagens de Descrição de Hardware (VHDL, Verilog), Máquina Finita de Estados, RTL (RegisterTransferLevel), em dispositivos como Field Programmable Gate Array (FPGA). São considerados Co-Projetos de Hardware/Software em ambientes System-on-Chip enfocando CORE e IP para o re-uso de sistemas. Para esses estudos são considerados os usos das ferramentas EDA (Eletronic Design Automation) da Xilinx e Altera. Considerações sobre: co-projeto de hardware/software; engenharia de software para o sistema; questões de sincronização de clock; protocolo de comunicação; escalonamento; RTOS (Real Time Operating System); validação e verificação; tolerância à falhas; programando sensores e atuadores; simulação, ferramentas EDA, ambiente distribuído.
+4
+Arquitetura de Sistemas Operacionais
+Introdução, histórico e arquitetura de sistemas operacionais. Gerenciamento de Processos; Gerenciamento de Memória; Gerenciamento de Dispositivos de Entrada e Saída; Sistemas de Arquivos; Proteção e Segurança em Sistemas Operacionais; Estudos de caso de Sistemas Operacionais.
+4 
+Redes de Computadores
+Introdução e principais conceitos. Modelos de referência (OSI e TCP/IP). Camadas de aplicação, transporte, rede e enlace. Roteamento. Redes sem Fio e Redes Móveis. Administração de Redes de Computadores. 
+4
+Sistemas Distribuídos
+Fundamentos de Sistemas Distribuídos: Arquitetura de Sistemas Distribuídos, Comunicação entre Processos, Comunicação em Grupo, Objetos Distribuídos. Sistemas Par-a-Par, Sincronização: relógios físicos, relógios lógicos e estados globais. Coordenação, Exclusão Mútua Distribuída. Transação Distribuída, Detecção e Prevensão de Deadlock Distribuído, Tolerância à Falta. 
+4 
+Tópicos Especiais III
+A ementa desta disciplina está condicionada a disciplina prevista para esta unidade curricular.
+4
+Sistemas Digitais Embarcados
+Projeto de hardware com microcontroladores. Interface com dispositivos de armazenamento, RAM, Flash e IDE. Interface com periféricos mais comuns, displays de cristal líquido e teclado. Interface com sistemas analógicos. Redes de comunicação, CAN, LIN, RS485 e I2C. Redes wireless WIFI e Bluetooth. Desenvolvimento de software de tempo real baseado em diagramas de estado. Programação na linguagem C em sistemas operacionais de tempo real para microcontroladores (uCOS II).
+4
+Sistemas de Aquisição de Sinais
+Característica dos sensores. Princípio físico dos sensores. Sensores óticos. Circuitos de interface. Detectores de movimento. Sensores de posição, deslocamento e nível. Sensores de aceleração e velocidade. Sensor de Força. Sensor de Pressão. Sensores de fluxo e acústico. Sensor de umidade. Detector de luz. Detectores de radiação. Sensores de temperatura. Sensores químicos. Circuitos amostradores. Conversores Analógicos Digitais. Conversores Digitais Analógicos.
+4
+Sistemas Operacionais Embarcados
+Conceitos de sistemas embarcados e sistemas operacionais embarcados. Projeto de sistemas operacionais embarcados. Sistemas operacionais embarcados de tempo real. Implementação de sistemas operacionais embarcados.
+4
+Redes sem Fio
+Introdução a redes sem fio. Fundamentos de transmissão e propragação de sinal. Tipos de Antenas. Protocolos e Mecanismos de Controle: Acesso ao Meio, Topologia, Potência, Ruído e Taxa. Padronização de redes sem fio (Padrões IEEE WPAN, WLAN e WMAN). Roteamento e QoS em redes sem fio: ad hoc e infraestruturadas, Mobilidade IP, TCP móvel. Estudos de casos: redes locais, redes celulares, redes de sensores e redes veiculares.
+4
+Projeto de sistemas Ubíquos
+Fundamentos de Sistemas Ubíquos e Pervasivos: computação móvel e embarcada, computação sensível ao contexto e descoberta de serviços. Fundamentos de sistemas operacionais embarcados, sistemas autônomos e reconfiguráveis. Tecnologias de Sistemas ubíquos: Middleware para sistemas ubíquos, Redes de Sensores Sem Fio, Identificação por Rádio Frequência (RFID), FlexRay, TinyOs, Android, Bluetooth.
+4
+Construção de Compiladores
+Linguagens-fonte, objeto, de alto-nível e de baixo-nível. Especificação de linguagens de programação. Compilação e interpretação. Processadores de linguagens de programação. Máquinas reais e virtuais. Bootstrapping. Análise sintática. Análise de contexto. Ambientes de execução. Geração de código. Otimização de código independente de máquina. Otimização de código dependente de máquina.
+4 
+Engenharia de Software II
+Evolução da prática de desenvolvimento de software; Critérios de qualidade de artefatos de software; modelos de ciclo de vida; metodologias de desenvolvimento de software; manutenção de software; engenharia reversa; modelagem formal de sistemas; abordagens voltadas ao reuso de software; teste de software; gerenciamento do processo de produção de software e técnicas de apoio ao gerenciamento do processo de produção de software; apoio automatizado ao desenvolvimento de software.
+4
+Ciência Tecnologia e Sociedade
+Estudo das relações entre ciência, tecnologia e sociedade ao longo da história, com ênfase na atualidade; filosofia da ciência; análise de valores e ideologias envolvendo a produção e divulgação da ciência e datecnologia; influências das diferenças culturais, ou diferenças etniológicas, nas concepções de ciência e tecnologia e de suas relações com as sociedades; a participação da sociedade na definição de políticas relativas às questões científicas, tecnológicas, econômicas e ecológicas. O impacto da informática na sociedade. Clima e Projetos de Mecanismos de Desenvolvimento Limpo. 
+3
+Projeto de Sistemas Embarcados
+Conceitos e os desafios envolvidos na especificação e projeto de sistemas embarcados. Requisitos, especificação e projeto sistemas embarcados. Apresentação de exemplos, e análise do compromisso custo versus benefício na especificação do projeto. Estudo de casos, como o projeto de disposit vos móveis, impressoras, automóveis, entre outros, analisando as vantagens e inconvenientes das diferentes técnicas de projeto de sistemas embarcados. Projetar e prototipar um sistema embarcado.
+4
+Semináios Técnicos Científicos
+Apresentação de seminários Orientação e planejamento do seminário Noções de oratória: apresentação oral de trabalhos e seminários Uso de ferramentas de apresentação Título, resumo, introdução, pesquisa bibliográfica, metodologia, resultados, discussão, conclusões, literatura, tabelas, figuras, elaboração de projetos de pesquisa, produção e apresentação oral, pôsteres. 
+2 
+Gerenciamento de Projetos
+Fundamentos da Gestão de Projetos: Introdução e Histórico; Conceitos Básicos; Benefícios do Gerenciamento de Projetos. O Contexto da Gestão de Projetos: Fases e Ciclo de Vida de Projetos; Os Processos de Gestão de Projetos: Conceitos de Processos de Gerenciamento de Projetos; Processos e ciclo de vida de projetos. Início de um Projeto; Gestão do Escopo; Gestão de Prazos; Gestão de Custos; Gestão de Qualidade; Gestão de Recursos Humanos; Gestão de Comunicação; Gestão de Riscos. Introdução ao MSProject.
+4 
+Inovação e Propriedade Intelectual
+Conceitos Básicos de Inovação. Os principais modelos de inovação nas instituições. As condições para inovação e os modelos de Gestão para a inovação. Proteção das inovações e Introdução à propriedade intelectual - PI - tipos de proteção. A Inovação e Propriedade Intelectual como garantias de divisas. As funções de Núcleo de Inovação nas Instituições. A Inovação e PI na Tecnologia, Biotecnológica e no meio ambiente. A Lei de Inovação e as legislação e entidades. Perspectivas econômicas da Lei de Inovação. Inovação como fator de competitividade. P&D e Inovação nas Organizações. Inovação como parte do Planejamento Estratégico. Gestão para inovação. Criatividade: fundamentos teóricos. Postura empreendedora. A Propriedade Intelectual - conceitos, deveres e direitos. Formas de proteção do conhecimento. A Propriedade Intelectual na empresa.
+4
+Trabalho de Conclusão de Curso I
+Iniciar cientificamente o aluno em atividades de pesquisa; Elaborar trabalhos científicos como atividade obrigatória de conclusão de curso, utilizando-se da metodologia científica, de acordo com as normas da ABNT (Associação Brasileira de Normas Técnicas);Utilizar recursos necessários para elaboração de trabalhos científicos: biblioteca, audiovisuais; Promover o conhecimento das várias técnicas de apresentação oral de trabalhos científicos; Possibilitar ao aluno conhecimento das técnicas e instrumentos para a publicação de artigos científicos.
+4
+Trabalho de Conclusão de Curso II
+Divulgar as Normas para realização do TCC; Acompanhar o cumprimento das Normas para realização do TCC; Acompanhar alunos e professores orientadores em todas as fases de desenvolvimento do projeto de TCC; Desenvolver a capacidade de trabalho do aluno e a aplicação dos conhecimentos adquiridos no decorrer do curso; Incentivar a criatividade e o espírito crítico do aluno; Participar do processo de aprovação do projeto de TCC. Introduzir o aluno na prática de investigação científica.
+4 
+Estágio Curricular
+Estágio curricular supevisionado, previamente aprovado junto a coordenação de estágio do curso de Engenharia de Computação e segundo a LEI Nº 11.788, DE 25 DE SETEMBRO DE 2008, bem como pelas normativas internas da UFSC e pelas diretrizes deste PPC para estágio curricular. 
+20

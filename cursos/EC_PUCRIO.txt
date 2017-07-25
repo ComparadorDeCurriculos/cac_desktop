@@ -1,0 +1,165 @@
+Introdução à Engenharia	
+Conceitos fundamentais de engenharia: metodologia de projeto de engenharia (modelagem, simulação, CAD/CAM e confecção de maquetes e/ou protótipos, dimensionamento, normas, especificação, custos/estoque/planilhas, testes experimentais); gestão de projetos (equipe de trabalho, cronograma, custos, logística, controle de qualidade, marketing); apresentação de projetos (confecção de relatórios, uso de gráficos, sistemas de unidades, medições: instrumentos e ordem de grandeza, analise de experimentos); execução de projetos específicos por área da engenharia ou interdisciplinares (discussão do projeto, organização das equipes, plano de trabalho, conceitos envolvidos no projeto, delimitação e distribuição de recursos (humanos, materiais e financeiros), metodologia de execução do projeto, apresentação dos projetos pelos alunos).
+2
+Mecânica Newtoniana	
+Vetores. Cinemática vetorial. Forças e Leis de Newton. Trabalho. Teorema Trabalho-Energia Cinética. Forças Conservativas, Energia potencial e energia mecânica. Momento linear. Conservação de momento linear e colisões. Cinemática rotacional. Momento de inércia de corpos rígidos. Torque. Equilíbrio de corpos rígidos. Momento angular e sua conservação. Rolamento de corpos rígidos.
+4
+Laboratório de Mecânica Newtoniana	
+Vetores. Cinemática vetorial. Forças e leis de Newton. Trabalho. Teorema trabalho-energia cinética. Forcas conservativas. Energia potencial e energia mecânica. Momento linear. Conservação de momento linear e colisões. Cinemática rotacional. Momento de inércia de corpos rígidos. Torque. Equilíbrio de corpos rígidos. Momento angular e sua conservação. Rolamento de corpos rígidos.
+2
+Cálculo de uma Variável	
+Números reais, representação decimal. Sequências numéricas. Funções e gráficos. Continuidade. Limites de funções, limites assintóticos. Diferenciabilidade. Funções elementares: polinomial, exponencial, logaritmo e seus gráficos. Funções trigonométricas, suas inversas e derivadas. Máximos e mínimos locais, derivadas de ordem superior, pontos de inflexão. Otimização. Integral definida. Teorema fundamental do cálculo, primitivas. Aplicações de integrais.
+6
+Álgebra Linear 1	
+Ementa: Sistemas lineares. Coordenadas no plano e no espaço. Vetores, produto escalar, determinantes, produto vetorial, produto misto. Equações de retas e planos. Subespaços vetoriais, bases. Transformações lineares, matrizes, autovalores e autovetores
+4
+Laboratório de Química Geral	
+Participação interativa dos estudantes com os fenômenos básicos da química. Iniciação aos trabalhos experimentais: principio de Avogadro; investigação quantitativa da reação de um metal com ácido clorídrico; estudo das reações; determinação do ponto de equivalência de uma reação de precipitação; calor de reação; equilíbrio químico; determinação da concentração do íon hidrogênio por meio de indicadores; titulometria de neutralização; titulação condutométrica; estudo da velocidade de uma reação; introdução a oxi redução; células galvânicas; eletrolise do iodeto de potássio aquoso.
+2
+Química Geral	
+Estequiometria das reações. O estado gasoso. Termoquímica. Soluções. Velocidades das reações. Equilíbrio químico. Equilíbrio ácidos e bases. Equilíbrio de solubilidade e de ions complexos. Equilíbrio termodinâmico. Fundamentos de eletroquímica.
+4
+O Humano e o Fenômeno Religioso	
+Fundamentação antropológica da abertura do ser humano ao Transcendente. O fenômeno religioso no contexto atual, interpelações e novos paradigmas. Construção de conceitos fundamentais do fenômeno religioso e estudo crítico dos modelos teóricos de interpretação. Manifestações religiosas históricas e contemporâneas. Pluralismo, tolerância e o necessário diálogo inter-religioso. Os direitos humanos na perspectiva das grandes religiões.
+4
+Desenho Técnico I	
+Comandos básicos que permitam ao aluno trabalhar minimamente sobre os assuntos tratados na teoria. Introduzem-los a nível informativo as principais técnicas e métodos de trabalho em desenho digital. Interface de programa. Objetos geométricos. Importância da organização racional da geometria. Controle da quantidade de informação representada. Transformações geométricas básicas. Translação, rotação, mudança de escala e reflexão. Uso de ferramentas de precisão. Projeções cilíndricas. Vistas ortogonais. Sistema diédrico. Vistas no 1âº e 3âº diedro. Definição da vista frontal. Representação axonométrica. Conceito de isometria, dimetria e trimetria. Representação de objetos simples em isometria. Desenho circunferências em isometria. Concordância de arcos. Tangentes. Método dos quatro centros. Introdução a norma técnica ABNT para desenho técnico. Tipos de linha e sua aplicação. Conceito de escala. Pranchas de impressão.
+2
+Fluidos e Termodinâmica	
+Modelo molecular dos gases: teoria cinética. Definição microscópica de pressão, temperatura e energia interna. Equações de estado. Calores específicos dos gases. Estatística clássica: Maxwell Boltzmann. Princípios da termodinâmica: energia interna e entropia: reversibilidade e irreversibilidade. Modelo macroscópico dos fluidos não compressíveis: estatística e dinâmica dos fluidos. Ondas em meios materiais em uma dimensão; equação diferencial da corda sob tensão e da propagação do som no ar. Interferência e batimento. Ondas estacionárias. Efeito Doppler. Ondas em duas dimensões (tanque de ondas): princípios de huygens e fermat. Reflexão, refração, difração e interferência.
+4
+Laboratório de Fluidos e Termodinâmica	
+Modelo molecular dos gases: teoria cinética. Definição microscópica de pressão, temperatura e energia interna. Equações de estado. Calores específicos dos gases. Estatística clássica: Maxwell Boltzmann. Princípios da termodinâmica: energia interna e entropia: reversibilidade e irreversibilidade. Modelo macroscópico dos fluidos não compressíveis: estatística e dinâmica dos fluidos. Ondas em meios materiais em uma dimensão; equação diferencial da corda sob tensão e da propagação do som no ar. Interferência e batimento. Ondas estacionárias. Efeito Doppler. Ondas em duas dimensões (tanque de ondas): princípios de huygens e fermat. Reflexão, refração, difração e interferência.
+2
+Introdução à Programação	
+Introdução a computadores e a linguagens de programação imperabvas. Variáveis, expressões e funções. Controle de fluxo iterações e condicionais. Valores básicos e estruturados. Funções e recursão. Arquivos.
+4
+Lógica para a Computação	
+Relação da lógica com as questões centrais da filosofia, com ênfase nos aspectos epistemológicos (justificação, dedução, definição), aspectos metafísicos (verdade, essência, individuação) e aspectos linguísticos (termo, proposição, juízo, forma lógica). Noções do desenvolvimento histórico da lógica de Aristóteles a Frege.
+4
+Cálculo a Várias Variáveis I	
+Continuidade e diferenciabilidade de funções de 2 e 3 variáveis: gráfico, domínio, imagem; aproximação linear; classificação de pontos críticos; teorema de Weierstrass; multiplicadores de Lagrange; integrais duplas e triplas em coordenadas cartesianas, polares, cilíndricas, e esféricas.
+4
+Optativas de Cristianismo	
+A ética e as transformações sociais recentes. A crise ética. Regulamentação e códigos de ética. Função da empresa e princípios para uma consciência ética na vida corporativa. Conceito de responsabilidade social empresarial. Perspectiva histórica da responsabilidade social. Corporações e o desenvolvimento sustentável, governança corporativa. Instrumentos para a gestão da responsabilidade social e a questão dos Direitos Humanos.
+4
+Fenômenos de Transporte I	
+Definição de fluido e propriedades. Classificação de escoamentos: permanente/ transiente, laminar/turbulento, viscoso/não viscoso, incompressível/compressível. Hidrostática. Escoamento de fluidos. Equações básicas de dinâmica de fluidos. Escoamentos viscosos incompressíveis (externos e internos). Perda de carga em tubulações e perdas locais.
+2
+Ciência e Tecnologia dos Materiais	
+Introdução aos conceitos da ciência e engenharia dos materiais. As classes de materiais: metais, cerâmicas, polímeros, compósitos, semicondutores. Propriedades físicas, químicas, mecânicas e térmicas. Exemplos de aplicações atuais de materiais diversos através estudos de casos: aços especiais para aplicações na indústria automotiva; ligas e compósitos especiais aplicados na indústria aeronáutica, materiais poliméricos e compósitos presentes na fabricação de pranchas de surf e barcos; dispositivos semicondutores para a geração luz e óxidos nano-estruturados para células de combustível e catalise. Materiais biodegradáveis e reciclagem.
+2
+Eletromagnetismo	
+Carga elétrica. Campo elétrico. Potencial elétrico. Capacitores e dielétricos. Corrente elétrica. Resistência e circuitos de corrente contínua. Campo magnético. Indução eletromagnética. Autoindutância e indutores. Magnetismo na matéria. Equações de Maxwell. Ondas eletromagnéticas.
+4
+Laboratório de Eletromagnetismo	
+Carga elétrica. Campo elétrico. Potencial elétrico. Capacitores e dielétricos. Corrente elétrica. Resistência e circuitos de corrente continua. Campo magnético. Indução eletromagnética. Autoindutância e indutores. Magnetismo na matéria. Equações de Maxwell. Ondas eletromagnéticas.
+2
+Programação II    	
+Linguagens imperativas. Recursão, arrays e algoritmos básicos: pesquisa sequencial e pesquisa binária, ordenação por seleção, "heapsort", "mergesort", "quicksort", ordenação por caixas. Tipos estruturados. Estruturas lineares: listas, representação por arrays e por encadeamento, pilhas e filas. Alocação dinâmica de memória. Cadeia de caracteres. Introdução a programação modular.
+4
+Modelagem de Dados	
+Modelo de entidade-relacionamento: conceitos básicos de entidade, relacionamento e atributo; generalização/especialização; entidades associativas. Modelo conceitual de dados utilizando a linguagem UML. Estudos de casos
+2
+Equações Diferenciais e de Diferenças	
+Interpretação geométrica e existência e unicidade de equação diferenciais de primeira ordem; equações diferenciais e de diferenças separáveis e lineares de primeira ordem, casos homogêneo e não-homogêneo; equações diferenciais e de diferenças separáveis e lineares de segunda ordem com coeficientes constantes; sistemas de dimensão 2; séries de potências e séries de Taylor; uso de séries de potências em equações de funções.
+4
+Introdução à Mecânica dos Sólidos	
+Idealização estrutural; equilíbrio, forças e momentos; treliças; conceitos de tensão e de deformação; propriedades mecânicas dos materiais; analise de tensões e deformações; transformação de tensões no plano; torção; esforços e tensões em vigas; cabos.
+2
+Sinais e Sistemas	
+Introdução definições básicas; sinais no tempo discreto e equações a diferenças finitas; sinais no tempo contínuo e equações diferenciais; sinais periódicos; transformada z; transformada de Laplace; séries de Fourier; transformadas de Fourier.
+4
+Estruturas de Dados Avançadas	
+Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, filas de prioridades, árvores balanceadas. Heaps e estruturas para partições dinâmicas. Conjuntos: operações, representação por listas e por vetores característicos, hashing. Grafos e algoritmos básicos.
+4
+Software Básico	
+Arquitetura básica de um computador; CPU, memória, periféricos. Armazenamento e representação de tipos primitivos; base binária, complemento a dois, ponto flutuante, código ASCII. Conjunto de instruções típico de uma CPU; modos de endereçamento, interrupções. Linguagem de montagem. Serviços e chamadas ao Sistema Operacional; Sistema de Arquivos. Modelo de Execução de Uma Linguagem de Alto Nível; implementação de instruções e dados. Organização de memória em um programa; área estática, área de alocação dinâmica, registros de ativação. Ligação e relocação de programas objeto.
+4
+Programação Modular	
+Módulos, interfaces acoplamento, coesão, modelagem física. Construção e uso de bibliotecas; compilação independente e em separado. Tipos abstratos de dados; amarração dinâmica; princípios de orientação a objetos. Especificação; independência entre especificação e implementação. Assertivas, argumentação da corretude. Instrumentação, princípios de testes de programas. Qualidade de software.
+4
+Banco de Dados	
+Introdução aos sistemas de gerência de bancos de dados. Projeto de banco de dados: conceitual, lógico e físico. Modelo conceitual de entidades e relacionamentos. Modelo de dados relacional. Dependências funcionais e normalização. Linguagens de definição e de manipulação de dados. Álgebra relacional e sql. Restrições de integridade e visões. Organização física de bancos de dados: técnicas de armazenamento e indexação.
+4
+Linguagens Formais e Autômatos	
+Hierarquia de Chomsky. Alfabetos e Linguagens. Gramáticas. Autômatos finitos e linguagens regulares; máquinas de pilha e linguagens livres de contexto, gramáticas LL(k) e LR(k); gramáticas sensíveis a contexto; máquinas de Turing. Capacidade e limite de cada classe, Decidibilidade e Computabilidade.
+4
+Ética Cristã	
+A consciência ética fundada no valor da Vida e nos Direitos Humanos. A Pessoa humana em todas as suas dimensões: somática, psicoafetiva, social, ecológico-planetária e espiritual. A universalidade da proposta do Reino de Deus, anunciada e inaugurada por Jesus Cristo, como referencial mobilizador da ética: compromisso histórico práxico nas relações básico fundamentais do ser humano.
+2
+Circuitos Elétricos e Eletrônicos	
+Circuitos resistivos. Fontes independentes e dependentes. Amplificadores. Elementos armazenadores de energia. Dinâmica de redes de primeira e segunda ordem. Análise de circuitos nos domínios do tempo e da frequência. Análise de circuitos com diodos, transistores bipolares e transistores mos. Circuitos integrados analógicos e aplicações. Experimentos em laboratório.
+6
+Laboratório de Circuitos Elétricos e Eletrônicos	
+Total de 9 a 11 experimentos envolvendo assuntos dos tópicos cobertos em eng1403 e uma introdução geral ao uso dos instrumentos de laboratório (multímetro, osciloscópio, etc.) e aos softwares de simulação.
+2
+Sistemas de Computação I	
+Introdução: funções e estrutura de um sistema operacional. Processos: conceitos básicos; comunicação e sincronização; escalonamento. Gerência de memória: partições fixas e variáveis; realocação; memória virtual; swapping; sistemas de arquivos.
+4
+Análise Numérica	
+Apresentação e análise do erro dos métodos mais conhecidos para a solução computacional de problemas matemáticos de amplo espectro de aplicação. Teoria dos erros. Aproximação de funções. Integração numérica de EDOs. Métodos para sistemas de equações lineares. Zeros de funções.
+4
+Estruturas Discretas	
+Construções indutivas. Provas por indução; indução forte, indução estrutural. Princípios de contagem, combinatória. Grafos e árvores.
+4
+Programação Orientada a Objetos	
+Objetos e classes; métodos; polimorfismo e late-binding; abstração de dados; herança simples e múltipla; interfaces; programação orientada a eventos; princípios de linguagens orientadas a objetos; classes e tipos genéricos.
+4
+Ética Socioambiental e Direitos Humanos	
+A crise socioambiental contemporânea. Fundamentos antropológicos, históricos, filosóficos e teológicos da ética socioambiental e dos Direitos Humanos. A contribuição da perspectiva cristã para o discernimento crítico e a construção de uma nova sociedade sustentável, justa e inclusiva. Os Direitos Humanos e o Estado Democrático de Direito. Diálogo interdisciplinar e Direitos Humanos. A Igreja Católica e suas contribuições aos Direitos Humanos. Movimentos eclesiais e Direitos Humanos: identidade, diálogo e profetismo hoje.
+2
+Introdução à Engenharia Ambiental	
+A biosfera e seu equilíbrio. Biodiversidade. Efeitos da presença humana e da tecnologia sobre o meio ambiente. Controle das diversas formas de poluição. Preservação de recursos naturais. Principais problemas ambientais da atualidade.
+2
+Técnicas Digitais	
+Conceito de sistemas digitais; sistemas numéricos; portas lógicas álgebra booleana e minimização de circuitos; circuitos combinacionais; circuitos sequenciais; projeto de circuitos MSI. Lógica programável.
+4
+Lab. Técnicas Digitais	
+Portas lógicas; minimização de circuitos combinacionais; projeto com circuitos combinacionais; projeto com circuitos sequenciais; projeto de circuitos MSI; lógica programável.
+3
+Optativas de Filosofia	
+Reflexão filosófica sobre a Filosofia: suas origens, objetos, métodos e divisões em disciplinas.
+4
+Optativas de Inteligência Artificial	
+Jogos, busca. Lógica de primeira ordem resolução. Lógica não monotônica. Planos. Aprendizado. Sistemas Especialistas. Linguagem natural.
+4
+Redes de Comunicação de Dados	
+Introdução a comutação. Topologia de redes. Arquitetura de redes (osi, tcp/ip, etc.). Nível físico. Nível de enlace. Protocolos de acesso. Padrões ieee 802. Nível de rede (protocolo ip). Nível de transporte (protocolo tcp, udp, apis de transporte). Níveis de sessão, apresentação e aplicação: middleware. Sistemas operacionais de redes. Introdução a redes de alta velocidade (comutação de rótulos).
+4
+Análise de Algoritmos	
+Conceitos Básicos: motivação e solução de problemas, critérios de análise, correção e eficiência. Análise de Algoritmos: tempo de processamento e operações elementares, complexidade de pior caso, algoritmos polinomiais, comparação de algoritmos, algoritmos recursivos, algoritmos pseudo-polinomiais. Algoritmos e estruturas de dados para problemas em grafos: componentes conexas, planaridade, coloração, árvores geradoras de peso mínimo, caminhos mais curtos, caminhos críticos, fluxo máximo, aplicações. Teoria da Complexidade: problemas de decisão, transformações polinomiais, classe P, algoritmos não-determinísticos, classe NP e Co-NP, problemas NP-completos, classe P-space.
+4
+Administração para Engenheiros	
+Fundamentos. Enfoque sistêmico. A construção de uma teoria administrativa, com foco no aumento da produtividade; papéis do gerente. Administração da qualidade nos EUA e modelo japonês. Abordagem humanística e teoria comportamental. Estilos de administração. Visão sociotécnica, grupos semiautônomos de trabalho. Administração participativa, administração por resultados. Administração no presente.
+2
+Probabilidade e Estatística	
+Tipos de dados: seccionais e series temporais; bases de dados brasileiras e internacionais; tipos de variáveis (qualitativas e quantitativas) e escalas; medidas de tendência central, dispersão e simetria, quantis e percentis; histograma; box-plot e outras medidas de síntese de dados; definição de probabilidade; variáveis aleatórias; distribuição e densidades; transformação de variáveis; independência; variáveis discretas; variáveis continuas.
+4
+Computação Digital	
+Tecnologias de semicondutores: bipolar e CMOS; projeto com circuitos MSI; memória (ROM, SRAM, DRAM, ETC); CPU digital; linguagem assembly, barramentos síncronos e assíncronos; dispositivos lógicos programáveis; linguagem VHDL RTL; computação virtual; hardware evolucionário; introdução ao projeto de circuitos VLSI.
+5
+Arquitetura de Computadores	
+Processadores, microarquitetura; barramentos comerciais; arquitetura do conjunto de instruções; arquiteturas RISC; projeto de hierarquia de memória (memória primária, memória secundaria, cachê, memória virtual); entrada/saída (dispositivos de e/s, técnicas de gerenciamento); pipelining; arquiteturas paralelas.
+4
+Legislação Social	
+Princípios gerais de legislação trabalhistas. O contrato trabalhista. Justiça do trabalho. Organização sindical. Inspeção do trabalho. A previdência social: sínteses históricas, conceitos, aspectos técnicos e sociais, legislação.
+2
+Introdução à Economia para Engenheiros	
+Parte I: Análise clássica de projetos Função econômica da empresa; Conceito de valor e dinheiro; Conceito e funções de custo; Custo de oportunidade; Valor do dinheiro no tempo; Matemática financeira clássica; Critérios clássicos para análise de projetos industriais sob certeza; orçamentação. Parte II Análise de projetos sob-risco: Critérios de decisão sob incerteza e necessidade de quantificação do risco; Critério de maximização do valor esperado; Noções de equivalente certo e utilidade de um numerário; Critério de utilidade esperada; Valor da informação; Noções de métodos modernos de análise financeira e taxa de desconto corrigido para incerteza. Parte III: Noções de microeconomia Preços e demanda; função de produção; estruturas de mercado; prática de preços; visão geral de macroeconomia e funções reguladoras dos governos.
+4
+Projeto de Graduação em Eng. de Computação I	
+Desenvolvimento de um projeto de engenharia ou de um trabalho de pesquisa de caráter teórico ou experimental sob a supervisão e orientação de um professor. O projeto ou trabalho de pesquisa pode ser realizado individualmente ou em grupo, devendo ser apresentado por escrito dentro das normas estabelecidas pelo curso.
+2
+Microcontroladores e Sistemas Embarcados	
+Microcontroladores: características básicas; famílias e fabricantes; memória, entrada-saída, interrupção, assembly, ambientes de desenvolvimento. Sistemas embarcados: conceitos e aplicações; integração com sensores e transdutores; projeto.
+4
+Seminários	
+Conteúdo variável.
+1
+Projeto de Graduação em Eng. de Computação II	
+Desenvolvimento de um projeto de engenharia ou de um trabalho de pesquisa de caráter teórico ou experimental sob a supervisão e orientação de um professor. O projeto ou trabalho de pesquisa pode ser realizado individualmente ou em grupo, devendo ser apresentado por escrito dentro das normas estabelecidas pelo curso.
+2
+Estágio Supervisionado em Eng. de Computação	
+Estágio de no mínimo 160 horas em empresa preferencialmente de engenharia, ficando sua aceitação a critério da coordenação do curso.
+1

@@ -1,0 +1,96 @@
+Tratamento e Análise de Dados/ Informações
+Formas de aquisição de conhecimento. Ciência e conhecimento científico. A questão do método: indutivo e dedutivo. Tipos e formas de dados. Formas de coletas de dados.Formas de tratamento e análise de dados/informações. Estatística descritiva. Estruturação e leitura crítica de relatórios de pesquisa. Comunicação científica.
+2
+Resolução de Problemas I 
+Introdução à pesquisa científica. Fundamentos da Resolução de problemas. Análise dos problemas sociais, culturais e científicos relacionados à região leste da cidade de São Paulo. Desenvolvimento de ações coletivas e interdisciplinares de resolução de problemas.
+4
+Introdução à Programação
+Noções de organização de computadores, modelo de von Neumann, linguagens, interpretação e compilação, representação interna dos dados. Resolução de problemas e desenvolvimento de algoritmos, análise do problema, estratégias de solução, representação e documentação. Tipos de dados: escalares, arranjos, matrizes, cadeias de caracteres. Passagem de parâmetros. Linguagem de programação e transcrição de algoritmos. Paradigmas de linguagens de programação e introdução a uma linguagem de programação. Noções de orientação a objetos (classes, objetos, especificadores de acesso, construtores, interfaces, classes abstratas, herança e polimorfismo). Depuração e documentação de programas. Introdução a algoritmos de busca e ordenação. Manipulação de referências.
+4
+Cálculo I
+Propriedades de números reais. A reta real. Funções reais de uma variável real. Funções algébricas, trigonométricas, exponenciais e logarítmicas. Limites: definição, regras para cálculo de limites, Teorema do Confronto, limites infinitos e no infinito. Continuidade. Derivadas: definição, regras de derivação, derivadas de funções algébricas, trigonométricas, exponenciais e logarítmicas, regra da cadeia, derivadas de ordem superior. Aplicações da derivada: Máximos e Mínimos, Teorema do Valor Médio, Regra de L'Hôpital, polinômios de Taylor.
+4
+Fundamentos de Sistemas de Informação
+Conceitos básicos e organização de Sistemas de Informação (sistemas de informação na empresa, empresa digital, tipos de sistemas); Infra-estrutura de Tecnologia de Informação (hardware, software, SGBDs, redes, Internet); Gerência de Conhecimento (Sistemas de Apoio à Tomada de Decisão, técnicas de Inteligência Artificial, Mineração de Dados e Descoberta de Conhecimento em Banco de Dados); Aspectos de segurança, éticos e sociais; Gerenciamento de Sistemas de Informação.
+4
+Introdução à Análise de Algoritmos
+Técnicas de desenvolvimento de algoritmos baseadas em indução fraca e forte, tentativa e erro e técnicas gulosas. Elementos de análise assintótica de algoritmos (notação O, Omega e Theta) iterativos e recursivos. Desenvolvimento e análise da complexidade de diferentes algoritmos de ordenação (BubbleSort, InsertionSort, SelectionSort, QuickSort, MergeSort, HeapSort, CountingSort e RadixSort). Algoritmos de espalhamento (hashing) aberto e fechado, resolução de colisões.
+4
+Cálculo II
+Antiderivada. A integral definida. O Teorema Fundamental do Cálculo. Regra da substituição e Integração por partes. Integração Imprópria. Aplicações da integração. Sistemas de coordenadas tridimensionais. Produto escalar. Produto vetorial. Equações de retas e planos. Funções de várias variáveis. Limites e continuidade. Derivadas parciais. Plano tangente e aproximações lineares. Regra da cadeia. Derivadas direcionais e vetor gradiente. Máximos e mínimos.
+4
+Matemática Discreta
+Visão geral dos fundamentos de Matemática Discreta em Computação. Sentido lógico-matemático convencional dos conectivos. Argumentos. Lógica sentencial. Regras de formação de fórmulas. Sistemas dedutivos. Decidibilidade da lógica sentencial. Lógica de predicados de primeira ordem. Valores-verdade. Funções de avaliação. Conjuntos e funções. Provas. Indução matemática. Lógica e circuitos lógicos. Linguagem simbólica. Tabelas verdade. Equivalência lógica. Argumentos válidos. Funções booleanas e forma disjuntiva normal. Circuitos lógicos. Diagramas de Veitch Karnaugh. Relações sobre conjuntos: relações de equivalência e de ordem. Conjuntos parcialmente ordenados. Isomorfismos de ordem. Reticulados. Sistemas algébricos: semi-grupos, monóides e grupos.
+4
+Algoritmos e Estruturas de Dados I
+Listas lineares, listas ordenadas e circulares, representação de matrizes esparsas, pilhas, filas e deques. Listas duplamente encadeadas. Árvores, árvores binárias, árvores de busca, árvores balanceadas (AVL). Representação de árvores por árvores binárias. Aplicações das árvores.
+4
+Matrizes, Vetores e Geometria Analítica
+Sistemas equações lineares. Sistemas de equações lineares homogêneos. Operações matriciais. Inversão de matrizes. Determinantes. Equações de retas e planos no espaço. Combinação linear. Independência linear. Subespaço, base e dimensão. Bases ortogonais e ortonormais. Autovalores e autovetores. Diagonalização de matrizes. Aplicações.
+4
+Computação Orientada a Objetos
+Organização de classes em pacotes. Criação, lançamento e tratamento de exceções. Persistência de dados usando arquivos. Tipos genéricos. Classes de coleções e métodos de iteração. Padrões de desenho de software orientado a objetos. Refatoração.
+4
+Algoritmos e Estruturas de Dados II
+Algoritmos para classificação externa. Arquivos de organização sequencial e randômica. Consulta e atualização de arquivos. Técnicas de indexação, árvores-B e hashing externo. Estruturas de dados para representação de grafos e seus algoritmos.
+4
+Organização de Computadores Digitais
+Revisão de conceitos sobre blocos lógicos/básicos; subsistemas de memória, organização, síntese e análise; Arquitetura de processadores, elementos básicos, operação geral, macro instruções e microinstruções, unidade de controle, fundamentos, desenvolvimento e implementação. Técnicas para organização de E/S, uso de DMA. Barramentos, Conceitos gerais, estudos de casos. Arquitetura de microcomputadores, estudos de casos.
+4
+Introdução à Administração para Computação
+Administração Pública e Privada: Conceituação e diferenças, Fundamentos da Administração e o ambiente das organizações.Funções e Princípios da Administração: função da empresa, níveis hierárquicos.Planejamento da Empresa: definição, tipos/níveis de planejamento, tomada de decisão e implementação.
+2
+Introdução à Estatística
+Noções de probabilidade. Principais distribuições discretas e contínuas. Simulação. Teoria da Decisão. Testes de Hipóteses: clássico e bayesiano. Intervalos de confiança e de probabilidade. Regressão. Uso em laboratório de uma ferramenta de software.
+4
+Banco de Dados
+Sistemas de Gerência de Bancos de Dados (SGBDs); Conceitos básicos: independência de dados, modelos, abordagem relacional e relacional-orientada a objetos; abordagem relacional: modelo de dados e restrições de integridade, álgebra e cálculo relacional, SQL, normalização e dependências funcionais. Modelagem e projeto de Banco de Dados:modelagem entidade-relacionamento (projeto conceitual), Normalização como técnica de projeto, transformação do modelo conceitual para o relacional (projeto lógico). Aspectos de implementação dos SGBDs: integridade, segurança e privacidade.
+4
+Métodos Quantitativos Aplicados à Administração de Empresas I
+Análise de dados e modelagem multivariada para tomada de decisão. Tipos de variáveis e escalas de mensuração. Análise de regressão múltipla. Regressão Logística  Análise de componentes principais  Análise fatorial. Análise de agrupamentos Análise de correspondência. Análise discriminante  Escalonamento multidimensional  Análise de correlação canônica  Modelos de equações estruturais.
+4
+Introdução à Teoria da Computação
+Computabilidade: noção intuitiva, modelos computacionais, equivalência entre modelos e tese de Church, funções não-computáveis e o problema da parada. Enumerabilidade e decidibilidade: problemas não-decidíveis e semi-decidíveis. Linguagens formais e autômatos: sistemas de estados finitos, autômatos finitos, linguagens regulares, expressões regulares, gramáticas regulares, autômatos com pilha, linguagens livres de contexto e gramáticas livres de contexto, hierarquia de chomsky.
+4
+Sistemas Operacionais
+Histórico e evolução, tipos de sistemas operacionais, serviços do sistema operacional, estrutura de um sistema operacional, processos, comunicação entre processos, problemas clássicos, escalonamento. Princípios de entrada\saída, aspectos de hardware, aspectos de software, deadlocks. Gerenciamento de memória, princípios básicos, paginação, multiprogramação, memória virtual, algoritmos para troca de páginas, cache. Sistema de arquivos, visão do usuário, aspectos de confiabilidade, segurança e desempenho: servidores de arquivos. Vulnerabilidades.
+4
+Arquitetura de Computadores
+Arquitetura de von Neuman. Técnicas de Pipeline. Introdução às Arquiteturas RISC e CISC. Processadores Superescalares. Processadores vetoriais. Arquiteturas paralelas. Análise de Arquiteturas Comerciais.
+2
+Análise, Projeto e Interface Humano-Computador
+Visão geral dos métodos para análise e projeto orientados a objetos, em particular o Processo Unificado. Como modelar com objetos usando a notação UML. Requisitos do sistema: modelo de casos de uso. O modelo estático: diagrama de tipos e de classes; o modelo comportamental: tipos de objetos e operações, contratos, diagramas de estado; o modelo de interação: diagramas de comunicação, diagramas de sequência, diagramas de implementação. Padrões para atribuição de responsabilidades e padrões de projeto. Ferramentas de apoio. Interação Humano-Computador e Fatores Humanos. Estilos de Interação. Análise e Projeto da Interação Humano-Computador. Técnicas para a Representação da Interação. Projeto Gráfico. Ergonomia na Interação. Prototipação. Avaliação da usabilidade. Análise e projeto de um sistema de informação típico.
+4
+Inteligência Artificial
+Conceitos básicos da Linguagem Lógica PROLOG. Técnicas básicas de IA, tais como busca, planejamento e representação do conhecimento. Técnicas avançadas de algumas sub-áreas de Inteligência Artificial (IA), por exemplo: Processamento de Língua Natural (PLN), Sistemas Baseados em Conhecimento e Sistemas Especialistas; Aprendizado de Máquina, Data Mining e Text Mining, necessárias para um agente agir de forma inteligente no mundo real. Exploração de problemas e soluções da área de IA na WEB, construção de pequenos sistemas de IA, utilização de sistemas de IA já construídos, e integração de Prolog com outras linguagens.
+4
+Laboratório de Bancos de Dados
+A disciplina de Laboratório de Banco de Dados está planejada para apresentar aos alunos conceitos relacionados a desenvolvimento de aplicações práticas utilizando sistemas de gerenciamento de bancos de dados relacionais e ferramentas de desenvolvimento. O aluno também vai obter os conhecimentos básicos sobre a estrutura de um Sistema Gesrenciador de Bancos de Dados, necessários para o desenvolvimento de aplicações eficientes. Além disso, a disciplina também prevê a consolidação da teoria desenvolvida no primeiro curso de bancos de dados.
+4
+Economia para Computação
+Microeconomia: Princípios básicos da microeconomia; Teoria do Consumidor e da Demanda; Teoria da Firma e da Produção; Estruturas de mercado; Teoria dos Custos e da Formação de Preços; Concorrência, competitividade e globalização: impacto sobre as empresas instaladas no Brasil. Macroeconomia: Princípios básicos da macroeconomia; A economia vista como um sistema; a Contabilidade Nacional; Demanda e Oferta agregadas e suas implicações analíticas; O modelo IS/LM e suas implicações sobre as políticas macroeconômicas; A realidade da economia brasileira e seu papel na dinâmica internacional.
+4
+Resolução de Problemas II 
+Metodologias de pesquisa científica. Fundamentos da resolução de problemas. Fundamentos da resolução de conflitos. Análise dos problemas interpessoais, sociais, culturais e científicos relacionados à vida cotidiana das pessoas, à região metropolitana de São Paulo e à realidade brasileira. Desenvolvimento de ações coletivas e interdisciplinares de resolução de problemas e de resolução de conflitos.
+4
+Engenharia de Sistemas de Informação I
+Produto e Processo de Software. Ciclo de Vida de Software. Gerenciamento de Configuração. Engenharia de Requisitos. Arquitetura de Software. Garantia de Qualidade de Software. Verificação, Validação & Teste de Software. Manutenção de software.
+4
+Redes de Computadores
+Introdução: Utilidade, estrutura e arquitetura de redes; O modelo de referência OSI; Serviços em redes. A Camada Física: Meios de transmissão analógica e digital; chaveamento. A Subcamada de Acesso ao Meio: Protocolos de redes locais; Redes de Fibra Óptica. A camada de Enlace de Dados: Correção e Detecção de erros; protocolos de janelas deslizantes. Interconexão de Redes: repetidores, pontes e roteadores. Projeto, instalação e configuração de redes locais. Introdução aos protocolos TCP/IP.
+4
+Prática e Gerenciamento de Projetos
+Definição de processo de negócio, gerenciamento de projeto e modelos de referência. O processo de desenvolvimento de sistemas e o ciclo de vida de sistemas de informação. Conceitos e ferramentas para gerenciamento de projeto de sistemas: planejamento e programação, times de desenvolvimento, análise de custo e eficiência, técnicas para determinação de requisitos, técnicas de comunicação e apresentação e gerenciamento das mudanças e configuração de sistemas.
+4
+Projeto Supervisionado ou de Graduação I
+Para os alunos que optarem por um estágio em uma empresa, realização de projeto em firma conveniada ou aprovada pela direção do curso, sob supervisão do professor responsável pela disciplina e engajado em algum projeto na empresa, sob a responsabilidade de um supervisor na empresa. Ao final deve se preparar uma monografia pormenorizada do projeto. Para aqueles que optarem por um projeto de graduação, elaboração de um projeto em Sistemas de Informação ou ciências de computação, sob a orientação de docente especialista. O Projeto deve compreender as fases de especificação e implementação e, quando for o caso, levantamento bibliográfico deve ser feito. Ao final deve ser escrita uma monografia pormenorizada do projeto.
+4
+Desenvolvimento de Sistemas de Informação Distribuídos 
+Sistemas de Informação Distribuídos: middleware, EAI. Computação Orientada a Serviços: SOA, tecnologias. Engenharia Web: tecnologias, frameworks, metodologias, linguagens.
+4
+Empreendedorismo em Informática
+Conheça a carreira empreendedora; Explore o perfil empreendedor; Conheça a história de empreendedores brasileiros; Como criar negócios de alto crescimento; Ferramentas e metodologias para auxiliar empreendedores; Business Model Generation (Canvas); Processo Lean Start up (Descoberta de clientes e validação de clientes); Desenvolvimento de protótipo mínimo viável; Planejar produto/serviço; e, Palestras com empreendedores.
+4
+Projeto Supervisionado ou de Graduação II
+Para os alunos que optarem por um estágio em uma empresa, realização de projeto em firma conveniada ou aprovada pela direção do curso, sob supervisão do professor responsável pela disciplina e engajado em algum projeto na empresa, sob a responsabilidade de um supervisor na empresa. Ao final deve se preparar uma monografia pormenorizada do projeto. Para aqueles que optarem por um projeto de graduação, elaboração de um projeto em Sistemas de Informação ou ciências de computação, sob a orientação de docente especialista. O Projeto deve compreender as fases de especificação e implementação e, quando for o caso, levantamento bibliográfico deve ser feito. Ao final deve ser escrita uma monografia pormenorizada do projeto.
+4
