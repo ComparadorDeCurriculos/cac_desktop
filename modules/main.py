@@ -50,6 +50,11 @@ if __name__ == '__main__':
 				if (not os.path.isfile(path)):
 					continue
 
+				print(i1+'_'+c1+'.txt')
+				print(i2+'_'+c2+'.txt')
+				print('================')
+				
+
 				course1 = Course(c1, i1, folderIn+i1+'_'+c1+'.txt', sbc)
 				course2 = Course(c2, i2, folderIn+i2+'_'+c2+'.txt', sbc)
 

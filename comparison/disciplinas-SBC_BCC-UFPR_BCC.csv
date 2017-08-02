@@ -1,19 +1,19 @@
 Lógica Matemática,Álgebra Linear,Cálculo Diferencial e Integral II
-Física,Análise Combinatória,Projetos Digitais e Microprocessadores
-Administração,Cálculo Diferencial e Integral,Algoritmos e Estruturas de Dados III
-Computadores e Sociedade,Equações Diferenciais,Introdução a Teoria Geral da Administração
-Comunicação e Expressão,Geometria Analítica,Introdução a Álbebra
-Contabilidade e Custos,Matemática Discreta,Metodologia Científica
-Direito e Legislação,Probabilidade e Estatística,Técnicas Alternativas de Programação
-Economia,Análise de Algoritmos,Estatística II
-Empreendedorismo,Algoritmos e Estruturas de Dados,Inteligência Artificial
-Estágio,Arquitetura e Organização de Computadores,Sistemas de Bancos de Dados
-Filosofia,Circuitos Digitais, 
-Informática na Educação,Fundamentos de Sistemas, 
-Inglês,Linguagens de Programação, 
-Métodos Quantitativos Aplicados à Administração de Empresas,Organização de Arquivos e Dados, 
-Sociologia,Sistemas Operacionais, 
-Psicologia,Teoria dos Grafos, 
+Administração,Análise Combinatória,Introdução a Álbebra
+Computadores e Sociedade,Cálculo Diferencial e Integral,Metodologia Científica
+Comunicação e Expressão,Equações Diferenciais,Projetos Digitais e Microprocessadores
+Contabilidade e Custos,Geometria Analítica,Algoritmos e Estruturas de Dados III
+Direito e Legislação,Matemática Discreta,Introdução a Teoria Geral da Administração
+Economia,Probabilidade e Estatística,Técnicas Alternativas de Programação
+Empreendedorismo,Análise de Algoritmos,Estatística II
+Estágio,Algoritmos e Estruturas de Dados,Inteligência Artificial
+Filosofia,Arquitetura e Organização de Computadores,Sistemas de Bancos de Dados
+Informática na Educação,Circuitos Digitais, 
+Inglês,Fundamentos de Sistemas, 
+Métodos Quantitativos Aplicados à Administração de Empresas,Linguagens de Programação, 
+Sociologia,Organização de Arquivos e Dados, 
+Psicologia,Sistemas Operacionais, 
+Circuitos Eletrônicos,Teoria dos Grafos, 
 Análise de Desempenho,Bancos de Dados, 
 Circuitos Integrados,Compiladores, 
 Matemática Computacional,Computação Gráfica, 
@@ -22,7 +22,7 @@ Processamento de Imagens,Engenharia de Software,
 Segurança e Auditoria de Sistemas,Inteligência Artificial, 
 Sistemas Multimídia,Interação Humano-Computador, 
 Telecomunicações,Modelagem e Simulação, 
-Circuitos Eletrônicos,Processamento Digital de Sinais, 
+Física,Processamento Digital de Sinais, 
  ,Programação Paralela, 
  ,Redes de Computadores, 
  ,Sistemas Digitais, 

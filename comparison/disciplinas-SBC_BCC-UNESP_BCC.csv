@@ -1,19 +1,19 @@
 Análise Combinatória,Álgebra Linear,Cálculo I
 Matemática Discreta,Cálculo Diferencial e Integral,Cálculo II
-Análise de Algoritmos,Equações Diferenciais,Sistemas Operacionais I
-Teoria dos Grafos,Geometria Analítica,Projeto de Redes de Computadores
-Administração,Lógica Matemática,Projeto e Implementação de Sistemas II
-Computadores e Sociedade,Probabilidade e Estatística,Algoritmos I
-Comunicação e Expressão,Física,Metodologia da Pesquisa Científica
-Contabilidade e Custos,Algoritmos e Estruturas de Dados,Linguagem de Montagem
-Economia,Arquitetura e Organização de Computadores,Laboratório de Circuitos Digitais
-Estágio,Circuitos Digitais,Projeto e Implementação de Sistemas I 12
-Filosofia,Fundamentos de Sistemas,Pesquisa Operacional II
-Informática na Educação,Linguagens de Programação,Banco de Dados I
-Inglês,Organização de Arquivos e Dados,Engenharia de Software I
-Métodos Quantitativos Aplicados à Administração de Empresas,Sistemas Operacionais, 
-Sociologia,Direito e Legislação, 
-Psicologia,Empreendedorismo, 
+Administração,Equações Diferenciais,Projeto e Implementação de Sistemas I 12
+Computadores e Sociedade,Geometria Analítica,Algoritmos I
+Comunicação e Expressão,Lógica Matemática,Metodologia da Pesquisa Científica
+Contabilidade e Custos,Probabilidade e Estatística,Linguagem de Montagem
+Economia,Direito e Legislação,Laboratório de Circuitos Digitais
+Estágio,Empreendedorismo,Pesquisa Operacional II
+Filosofia,Circuitos Eletrônicos,Banco de Dados I
+Informática na Educação,Algoritmos e Estruturas de Dados,Engenharia de Software I
+Inglês,Arquitetura e Organização de Computadores,Projeto e Implementação de Sistemas II
+Métodos Quantitativos Aplicados à Administração de Empresas,Circuitos Digitais,Sistemas Operacionais I
+Sociologia,Fundamentos de Sistemas,Projeto de Redes de Computadores
+Psicologia,Linguagens de Programação, 
+Análise de Algoritmos,Organização de Arquivos e Dados, 
+Teoria dos Grafos,Sistemas Operacionais, 
 Análise de Desempenho,Bancos de Dados, 
 Circuitos Integrados,Compiladores, 
 Interação Humano-Computador,Computação Gráfica, 
@@ -29,4 +29,4 @@ Telecomunicações,Modelagem e Simulação,
  ,Sistemas Distribuídos, 
  ,Sistemas Embarcados, 
  ,Tolerância a Falhas, 
- ,Circuitos Eletrônicos, 
+ ,Física, 

@@ -1,20 +1,20 @@
 Probabilidade e Estatística,Álgebra Linear,Algebra 1
-Física,Análise Combinatória,Probabilidade e Estatística
-Circuitos Digitais,Cálculo Diferencial e Integral,SOFTWARE BASICO
-Administração,Equações Diferenciais,LINGUAGENS DE PROGRAMACAO
-Computadores e Sociedade,Geometria Analítica,Organização de Arquivos
-Comunicação e Expressão,Lógica Matemática,Computação Experimental
-Contabilidade e Custos,Matemática Discreta,INFORMATICA E SOCIEDADE
-Direito e Legislação,Análise de Algoritmos,Trabalho de Graduação 1
-Economia,Algoritmos e Estruturas de Dados,Trabalho de Graduação 2
-Empreendedorismo,Arquitetura e Organização de Computadores,Algoritmos e Programação de Computadores
-Estágio,Fundamentos de Sistemas,CALCULO NUMERICO
-Filosofia,Linguagens de Programação,CIRCUITOS DIGITAIS
-Informática na Educação,Organização de Arquivos e Dados,INTRODUCAO A INTELIGENCIA ARTIFICIAL
-Inglês,Sistemas Operacionais,Metodologia Científica
-Métodos Quantitativos Aplicados à Administração de Empresas,Teoria dos Grafos,Segurança Computacional
-Sociologia,Bancos de Dados,Tecnicas de Programação 1
-Psicologia,Compiladores,Tecnicas de Programação 2
+Administração,Análise Combinatória,Probabilidade e Estatística
+Computadores e Sociedade,Cálculo Diferencial e Integral,SOFTWARE BASICO
+Comunicação e Expressão,Equações Diferenciais,Computação Experimental
+Contabilidade e Custos,Geometria Analítica,INFORMATICA E SOCIEDADE
+Direito e Legislação,Lógica Matemática,Trabalho de Graduação 1
+Economia,Matemática Discreta,Trabalho de Graduação 2
+Empreendedorismo,Análise de Algoritmos,LINGUAGENS DE PROGRAMACAO
+Estágio,Algoritmos e Estruturas de Dados,Organização de Arquivos
+Filosofia,Arquitetura e Organização de Computadores,Algoritmos e Programação de Computadores
+Informática na Educação,Fundamentos de Sistemas,CALCULO NUMERICO
+Inglês,Linguagens de Programação,CIRCUITOS DIGITAIS
+Métodos Quantitativos Aplicados à Administração de Empresas,Organização de Arquivos e Dados,INTRODUCAO A INTELIGENCIA ARTIFICIAL
+Sociologia,Sistemas Operacionais,Metodologia Científica
+Psicologia,Teoria dos Grafos,Segurança Computacional
+Circuitos Eletrônicos,Bancos de Dados,Tecnicas de Programação 1
+Circuitos Digitais,Compiladores,Tecnicas de Programação 2
 Análise de Desempenho,Engenharia de Software, 
 Circuitos Integrados,Inteligência Artificial, 
 Computação Gráfica,Matemática Computacional, 
@@ -28,4 +28,4 @@ Segurança e Auditoria de Sistemas, ,
 Sistemas Multimídia, , 
 Tolerância a Falhas, , 
 Telecomunicações, , 
-Circuitos Eletrônicos, , 
+Física, , 

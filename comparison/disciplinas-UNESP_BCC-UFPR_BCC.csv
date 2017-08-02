@@ -1,21 +1,20 @@
-Laboratório de Mecânica Aplicada,Cálculo I,Cálculo Diferencial e Integral II
-Sistemas Operacionais I,Geometria Analítica,Matemática Discreta
-Projeto e Implementação de Sistemas II,Lógica Computacional,Organização e Arquitetura de Computadores
-Linguagem de Montagem,Probabilidade e Estatística,Algoritmos e Estruturas de Dados III
-Laboratório de Circuitos Digitais,Cálculo II,Software Básico
-|Direito, Legislação e Ética|,Álgebra Linear,Algoritmos e Teoria dos Grafos
-Projeto e Implementação de Sistemas I 12,Cálculo IV,Introdução à Teoria da Computação
-Empreendedorismo,Projeto de Redes de Computadores,Introdução a Teoria Geral da Administração
-Computação Gráfica,Algoritmos I,Análise de Algoritmos
-Inteligência Artificial,Metodologia da Pesquisa Científica,Teoria de Sistemas
-Banco de Dados II,Algoritmos II,Introdução a Álbebra
-Segurança em Sistemas de Informação,Teoria da Computação e Linguagens Formais,Sistemas Operacionais
-Dispositivos e Circuitos Eletrônicos,Administração de Sistemas de Informação,Introdução à Computação Científica
- ,Sistemas Operacionais II,Engenharia de Requisitos
- ,Fundamentos de Computação,Inteligência Artificial
- ,Circuitos Digitais,Sistemas de Bancos de Dados
- ,Pesquisa Operacional I,Construção de Compiladores
- ,Estruturas de Dados II, 
+|Direito, Legislação e Ética|,Cálculo I,Cálculo Diferencial e Integral II
+Projeto e Implementação de Sistemas I 12,Geometria Analítica,Matemática Discreta
+Empreendedorismo,Lógica Computacional,Introdução a Álbebra
+Dispositivos e Circuitos Eletrônicos,Probabilidade e Estatística,Organização e Arquitetura de Computadores
+Linguagem de Montagem,Cálculo II,Algoritmos e Estruturas de Dados III
+Laboratório de Circuitos Digitais,Álgebra Linear,Software Básico
+Computação Gráfica,Cálculo IV,Algoritmos e Teoria dos Grafos
+Inteligência Artificial,Algoritmos I,Introdução à Teoria da Computação
+Banco de Dados II,Metodologia da Pesquisa Científica,Introdução a Teoria Geral da Administração
+Segurança em Sistemas de Informação,Algoritmos II,Análise de Algoritmos
+Projeto e Implementação de Sistemas II,Teoria da Computação e Linguagens Formais,Teoria de Sistemas
+Laboratório de Mecânica Aplicada,Administração de Sistemas de Informação,Sistemas Operacionais
+Sistemas Operacionais I,Sistemas Operacionais II,Introdução à Computação Científica
+ ,Fundamentos de Computação,Engenharia de Requisitos
+ ,Circuitos Digitais,Inteligência Artificial
+ ,Pesquisa Operacional I,Sistemas de Bancos de Dados
+ ,Estruturas de Dados II,Construção de Compiladores
  ,Pesquisa Operacional II, 
  ,Compiladores, 
  ,Banco de Dados I, 
@@ -23,3 +22,4 @@ Dispositivos e Circuitos Eletrônicos,Administração de Sistemas de Informaçã
  ,Microcontroladores, 
  ,Engenharia de Software II, 
  ,Redes de Computadores, 
+ ,Projeto de Redes de Computadores, 

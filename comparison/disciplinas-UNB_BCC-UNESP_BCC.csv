@@ -1,23 +1,23 @@
 Algebra 1,Cálculo 1,Geometria Analítica
 Fundamentos Teóricos da Computação,Cálculo 2,Cálculo II
 Lógica Computacional 1,INTRODUCAO A ALGEBRA LINEAR,Cálculo IV
-SOFTWARE BASICO,Probabilidade e Estatística,Laboratório de Mecânica Aplicada
-Autômatos e Computabilidade,ESTRUTURAS DE DADOS,Projeto e Implementação de Sistemas II
-Organização de Arquivos,Fundamentos de Sistemas Operacionais,Algoritmos II
-INFORMATICA E SOCIEDADE,Introdução aos Sistemas Computacionais,Linguagem de Montagem
-Trabalho de Graduação 1,LINGUAGENS DE PROGRAMACAO,Teoria da Computação e Linguagens Formais
-Trabalho de Graduação 2,ORGANIZACAO E ARQUITETURA DE COMPUTADORES,Sistemas Operacionais II
-BANCOS DE DADOS,Projeto e Análise de Algoritmos,|Direito, Legislação e Ética|
- ,SISTEMAS DE INFORMACAO,Projeto e Implementação de Sistemas I 12
- ,Teoria e Aplicação de Grafos,Empreendedorismo
- ,Computação Experimental,Circuitos Digitais
- ,Algoritmos e Programação de Computadores,Pesquisa Operacional II
- ,CALCULO NUMERICO,Banco de Dados I
- ,CIRCUITOS DIGITAIS,Computação Gráfica
- ,Compiladores,Banco de Dados II
- ,ENGENHARIA DE SOFTWARE,Engenharia de Software II
- ,INTRODUCAO A INTELIGENCIA ARTIFICIAL,Segurança em Sistemas de Informação
- ,INTRODUCAO A INTELIGENCIA ARTIFICIAL,Dispositivos e Circuitos Eletrônicos
+SOFTWARE BASICO,Probabilidade e Estatística,|Direito, Legislação e Ética|
+INFORMATICA E SOCIEDADE,Computação Experimental,Projeto e Implementação de Sistemas I 12
+Trabalho de Graduação 1,ESTRUTURAS DE DADOS,Empreendedorismo
+Trabalho de Graduação 2,Fundamentos de Sistemas Operacionais,Dispositivos e Circuitos Eletrônicos
+Autômatos e Computabilidade,Introdução aos Sistemas Computacionais,Algoritmos II
+Organização de Arquivos,LINGUAGENS DE PROGRAMACAO,Linguagem de Montagem
+BANCOS DE DADOS,ORGANIZACAO E ARQUITETURA DE COMPUTADORES,Teoria da Computação e Linguagens Formais
+ ,Projeto e Análise de Algoritmos,Sistemas Operacionais II
+ ,SISTEMAS DE INFORMACAO,Circuitos Digitais
+ ,Teoria e Aplicação de Grafos,Pesquisa Operacional II
+ ,Algoritmos e Programação de Computadores,Banco de Dados I
+ ,CALCULO NUMERICO,Computação Gráfica
+ ,CIRCUITOS DIGITAIS,Banco de Dados II
+ ,Compiladores,Engenharia de Software II
+ ,ENGENHARIA DE SOFTWARE,Segurança em Sistemas de Informação
+ ,INTRODUCAO A INTELIGENCIA ARTIFICIAL,Projeto e Implementação de Sistemas II
+ ,INTRODUCAO A INTELIGENCIA ARTIFICIAL,Laboratório de Mecânica Aplicada
  ,Metodologia Científica, 
  ,Programação Concorrente, 
  ,Redes de Computadores, 

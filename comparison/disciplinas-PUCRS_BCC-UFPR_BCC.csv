@@ -1,16 +1,18 @@
-Fundamentos do Raciocínio Lógico,Cálculo A (CC),Geometria Analítica I
-Organização e Arquitetura de Computadores II,Matemática Discreta (CC),Cálculo Diferencial e Integral II
-Humanismo e Cultura Religiosa,Cálculo B (CC),Circuitos Lógicos
-Empreendimentos Empresariais,Lógica para Computação,Projetos Digitais e Microprocessadores
-Fundamentos de Bancos de Dados,Álgebra Linear e Geometria Analítica,Algoritmos e Estruturas de Dados III
-Fundamentos de Inteligência Artificial,Probabilidade e Estatística para Computação,Software Básico
-Laboratório de Sistemas Operacionais,Fundamentos de Programação,Algoritmos e Teoria dos Grafos
-Implementação de Sistemas de Bancos de Dados,Introdução à Ciência da Computação,Introdução a Teoria Geral da Administração
-Disciplina Integradora IV - Trabalho de Conclusão,Matemática Concreta,Introdução a Álbebra
- ,Algoritmos e Estrutura de Dados I,Sistemas Operacionais
- ,Programação Orientada a Objetos,Estatística II
- ,Algoritmos e Estrutura de Dados II,Redes de Computadores I
- ,Linguagens Formais e Autômatos,Sistemas de Bancos de Dados
+Humanismo e Cultura Religiosa,Cálculo A (CC),Geometria Analítica I
+Empreendimentos Empresariais,Matemática Discreta (CC),Cálculo Diferencial e Integral II
+Fundamentos do Raciocínio Lógico,Cálculo B (CC),Introdução a Álbebra
+Organização e Arquitetura de Computadores II,Lógica para Computação,Circuitos Lógicos
+Fundamentos de Bancos de Dados,Álgebra Linear e Geometria Analítica,Projetos Digitais e Microprocessadores
+Fundamentos de Inteligência Artificial,Probabilidade e Estatística para Computação,Algoritmos e Estruturas de Dados III
+Laboratório de Sistemas Operacionais,Metodologia Científica e Escrita para Computação,Software Básico
+Implementação de Sistemas de Bancos de Dados,Ética e Filosofia da Ciência,Algoritmos e Teoria dos Grafos
+Disciplina Integradora IV - Trabalho de Conclusão,Fundamentos de Programação,Introdução a Teoria Geral da Administração
+ ,Introdução à Ciência da Computação,Sistemas Operacionais
+ ,Matemática Concreta,Estatística II
+ ,Algoritmos e Estrutura de Dados I,Redes de Computadores I
+ ,Programação Orientada a Objetos,Sistemas de Bancos de Dados
+ ,Algoritmos e Estrutura de Dados II, 
+ ,Linguagens Formais e Autômatos, 
  ,Organização e Arquitetura de Computadores I, 
  ,Programação Funcional, 
  ,Teoria da Computabilidade e Complexidade, 
@@ -19,8 +21,6 @@ Disciplina Integradora IV - Trabalho de Conclusão,Matemática Concreta,Introdu�
  ,Projeto e Otimização de Algoritmos, 
  ,Métodos Formais para Computação, 
  ,Engenharia de Software Orientada a Modelos, 
- ,Metodologia Científica e Escrita para Computação, 
- ,Ética e Filosofia da Ciência, 
  ,Programação de Baixo Nível, 
  ,Técnicas de Programação, 
  ,Engenharia de Software, 

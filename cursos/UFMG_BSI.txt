@@ -1,0 +1,84 @@
+Cálculo Diferencial e Integral I
+Integrais impróprias: sequências séries numéricas. Funções de R em R. Derivadas. Integrais. Aplicações."Regras de L'Hospital"
+6
+Geometria Analítica e Álgebra Linear
+Álgebra vetorial. Retas e planos. Matrizes, sistemas lineares e determinantes. Espaço vetorial Rn. Autovalores e autovetores de matrizes. Diagonalização de matrizes simétricas.
+4
+Algoritmos e Estrutura de Dados I
+Desenvolvimento de computadores e de linguagens de computação. Fases do desenvolvimento de programas. Desenvolvimento de programas em uma linguagem de alto nível: dados, comandos, ferramentas de modularização, metodologias de desenvolvimento.
+4
+Fundamentos de Sistemas de Informação
+Conceitos de sistemas. Componentes de sistemas e suas relações. Custo/benefício e qualidade da informação. Vantagem competitiva da informação. Especificação do projeto e reengenharia de sistemas de informação. Características dos profissionais de sistemas de informação e carreiras em sistemas de informação. Segurança da informação ótica. 
+2
+Administração TGA
+Estudo crítico das principais correntes da teoria da Teoria geral da Administração: principais correntes, idéias centrais e principais críticas.
+4
+Matemática Discreta
+Análise combinatória. Teoria dos Grafos.
+4
+Algoritmos e Estrutura de Dados II
+Programação estruturada e linguagem de programação modular. Introdução às técnicas de análise de algoritmos. Estruturas de dados estáticas e dinâmicas na memória principal.
+4
+Cálculo de Várias Variáveis
+Série e fórmula de Taylor. Funções de várias variáveis Integração de 2 ou mais variáveis.
+4
+Economia A I
+Economia: conceitos básicos. Caracterização do problema econômico. Ciências Econômicas em relação às demais ciências sociais. Linhas de formação da economia capitalista. Noções de contabilidade nacional e balanço de pagamentos. Teoria keynesiana. Noções sobre economia brasileira.
+4
+Álgebra A
+Teoria dos números. Criptografia básica.
+4
+Algoritmos e Estrutura de Dados III
+Memória secundária: conceitos básicos relacionados ao uso de dispositivos. Ordenação em memória secundária. Estruturas de dados em memória secundária. Processamento de caracteres. Codificação: criptografia e compressão de arquivos. Complexidade e problemas NP­completo.
+4
+Estatística Geral
+Comparação de dois tratamentos: testes paramétricos e não paramétricos. Tabelas de contingência. Regressão linear simples: estimação dos parâmetros e validação do modelo. Correlação. Análise de variância a um e dois fatores.
+4
+Usuários da Informação
+Usuário e não­usuário da informação. Fatores sócio­econômico que interferem no uso da informação. A relação usuários/serviços de informação: a instituição do ponto de vista do usuário. Estudos de uso e de usuários como áreas de pesquisa e como base para o desenvolvimento de serviços. Interface usuário/tecnologia.
+4
+Introdução a Banco de Dados
+Memória auxiliar; organização física e lógica. Métodos de acesso. Estruturas de arquivos. Manipulação de bancos de dados. Linguagens e pacotes. Recuperação de informação.
+4
+Organização de Computadores I
+Introdução à microeletrônica. Circuitos combinatórios e seqüenciais. Memórias. Entrada e saída. Introdução aos microprocessadores.
+4
+Organização e Tratamento da Informação
+Introdução à organização e tratamento da informação. Introdução aos sistemas de recuperação da informação. Tratamento descritivo da informação. Tratamento temático da informação. Fontes de informação gerais e especializadas. Serviços e produtos de disseminação da informação. Processo histórico da produção dos registros dos conhecimentos. Fundamentos da arquivística.
+4
+Administração De Recusos Humanos
+Conceitos. Objetivos e papel. Evolução. Principais problemas e tendências. Planejamento de recursos humanos. Funções básicas: análise e descrição de cargos; recrutamento e seleção; treinamento e desenvolvimento; cargos; salários e benefícios; avaliação de desempenho; planejamento de carreira. Tendências. Administração Mercadológica Marketing: natureza, escopo e papel em organizações lucrativas e não lucrativas. Desempenho empresarial: influência do ambiente econômico; social; legal; tecnológico e competitivo. Composto mercadológico, análise e quantificação de mercado e comportamento do consumidor.
+4
+Administração da Produção
+Função operacional nas empresas. Área de produção: projeto de produto; previsão de vendas; medida do trabalho; estoques; controle de qualidade. Técnicas de tomada de decisão segundo o enfoque quantitativo. Administração da produção: papel dos aspectos sociais, éticos e ambientais.
+4
+Introdução à Contabilidade
+Balanço patrimonial. Equação fundamental do patrimônio. Noções de débito e de crédito. Teoria geral das contas. Lançamentos em contabilidade e sistemas de escrituração. Balancete de verificação. Apuração de resultados. Demonstrações contábeis.
+4
+Engenharia de Software
+Prova de correção de programas. Especificação e projeto de sistemas de software. Teste e depuração de software. Projeto e implementação de um sistema de porte médio.
+4
+Fundamentos da Teoria da Computação
+Estudo dos fundamentos matemáticos da computabilidade. Funções recursivas. Enumerabilidade e decibilidade. Sistemas de produção de Post. Modelos abstratos de máquinas programáveis.
+4
+Sistemas Operacionais
+Conceitos, estruturas e mecanismos usados no projeto e construção de sistemas operacionais. 
+4
+Administração de Custos
+Custos e sistemas contábeis: conceitos básicos. Emprego na tomada de decisão referente a valor e risco.
+4
+Linguagens de Programação
+Linguagens de programação procedimentais e aplicativas. Estudo detalhado de linguagens importantes. Critérios e técnicas na especificação e projeto de linguagens.
+4
+Administração Financeira
+Administração financeira: objetivos, funções e técnicas de análise. Inter­relações com áreas básicas da administração.
+4
+Redes de Computadores
+Conceitos de sistemas distribuídos, redes de computador, protocolos e serviços de comunicação. Arquitetura de redes de computador. Camadas inferiores do modelo de referência de ISO: física, enlace e redes. Redes locais, interligação de redes; especificação de protocolos.
+4
+Monografia em Sistemas de Informação I
+Projeto. Implementação. Testes e depuração. Implantação. Definição do Problema. Estudo de viabilidade. Proposta de solução. Especificação da solução. Sob orientação de um professor.
+6
+Computadores e Sociedade
+Computadores: campos de aplicação. Aspectos sociais e econômicos de sua utilização. Aspectos estratégicos do controle de tecnologia.
+4

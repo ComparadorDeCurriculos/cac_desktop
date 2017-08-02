@@ -1,23 +1,23 @@
 Álgebra Linear,Análise Combinatória,ESTATIST PROBABILIDADE COMPUTACAO
 Equações Diferenciais,Cálculo Diferencial e Integral,LOGICA PARA COMPUTACAO
-Geometria Analítica,Matemática Discreta,ALGORITMOS E ESTRUTURAS DE DADOS
-Lógica Matemática,Análise de Algoritmos,FISICA PARA COMPUTACAO
-Probabilidade e Estatística,Algoritmos e Estruturas de Dados,PARADIGMAS LING.COMPUTACIONAIS
-Física,Arquitetura e Organização de Computadores,HISTORIA E FUTURO DA COMPUTACAO
-Linguagens de Programação,Circuitos Digitais,METODOL EXPRESSAO TEC-CIENTIFICA
-Teoria dos Grafos,Fundamentos de Sistemas,INTRODUCAO A COMPUTACAO
-Administração,Organização de Arquivos e Dados,INTERFACES USUARIO-MAQUINA
-Comunicação e Expressão,Sistemas Operacionais,INTRODUÇÃO A MULTIMIDIA
-Contabilidade e Custos,Computadores e Sociedade,PROJETO DE DESENVOLVIMENTO
-Direito e Legislação,Inglês,TEO.IMPLEMEN.LING. COMPUTACIONAIS
-Economia,Bancos de Dados,ALGEBRA VET LINEAR P/COMPUTACAO
-Empreendedorismo,Engenharia de Software, 
-Estágio,Inteligência Artificial, 
-Filosofia,Interação Humano-Computador, 
-Informática na Educação,Modelagem e Simulação, 
-Métodos Quantitativos Aplicados à Administração de Empresas,Processamento de Imagens, 
-Sociologia,Programação Paralela, 
-Psicologia,Redes de Computadores, 
+Geometria Analítica,Matemática Discreta,HISTORIA E FUTURO DA COMPUTACAO
+Lógica Matemática,Computadores e Sociedade,METODOL EXPRESSAO TEC-CIENTIFICA
+Probabilidade e Estatística,Inglês,ALGEBRA VET LINEAR P/COMPUTACAO
+Administração,Análise de Algoritmos,ALGORITMOS E ESTRUTURAS DE DADOS
+Comunicação e Expressão,Algoritmos e Estruturas de Dados,FISICA PARA COMPUTACAO
+Contabilidade e Custos,Arquitetura e Organização de Computadores,PARADIGMAS LING.COMPUTACIONAIS
+Direito e Legislação,Circuitos Digitais,INTRODUCAO A COMPUTACAO
+Economia,Fundamentos de Sistemas,INTERFACES USUARIO-MAQUINA
+Empreendedorismo,Organização de Arquivos e Dados,INTRODUÇÃO A MULTIMIDIA
+Estágio,Sistemas Operacionais,PROJETO DE DESENVOLVIMENTO
+Filosofia,Bancos de Dados,TEO.IMPLEMEN.LING. COMPUTACIONAIS
+Informática na Educação,Engenharia de Software, 
+Métodos Quantitativos Aplicados à Administração de Empresas,Inteligência Artificial, 
+Sociologia,Interação Humano-Computador, 
+Psicologia,Modelagem e Simulação, 
+Circuitos Eletrônicos,Processamento de Imagens, 
+Linguagens de Programação,Programação Paralela, 
+Teoria dos Grafos,Redes de Computadores, 
 Análise de Desempenho,Sistemas Digitais, 
 Circuitos Integrados,Sistemas Distribuídos, 
 Compiladores,Sistemas Embarcados, 
@@ -29,4 +29,4 @@ Processamento Digital de Sinais, ,
 Segurança e Auditoria de Sistemas, , 
 Tolerância a Falhas, , 
 Telecomunicações, , 
-Circuitos Eletrônicos, , 
+Física, , 
