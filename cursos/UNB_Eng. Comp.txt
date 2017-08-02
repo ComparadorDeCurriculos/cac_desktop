@@ -1,0 +1,75 @@
+CÁLCULO 1
+Funções de uma variável real, limite e continuidade, derivada, integral, aplicações da integral.
+2
+CÁLCULO 2
+Sequências e séries numéricas; séries de potências; fórmula de Taylor; equações diferenciais ordinárias de 1ª ordem; equações diferenciais ordinárias lineares; o método da série de potências; a transformada de Laplace; sistemas lineares de equações diferenciais ordinárias de 1ª ordem.
+4
+CÁLCULO 3
+Vetores no plano e no espaço; funções de várias variáveis; fórmula de Taylor e aplicações; transformações diferenciáveis; o teorema da função inversa e da função Implícita.
+4
+CALCULO NUMERICO
+ZEROS DE FUNCOES. ZEROS DE POLINOMIOS; SISTEMAS DE EQUACOES LINEARES. INVERSAO DE MATRIZES; AJUSTE DE CURVAS. INTERPOLACAO; INTEGRACAO NUMERICA; RESOLUCAO NUMERICA DE EQUACOES DIFERENCIAIS ORDINARIAS.
+4
+ELETROMAGNETISMO 1
+Análise vetorial. Campos elétricos estáticos. Corrente elétrica estacionária. Campos magnéticos estáticos. Campos eletromagnéticos. Introdução a ondas eletromagnéticas. Introdução a linhas de transmissão. 
+4
+ENGENHARIA DE SOFTWARE
+SOFTWARE E ENGENHARIA DE SOFTWARE; PLANEJAMENTO DO PROJETO DE SOFT-   WARE FUNDAMENTOS E METODOS DE ANALISE; FUNDAMENTOS DO PROJETO DE   SOFTWARE; ASSEGURANDO A QUALIDADE DO SOFTWARE: FATORES E ATIVIDADES;   FORMAIS; METODOS DE QUALIDADE; TECNICAS DE TESTES; MANUTENCAO; AUTOMA-   CAO DO PROCESSO DE DESENVOLVIMENTO DE SOFTWARE: AMBIENTES APOIADOS EM   SISTEMAS OPERACIONAIS, LINGUAGENS E METODOLOGIAS; FERRAMENTAS INTELI-   GENTES PARA AUXILIO A PRODUCAO DE SOFTWARE. 
+4
+EQUACOES DIFERENCIAIS 1
+1. EQUACOES DIFERENCIAIS ORDINARIAS DE 1a. ORDEM.   2. EQUACOES DIFERENCIAIS ORDINARIAS LINEARES.   3. O METODO DAS SERIES DE POTENCIAS.   4. AS TRANSFORMADAS DE LAPLACE.   5. SISTEMAS LINEARES DE EQUACOES DIFERENCIAIS DE 1a. ORDEM. 
+4
+ESTRUTURAS DE DADOS
+Gerenciamento dinâmico da memória. Listas. Pilhas. Filas. Árvores. Ordenação e Pesquisa.Pesquisa em Árvores. Grafos. Análise e aplicação de estruturas avançadas em problemas de programação. Resolução de problemas. Aplicações em problemas ambientais.
+4
+FISICA 1
+Módulos 1: Unidades e grandezas físicas; 2: Vetores; 3: Movimento retilineo;   4: Movimento em duas e três dimensoes; 5: Leis de Newton do movimento;   6: Aplicação das Leis de Newton; 7: Trabalho e Energia Cinetica; ´ 8: Energia potencial e conservação de energia; 9: Momento linear e impulso; 10: Colisões;   11: Rotação de corpos rígidos; 12:Dinamica do movimento de rotação.
+4
+FISICA 1 EXPERIMENTAL
+MEDIDAS E ERROS. ANALISE GRAFICA. ATRITO. COLISAO. CONSERVACAO DO MOMENTO LINEAR. ESTUDO DOS MOVIMENTOS. ROTACAO. CONSERVACAO DE ENERGIA. EQUILIBRIO DE CORPOS RIGIDOS.
+2
+FISICA 2
+Módulos 1: Equilíbrio e elasticidade; 2: Gravitação; 3: Mecanica dos fluidos;   4: Movimento periodico; 5: Ondas mecanicas; 6: Modos normais e som;   7: Fenomenos on- dulatorios; ´ 8: Temperatura e calor; 9: Propriedades termicas da   matéria; ´ 10: Trabalho e primeira lei da termodinamica; 11: Gases ideais e Processos termodinâmicos; 12: Segunda lei da termodinâmica.
+4
+FISICA 2 EXPERIMENTAL
+GIROSCOPIO. MOVIMENTO PERIODICO. HIDROSTATICA. ONDAS SONORAS. DILATACAO LINEAR. CALOR ESPECIFICO. DOS SOLIDOS. CONDUCAO DE CALOR. COMPORTA  MENTO DO GASES.
+4
+Introdução à Engenharia de Computação
+A Formação Universitária. Conceitos de Universidade. A Universidade de Brasília. Normas e procedimentos acadêmicos. Departamentos Acadêmicos. O curso de Engenharia de Computação. História e evolução dos cursos. Tecnologia e Sociedade. Principais vertentes e campos de atuação do profissional. Sociedades Científicas e Profissionais no Brasil e no exterior. O papel do profissional na sociedade. Técnicas de estudo e administração de tempo. Noções básicas de a arquitetura e organização de computadores e noções de estrutura de software. Ciclo de palestras sobre as diversas áreas do curso.
+2
+INTRODUCAO A ALGEBRA LINEAR
+Sistemas lineares e matrizes; Espaços vetoriais; Produto interno; Transformações lineares; Autovalores e autovetores; Diagonalização de operadores; Aplicações.
+2
+LINGUAGENS DE PROGRAMACAO
+INTRODUCAO; CONCEITOS: VARIAVEIS, EXPRESSOES, ESCOPO, COMANDOS, TI-  PAGEM, PROCEDIMENTOS, TIPOS DE DADOS, ABSTRACAO, CONTROLE ETC. PARADIG-  MAS E LINGUAGEM DE PROGRAMACAO: IMPERATIVAS, LOGICAS, E ORIENTADAS POR  OBJETOS. 
+4
+MÉTODOS DE PROGRAMAÇÃO
+Capacitar o aluno a conceber, projetar e implementar programas complexos. Desenvolver e empregar tecnicas que produzam programas de boa qualidade. Apresentacao das tecnicas utilizadas para este fim. Programacao sistematica. Comparacao de algoritmos e verificacao de programas. Dessenvolvimento de programas por etapas. Modularidade de procedimentos.
+4
+ORGANIZACAO E ARQUITETURA DE COMPUTADORES
+Desempenho de Processadores. Arquitetura do Conjunto de Instruções e Linguagem de Máquina. Aritmética Computacional. Organização e Projeto de Processadores (Uniciclo, Multiciclo e Pipeline). HIerarquia de Memória. Sistemas de entrada e saída. Introdução ao Multiprocessamento. 
+4
+ORGANIZAÇÃO DE ARQUIVOS
+TECNOLOGIAS DE DISPOSITIVOS DE ARMAZENAMENTO SECUNDARIO; PARAME-   TROS DE HARDWARE; ORGANIZACOES BASICAS DE ARQUIVOS; PILHA, SEQUENCIAL,   SEQUENCIAL-INDEXADO, DIRETO E INVERTIDO; ORGANIZACOES HIBRIDAS DE AR-  QUIVOS: AVALIACAO DE SISTEMAS DE ARQUIVOS; COMPRESSAO DE DADOS; CLAS-   SIFICACAO EM MEMORIA SECUNDARIA.  
+2
+PROBABILIDADE E ESTATÍSTICA
+ANALISE DE OBSERVACOES - MODELO MATEMATICO - EXP. ALEATORIA E ESPACO AMOSTRAL AXIOMAS E TEOREMAS BASICOS - VARIAVEIS ALEATORIAS-DISTRIBUICOES E SUAS CARACTERISTICAS - COVARIANCIA E CORRELACAO - DISTRIBUICAO CONJUNTA - PRINCIPAIS MODELOS - DISCRETOS E CONTINUOS-ESTATISTICA DESCRITIVA - AJUSTAMENTOS DE FUNCOES REAIS - CORRELACAO E REGRESSAO NOCOES DE AMOSTRAGEM E TESTES DE HIPOTESES - APLICACOES.
+4
+PROJETO ANÁLISE DE ALGORITMOS
+Fundamentos matemáticos para análise de algoritmos; Análise assintótica de algoritmos; Paradigmas de projeto de algoritmos; Algoritmos eficientes para ordenação, comparação de sequências, problemas em grafos; Fundamentos de complexidade computacional, redução entre problemas, classes P e NP, problemas NP-Completos.
+4
+SINAIS E SISTEMAS
+Conceitos introdutorios de Sinais e Sistemas. Sinais Discretos e Sinais Continuos. Propriedades basicas de sistemas. Sistemas lineares. Sinais periodicos. Representacao por Fourier. Transformada de Fourier. Caracterizacao de sinais e sistemas no tempo e em frequencia. Amostragem. Transformada de Laplace. Transformada Z. Algoritmos e aplicacoes.
+3
+SISTEMAS OPERACIONAIS
+CONCEITOS BASICOS E HISTORICOS; GERENCIA DE PROCESSOS E PROGRAMA-   CAO CONCORRENTE; GERENCIA DE DISPOSITIVOS; GERENCIA DE MEMORIA; SISTE-   TEMA DE ARQUIVOS; ESTUDO DE SISTEMAS OPERACIONAIS EXISTENTES. 
+6
+SOFTWARE BASICO
+PROGRAMACAO EM LINGUAGEM DE MAQUINA; MONTADORES, LIGADORES E   CARREGADORES; PROGRAMACAO EM LINGUAGEM C. 
+4
+TELEINFORMÁTICA E REDES 1
+Introdução : arquitetura de redes, modelo de protocolo em camadas, sistemas multimídia de redes, computação distribuída, paradigmas cliente-servidor, peer-to-peer, conceitos de computação móvel, padrões de redes. Capacidade de canal. Taxa de transmissão. Codificação analógica-digital, digital-digital e digital-analógica. Princípios dos modelos das redes de computadores: OSI e TCP/IP. Meios de transmissão de dados. Protocolos e tecnologias de enlace de dados. Redes de comutação de circuito e de pacotes.
+2
+TELEINFORMÁTICA E REDES 2
+Camada de Rede TCP/IP: internetworking, endereçamento, roteamento, protocolos. Camada de Aplicação: conceitos e protocolos. Aspectos de segurança em redes de computadores. Dispositivos de interconexão, conceito de processadores de redes. Protocolos leves. Métodos formais para especificação e verificação de protocolos. Introdução a gerência de redes.
+2

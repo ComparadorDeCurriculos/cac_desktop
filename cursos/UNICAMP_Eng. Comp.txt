@@ -1,0 +1,186 @@
+Ciências do Ambiente
+População humana e recursos naturais renováveis e não renováveis. Interação entre o homem e ambientes naturais ou construídos. Ambientes brasileiros terrestres e aquáticos. Análise de ambientes: diagramas energéticos e modelos. O homem como modificador do ambiente. População, energia, clima, ecotoxicologia, extinção, biodiversidade e sustentabilidade. Direito ecológico e política ambiental. Responsabilidade do profissional com relação à sociedade e ao ambiente.
+2
+Economia para Engenharia
+O processo de produção visto pelas óticas micro e macroeconômicas. Produção e propriedade. Produção como técnica e como processo social. Agregação da produção. Mercados. Papel do governo.
+4
+Trabalho de Fim de Curso
+Princípios de Metodologia Científica e Tecnológica, redação e expressão gráfica técno-científica. Trabalho de síntese dos conhecimentos, com caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas dos cursos de Engenharia Elétrica ou de Engenharia de Computação.
+6
+Introdução ao Projeto de Sistemas Embarcados
+Introdução. Interligação entre módulos. Ligação com o barramento interno. Memória. Organização da memória. Microprocessador. Coprocessadores e controladores. Entrada/Saída. Periféricos.
+4
+Circuitos II
+Transformada de Laplace. Teoremas de Reciprocidade e de Miller. Dualidade. Estruturas de Dois Pares de Terminais. Circuitos Trifásicos. Representação de Sistemas de Energia Elétrica. Componentes Simétricos.
+4
+Análise Linear de Sistemas
+Caracterização de sistemas lineares. Modelamento de processos dinâmicos contínuos e discretos no tempo. Solução de Equações diferenciais lineares. Solução de equações a diferenças lineares. Estabilidade. Função de transferência. Resposta em frequência de sistemas contínuos e discretos no tempo. Representação de estado de sistemas contínuos e discretos no tempo. Introdução ao controle por realimentação.
+4
+Princípios de Controle e Servomecanismo
+Propriedades e conceitos básicos do controle de sistemas dinâmicos em malha fechada. Projeto de controladores utilizando lugar das raízes. Projeto de controladores utilizando resposta em frequência. Projeto de controladores utilizando representação de estados.
+4
+Circuitos Lógicos
+Conceitos lógicos. Circuitos básicos. Minimização de funções Booleanas. Sistemas de numeração. Aritmética binária. Códigos. Circuitos a contato. Síntese de circuitos combinacionais. Circuitos de memória. Circuitos sequenciais. Projeto de circuitos sequenciais. Considerações sobre a velocidade de operação dos circuitos digitais. Obs.: Esta disciplina será ministrada quinzenalmente.
+4
+Introdução a Sistemas de Computação Digital
+Introdução. Arquitetura de Computadores. Software de Sistema. Sub-rotinas. Interrupção. Entrada e Saída. Endereçamento. Representação Numérica e não Numérica.
+4
+Introdução a Software Básico
+Revisão sobre linguagem assembly, linguagem C e montadores. Estruturas de dados. Compiladores. Sistemas Operacionais.
+4
+Fundamentos da Física Moderna
+Introdução à teoria da relatividade restrita. A teoria cinética da matéria. A Quantização da radiação, da carga elétrica e da energia. Modelos atômicos clássicos. Propriedades ondulatórias das partículas. Equação de Schrödinger. O átomo com muitos elétrons. A estrutura do núcleo atômico e reações nucleares. Partículas elementares. Moléculas.
+4
+Métodos da Engenharia Elétrica
+Sistemas de coordenadas e vetores. Gradiente, divergente, rotacional e laplaciano. Teoremas de Gauss e de Stokes. Funções de variáveis complexas. Resíduos e pólos. Método de transformação conforme; método de separação de variáveis na solução da equação de Laplace.
+4
+Introdução à Teoria Eletromagnética
+Força e campo eletrostático. Densidade de fluxo elétrico e lei de Gauss. Potencial eletrostático. Corrente estacionária. Condutor e Resistência. Dielétrico e capacitância. Equações de Poisson e Laplace. Campo magnetostático. Campos variáveis no tempo. Força em materiais magnéticos indutância. Sistemas de unidade.
+4
+Eletrônica Básica I
+Conceitos básicos de projeto. Amplificadores operacionais Ideais. Circuitos com amplificadores operacionais. Semicondutores. Circuitos com diodos semicondutores. Circuitos com FET. Circuitos com transistores bipolares. Amplificadores de potência e fontes de alimentação.
+4
+Teoria Eletromagnética
+Campos variáveis no tempo e equações de Maxwell. Ondas planas no vácuo e em dielétricos: polarização, impedância do meio. Propagação de ondas eletromagnéticas: velocidade de fase e de grupo, fluxos de potência, atenuação. Reflexão e refração em interfaces planas: ondas TE e TM, ângulo de Brewster, reflexão total, ondas evanescentes. Potenciais retardados e antenas. Radiopropagação. Difração.
+4
+Eletrônica Básica II
+Projeto de amplificadores com BJT. Estrutura dos amplificadores operacionais. Resposta em frequência de amplificadores. Circuitos quasi-lineares. Circuitos não-lineares. Dispositivos de aplicação específica. Filtros ativos.
+4
+Ondas Guiadas
+Guias dielétricos: surgimento de modos TE e TM em guias laminares, equação modal, guias circulares. Fibras ópticas: programação modal, aproximação de guiamento fraco, modos linearmente polarizados. Tipologia das fibras ópticas. Atenuação e dispersão em fibras ópticas. Guias metálicos: geometria retangular e circular, modos dominantes, filtros modais, perdas nas paredes. O modo TEM em guias com múltiplos condutores: linhas de transmissão, modelo circuital. A Teoria de linhas de transmissão: impedância característica, transformação de impedâncias, casamento de impedâncias, carta de Smith.
+4
+Eletrônica de Potência
+Diodos de potência. Retificadores. Tiristores. Retificadores controlados. Controladores de tensão AC. Transistores de potência. Retalhadores DC. Inversores. Controle de Motores DC. Controle de Motores AC. Experimentos.
+4
+Laboratório de Comunicações I
+Experiências de laboratório com: Sinais. Modulação AM convencional e espalhada, DSB-SC e FM. Amostragem. Codificação. TV. Obs.: Esta disciplina será ministrada quinzenalmente.
+2
+Desenho Técnico
+Instrumentação e normas. Teoria das projeções: Monjeanas, cotadas. Axonometria e perspectiva. Construções geométricas. Ajustes e tolerâncias. Desenho de elementos básicos de máquinas. Métodos de composição e de reprodução de desenhos.
+4
+Resistência dos Materiais
+Noções sobre o material. Conceituação de tensões, solicitação axial. Cisalhamento puro. Torção em eixos circulares. Flexão pura, simples e oblíqua. Deflexão em vigas retas. Estado triplo de tensões e deformações. Círculo de Mohr. Cisalhamento puro. Estado hidrostático de tensões.
+3
+Princípios de Conversão de Energia
+Circuitos magnéticos. Transformadores. Princípios de conversão eletromecânica de energia. Introdução às máquinas elétricas rotativas.
+4
+Máquinas Elétricas
+Máquina de Corrente Contínua. Máquina Síncrona. Máquina de Indução. Motores de Potência Fracionária e Subfracionária.
+4
+Sistemas de Energia Elétrica I
+Introdução geral. Linhas de transmissão. Transformadores de potência. Máquinas síncronas. Introdução ao cálculo de fluxo de potência. Introdução a sistemas de distribuição.
+4
+Física Experimental I
+Grandezas físicas e suas medidas. Erros. Instrumentos de medida. Tabelas, gráficos. Leis de Newton. Lei de Hooke. Estatística de dados, método de mínimos quadrados e propagação de erros. Movimento bidimensional. Conservação de energia. Colisões e conservação do movimento linear.
+2
+Física Experimental II
+Experiências de laboratório sobre: oscilações, gravitação, ondas em meios elásticos, ondas sonoras, hidrostática e hidrodinâmica, viscosidade, temperatura, calorimetria e condução de calor, leis da termodinâmica e teoria cinética dos gases.
+2
+Inglês Instrumental I
+Leitura de textos em inglês, visando ao desenvolvimento de estratégias globais de leitura e de análise linguística, tendo como base gêneros textuais da esfera acadêmica, jornalística e de divulgação científica, visando a aprimorar a formação acadêmica/profissional do aluno e a promover seu pensamento crítico a partir das realidades sócio-culturais expressas nos textos.
+4
+Geometria Analítica e Vetores
+Sistemas lineares. Vetores, operações. Bases, sistemas de coordenadas. Distância, norma e ângulo. Produtos escalar e vetorial. Retas no plano e no espaço. Planos. Posições relativas, interseções, distâncias e ângulos. Círculo e esfera. Coordenadas polares, cilíndricas e esféricas. Seções cônicas, classificação. Introdução às quádricas.
+4
+Cálculo III
+Séries numéricas e séries de funções. Equações diferenciais ordinárias. Transformadas de Laplace. Sistemas de equações de primeira ordem. Equações diferenciais parciais e séries de Fourier.
+6
+Algoritmos e Programação de Computadores
+Conceitos básicos de organização de computadores. Construção de algoritmos e sua representação em pseudocódigo e linguagens de alto nível. Desenvolvimento sistemático e implementação de programas. Estruturação, depuração, testes e documentação de programas. Resolução de problemas.
+6
+Cálculo Numérico
+Aritmética de ponto flutuante. Zeros de funções reais. Sistemas lineares. Interpolação polinomial. Integração numérica. Quadrados mínimos lineares. Tratamento numérico de equações diferenciais ordinárias.
+4
+Química Experimental
+Funções termodinâmicas; Equilíbrios químicos; Soluções; Eletroquímica; Materiais.
+2
+Direito
+Fundamento de direito público e privado. Aplicação de normas jurídicas aos fatos econômicos.
+2
+Contabilidade para Engenharia
+A empresa e a tomada de decisões. Funções da contabilidade. Relatórios Contábeis. Análise aplicada das demonstrações financeiras e indicadores nas empresas.
+2
+Planejamento e Análise de Sistemas de Produção
+Introdução a Sistemas de Produção. Introdução à Modelagem Matemática. Modelos de Otimização. Modelos de Programação Linear. Resolução de Modelos de Programação Linear. Resolução de Problemas através de Programação Dinâmica. Modelos de Otimização Discretos. Modelos de Programação Não Linear.
+4
+Laboratório de Sistemas Embarcados
+Aplicações de microcontroladores em instrumentação e controle de tempo real. Aspectos práticos de programação de microcontroladores.
+2
+Circuitos Elétricos
+Elementos e Leis de Circuitos. Equacionamento e Soluções de Circuitos por métodos Algébricos e Matriciais. Equacionamento de Circuitos Dinâmicos. Circuitos Monofásicos.
+4
+Análise de Sinais
+Sinais contínuos e discretos. Sistemas lineares e invariantes no tempo. Análise de Fourier de sinais contínuos. Análise de Fourier de sinais discretos. Filtragem através de sistemas lineares e invariantes no tempo. Transformada de Laplace e transformada Z. Amostragem de sinais. Aplicações.
+4
+Laboratório de Análise Linear
+Experimentos utilizando ferramentas computacionais especializadas: modelagem e simulação de sistemas lineares e não lineares. Linearização de sistemas. Análise da resposta temporal e resposta em frequência. Identificação de parâmetros. Experimentos utilizando processos em escala reduzida e equipamentos de controle e aquisição de dados disponíveis no laboratório: Identificação de sistemas. Análise da resposta temporal e resposta em frequência. Discretização de sistemas. Controle por realimentação.
+2
+Laboratório de Controle e Servomecanismo
+Experimentos utilizando processos em escala reduzida e equipamentos de controle e aquisição de dados disponíveis no laboratório: propriedades do controle por realimentação. Projeto de controladores PID. Projeto de controladores utilizando lugar das raízes e resposta em frequência. Projeto de controladores utilizando representação de estados. Projeto de controladores utilizando alocação de polos.
+2
+Laboratório de Circuitos Lógicos
+Circuitos integrados fundamentais. Elementos lógicos com memória. Contadores digitais. Famílias lógicas, sistemas de numeração. Operações aritméticas: soma, subtração, multiplicação, divisão. Unidade lógica e aritmética. Memória ROM. Aplicações.
+2
+Laboratório de Programação Básica de Sistemas Digitais
+Programação em linguagem Assembly. Instruções de máquina. Diretivas do montador. Depuradores. Interfaces de entrada/saída. Programação de interface serial. Comunicação entre computadores. Programação de interface paralela. Interrupções.
+4
+Laboratório de Engenharia Elétrica I
+Atividades de laboratório relacionadas ao conhecimento de Engenharia Elétrica adquiridos pelo aluno nas disciplinas do Curso até o 3º semestre.
+2
+Laboratório de Eletromagnetismo
+Mapeamento de equipotências. Fotocópia eletrostática. Descargas elétricas em alta tensão. Interação de campos magnéticos e elétricos com feixe de elétrons. Bomba iônica. Radiação de antena de micro-ondas.
+2
+Laboratório de Eletrônica Básica I
+Diodos. Transistores bipolares. Transistores JFET. Transistores MOS e estruturas CMOS. Caracterização e aplicações.
+2
+Eletrônica Digital I
+Pulsos e circuitos de temporização. Circuitos lógicos-digitais. Circuitos Integrados Digitais. Dispositivos Lógicos Programáveis-PLDs.
+4
+Laboratório de Eletrônica Básica II
+Amplificador a transistor bipolar. Amplificador diferencial. Amplificador operacional. Circuitos com amplificadores operacionais.
+2
+Laboratório de Ondas Guiadas
+Experiências relacionadas com estruturas de dois pares de terminais e com linhas de transmissão.
+2
+Princípios de Comunicações I
+Canal de comunicação. Processos estocásticos. Modulação de amplitude. Modulação angular. Codificação de sinais analógicos. Transmissão digital em banda básica. Modulação digital. Sistemas de múltiplo acesso. Tópicos em comunicações.
+4
+Oficinas em Instalações Elétricas
+Tecnologia básica. Operações básicas de instalações elétricas residencial e industrial, de enrolamento de motor monofásico. Ligações de comandos elétricos automáticos.
+4
+Oficinas I
+Medidas lineares com instrumentos de medida direta e indireta. Noções de tolerância ISO. Traçagem de peças, trabalhos de bancada. Operações básicas com máquinas operatrizes, furadeira, plaina limadora, torno mecânico horizontal e fresadora.
+4
+Fenômenos de Transporte
+Conceitos fundamentais. Primeira e segunda leis da termodinâmica. Equações gerais da cinemática e dinâmica dos fluidos. Equações básicas de transferência de calor e massa.
+4
+Laboratório de Princípios de Conversão de Energia
+Propriedades de circuitos magnéticos. Estudo de eletroímã. Funcionamento de máquinas elétricas rotativas. Transformador elétrico.
+2
+Laboratório de Máquinas Elétricas
+Característica de partida de cada tipo de motor. Ensaios com máquina CC. Ensaios com máquina síncrona. Ensaios com máquina de indução.
+2
+Física Geral I
+Cinemática do ponto. Leis de Newton. Estática e dinâmica da partícula. Trabalho e energia. Conservação da Energia. Momento linear e sua conservação. Colisões. Momento angular da partícula e de sistemas de partículas. Rotação de corpos rígidos.
+4
+Física Geral II
+Oscilações. Gravitação. Ondas em meios elásticos. Ondas sonoras. Hidrostática e hidrodinâmica. Viscosidade. Temperatura. Calorimetria e condução de calor. Leis da termodinâmica; teoria cinética dos gases.
+4
+Mecânica Geral I
+Revisão de matrizes e cálculo vetorial. Mecânica Newtoniana. Oscilações lineares. Oscilações não lineares e Caos. Gravitação. Cálculo variacional. Equações de Lagrange e de Hamilton.
+4
+Cálculo I
+Intervalos e desigualdades. Funções. Limites. Continuidade. Derivada e diferencial. Integral. Técnicas de integração.
+6
+Cálculo II
+Funções de várias variáveis reais. Fórmula de Taylor. Máximos e mínimos. Integrais múltiplas. Integrais de linha. Teorema da divergência. Teorema de Stokes.
+6
+Álgebra Linear
+Espaços vetoriais reais. Subespaços. Base e dimensão. Transformações lineares e matrizes. Núcleo e imagem. Projeções. Autovalores e autovetores. Produto interno. Matrizes reais especiais. Diagonalização.
+4
+Introdução aos Modelos Probabilísticos
+Introdução à probabilidade. Variáveis aleatórias. Esperança de variável aleatória. Vetor aleatório. Noções de inferência estatística. Introdução aos processos estocásticos.
+4
+Química Teórica
+Matéria e radiação eletromagnética; Estrutura atômica; Ligação química; Forças intermoleculares, Metais; Isolantes e semicondutores.
+2

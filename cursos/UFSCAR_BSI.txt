@@ -1,0 +1,138 @@
+Introdução à EaD 
+Estudo da modalidade de educação a distância (EaD) a partir da sua história, importância, evolução, formatos de cursos e da concepção da EaD da UAB-UFSCar, bem como, o conhecimento das relações entre os diferentes participantes que atuam diretamente com o aluno (coordenador de curso, professores, administradores, secretarias, tutores virtuais e presenciais). Compreensão do processo didático do curso (calendário acadêmico, dinâmica das disciplinas, normas acadêmicas para aprovação e avaliação do aluno). Compreensão do conceito de ambiente virtual de aprendizagem e o desenvolvimento de habilidades de uso das diferentes funcionalidades do ambiente virtual. Reflexão sobre os papéis do aluno virtual com enfoque na organização para os estudos e para a concepção de autonomia do aluno da EaD. Construção do conceito de comunidade virtual, com enfoque para a comunicação, a colaboração, a interação e a netiqueta. Experimentação sobre busca e análise de informações científicas. Orientação sobre a legislação de direitos autorais e plágio.
+4
+Orientação Profissional em Sist. de Inf.
+Apresentação e discussão da história da computação. Definição dos conceitos de dados, informação e conhecimento. Discussão desses conceitos no contexto de sistemas de informação, com ênfase no papel que desempenham no mundo moderno bem como de seus diferentes tratamentos. Apresentação e discussão do perfil do profissional de SI. Discussão das perspectivas de carreira e características das diversas possíveis áreas de atuação do bacharel. Detalhamento das alternativas para o exercício profissional em computação (mais especificamente em Sistemas de Informação). Apresentação em detalhes da grade curricular do curso de BSI. Apresentação e discussão da caracterização de disciplinas: créditos, pré-requisitos, ementas, objetivos. Discussão sobre os princípios e regulamentação da disciplina de estágio.
+4
+Fundamentos de Lógica Matemática 
+Caracterização da lógica proposicional como uma linguagem para representação de conhecimento. Definição de fórmulas bem formadas. Definição e discussão dos conceitos de interpretação, validade e inconsistência. Apresentação dos conceitos de conseqüência lógica e equivalência lógica. Detalhamento das principais equivalências que caracterizam a álgebra da lógica proposicional. Definição de formas normais. Discussão de inferência lógica e caracterização de sistemas de derivação. Definição da regra de inferência da resolução. Apresentação e discussão dos procedimentos de prova por resolução. Caracterização do Cálculo Proposicional como um subconjunto da Lógica de Predicados.
+4
+Algoritmos e Programação 1
+Apresentação da história da computação. Apresentação do modelo de computação (processador, memória, unidades de entrada e saída). Conceituação de algoritmos e linguagens de programação. Caracterização da representação da informação em computadores (bits, bytes, memória). Caracterização de tipos de dados básicos (inteiro, real, literal e lógico). Apresentação dos conceitos de constantes e variáveis. Detalhamento de comandos de atribuição, de entrada e de saída. Detalhamento de comandos condicionais. Detalhamento de comandos de repetição. Experimentação no desenvolvimento de algoritmos estruturados. Aplicação dos conceitos relacionados a algoritmos no desenvolvimento de programas em linguagem imperativa.
+4
+Inglês Instrumental 
+Promoção de aquisição e ampliação de vocabulário da área de sistemas de informação, computação e administração. Desenvolvimento de estratégias de leitura para compreensão de textos em língua inglesa. 
+4
+Letramento Digital
+Conhecimento sobre o ambiente virtual de aprendizagem (Moodle). Descrição das principais partes de um computador e dos programas mais usuais para a realização de trabalhos que utilizam a informática como meio. Treinamento e uso dos diferentes aplicativos do Windows (Word, Excel, PaintBrush, Power Point). Conhecimento e utilização da Internet e alguns dos recursos necessários para a pesquisa e comunicação.
+2
+Algoritmos e Programação 2 
+Utilização de variáveis compostas homogêneas (registros) na estruturação de dados. Aplicação de registros variantes em linguagens imperativas. Aplicação de ponteiros na manipulação indireta de dados. Conceituação de sub-rotinas (estruturação, passagem de parâmetros e escopo de declarações). Aplicação de ponteiros na manipulação indireta de variáveis (como passagem por referência). Introdução ao uso de variáveis homogêneas unidimensionais (vetores) na estruturação de dados. Aplicação dos conceitos de variáveis compostas e sub-rotinas na resolução de problemas.
+4
+Tecnologia e Sociedade 
+Estudo dos impactos das tecnologias na sociedade contemporânea. Reflexão sobre aspectos sociais da área de computação e regulamentação da profissão. Comparação entre os conceitos de ética e moral. Caracterização de ética computacional. Estabelecimento de relações entre os códigos de ética da área de computação e aspectos jurídicos. Discussão das implicações éticas das tecnologias e seus reflexos na sociedade.
+4
+Teoria Geral da Administração 
+Caracterização de empresas públicas e privadas. Apresentação da administração organizacional focalizando aspectos conceituais e princípios administrativos. Apresentação de um breve histórico das abordagens teóricas da administração: clássica, comportamentalista, relações humanas, estruturalista, sistêmica e da contingência, bem como as novas tendências das abordagens emergentes. Apresentação das áreas funcionais das organizações - gestão, produção, finanças, marketing, recursos humanos e tecnologia - e suas atribuições incluindo, principalmente, as atividades de atuação com Tecnologias de Informação e Comunicação (TIC). Descrição dos principais modelos de gestão e seus impactos nas áreas funcionais. Considerações sobre relações interdepartamentais e sistemas de  comunicação interna e externa. Conceituação de fatores que influenciam a administração: liderança e motivação, ambiente de trabalho, crescimento profissional, aprendizado e relacionamento interpessoal. Discussão dos papéis das áreas de auditoria e controle administrativos de uma organização.
+4
+Algoritmos e Programação 3
+Conceituação de variáveis compostas homogêneas de duas ou mais dimensões (matrizes e arranjos multidimensionais). Conceituação e aplicação de vetores de registros na estruturação de dados. Introdução aos conceitos de alocação dinâmica de memória com uso de ponteiros. Aplicação de alocação dinâmica para manipulação de vetores e matrizes. Apresentação do conceito de arquivos binários e arquivos texto. Compreensão da manipulação de dados em arquivos binários e arquivos texto. Aplicação dos conceitos na solução de problemas computacionais.
+4
+Matemática Discreta
+Definição de matemática discreta. Descrição dos principais instrumentos matemáticos para apresentação da matemática discreta: definição, teorema, prova. Introdução à teoria de conjuntos. Conceituação de relação entre conjuntos e suas propriedades. Caracterização de tipos importantes de relações em função das propriedades satisfeitas. Apresentação do conceito de função como um tipo particular de relação. Composição de funções e suas características. Introdução à teoria dos números. Introdução à teoria dos grafos.
+4
+Programação Orientada a Objetos 1 
+Conceituação do modelo de programação orientada a objetos (OO). Apresentação dos fundamentos da linguagem de programação C++. Caracterização de orientação a objetos com C++. Conceituação de alocação dinâmica e sobrecarga. Conceituação de herança e composição. Discussão de polimorfismo. Introdução a arquivos.
+4
+Arquitetura de Computadores
+Introdução histórica às tecnologias computacionais. Caracterização da linguagem de máquina. Definição e princípios envolvidos na aritmética computacional. Definição e caracterização de CPU, E/S e periféricos, caminho de dados e controle, armazenamento e hierarquia de memórias. Definição e discussão dos conceitos de redes, clusters, arquiteturas distribuídas e arquiteturas móveis. Caracterização de desempenho computacional. Avaliação de desempenho computacional. 
+4
+Fundamentos de Sistemas de Informação 
+Apresentação e discussão geral dos princípios que fundamentam a Teoria Geral de Sistemas. Caracterização dos componentes genéricos de sistemas. Discussão evidenciando as muitas possíveis relações entre sistema e o ambiente no qual se insere e/ou atua. Apresentação e discussão de hierarquização e classificação de sistemas. Discussão do pensamento sistêmico. Discussão da relevância da modelagem sistêmica à abordagem e solução de problemas. Definição do conceito de sistema e de sistema de informação (SI). Discussão de uso de sistemas de informação nas empresas nas dimensões técnica, organizacional e humana. Caracterização de uma organização como um sistema de informação. Sistemas de automação, sistemas de apoio a decisão, sistemas especialistas e sistemas de informações para executivos. Apresentação e discussão dos conceitos de ERP, supply chain, e-business e outros. Caracterização das chamadas Tecnologias da Informação (TI). Apresentação de aplicações de sistemas de informação. Exemplificação dos conceitos em várias situações do mundo real.
+4
+Estrutura de Dados 1
+Conceituação de tipos abstratos de dados. Caracterização das estruturas de dados básicas: pilhas, filas, listas, e suas variações: listas circulares, listas duplamente encadeadas, listas ordenadas. Representação, manipulação e algoritmos: inserção, eliminação, busca, percurso e operações de manipulação. Conceitos relacionados à implementação de estruturas de dados: alocação estática, alocação dinâmica, alocação seqüencial e alocação encadeada de memória para conjuntos de elementos. Implementação com armazenamento em memória temporária. Aplicações.
+4
+Cálculo
+Definição e caracterização de números reais e suas propriedades. Apresentação da idéia intuitiva e da formalização relacionadas aos conceitos de função de uma variável real, de limite, de continuidade, de derivada e de integral. Exemplificação dos conceitos apresentados utilizando as mais variadas funções. Treinamento no uso da linguagem matemática (leitura e escrita) como um formalismo para representação de conhecimento. 
+4
+Estruturas de Dados 2 
+Introdução a algoritmos recursivos e sua aplicação em estruturas de dados. Conceituação de árvores, árvores binárias, árvores binárias de busca, árvores binárias de busca balanceadas. Representação, manipulação e algoritmos: inserção, eliminação, busca, percurso e operações de manipulação. Implementação com armazenamento em memória temporária. Aplicações. 
+4
+Metodologia Científica
+Caracterização do que é pesquisa, sua motivação e metodologia de desenvolvimento. Apresentação dos tipos de pesquisa (iniciação científica, trabalho de conclusão de curso, etc.) e seus objetivos. Introdução aos métodos de pesquisa: objetivo, tema, problema, revisão. Descrição detalhada das etapas da pesquisa: determinação do tema-problema de trabalho, revisão bibliográfica, construção lógica do trabalho, redação do texto. Conceituação de aspectos da ética na pesquisa científica: definição, princípios, plágio, conduta ética na pesquisa científica. Aprofundamento da organização da escrita científica: estrutura formal do trabalho, suas partes e conteúdo esperado, tipos de publicações científicas e suas peculiaridades. Orientação sobre a elaboração de referências e citações bibliográficas e a apresentação da pesquisa. 
+4
+Gestão por Processos 
+Definição dos conceitos básicos da gestão por processos de negócios. Modelagem de processos de negócio. Apresentação das contribuições da tecnologia da informação para a gestão por processos. Discussão da contribuição da gestão por processos para o desenvolvimento de sistemas de informação. Caracterização da dimensão humana e organizacional na gestão por processos. Estudos de caso. Exercícios práticos em ambientes organizacionais.
+4
+Programação Orientada a Objetos 2 
+Introdução à linguagem JAVA. Apresentação dos fundamentos da linguagem de programação JAVA. Caracterização de orientação a objetos em JAVA. Tratamento de exceções. Apresentação da interface gráfica. Discussão de JAVA para Internet (applets, servlets, jsp). Caracterização de processamento concorrente (threads). Apresentação de coleções. Discussão de acesso a banco de dados e aplicações em rede.
+4
+Probabilidade e Estatística
+Noções de amostragem: amostra aleatória simples, amostra estratificada, amostra por conglomerados e amostra sistemática. Introdução à Estatística descritiva: medidas de posição e dispersão e outras técnicas exploratórias de dados. Caracterização de espaço amostral e eventos. Conceituação de probabilidade: condicional e independência de eventos. Introdução à variável aleatória: distribuição de probabilidade e de variáveis aleatórias. Apresentação das principais distribuições discretas e contínuas: binomial, Poisson, normal. Introdução à inferência estatística: distribuições amostrais e tamanho de amostra. Estimação pontual e intervalar. Noções de testes de hipóteses e análise de variância.
+4
+Armazenamento e Recuperação da Informação
+Organização de tabelas de espalhamento (hash) e tratamento de colisões. Apresentação dos conceitos de memória (principal, cache, virtual e secundária) e tempos de acesso. Estudo das características de organização de dados em memória secundária (arquivos sem ordenação, ordenados, de hash dinâmico e indexados). Avaliação e implementação de estrutura de indexação na forma de árvore (árvores B/B+). Introdução à organização da memória principal (estruturação e coleta de lixo). Apresentação dos conceitos de compressão de dados e análise e implementação de algoritmos de compressão.
+4
+Diagnóstico e Planejamento Organizacional
+Conceituação de diagnósticos organizacionais. Apresentação das principais técnicas, métodos e ferramentas que viabilizam a execução de diagnósticos em diferentes áreas funcionais de uma organização. Análise e caracterização dos recursos humanos internos e externos a organização. Caracterização de tipos de planejamento e discriminação de suas fases. Conceituação de planejamento estratégico. Cultura organizacional: caracterização, elementos que a compõem e suas variações. Estudo de viabilidade e alternativas que atendam a determinadas necessidades organizacionais. Acompanhamento e avaliação das ações e implementação de melhorias.
+4
+Interação Humano-Computador 
+Introdução a IHC. Conceituação de usabilidade. Descrição dos principais paradigmas de desenvolvimento de projetos WEB. Caracterização das diretivas de usabilidade para Web. Estudo e adoção dos padrões de interação para projetos WEB e padrões em IHC. Apresentação dos principais elementos de uma determinada linguagem de padrões.
+4
+Sistemas de Banco de Dados
+Definição de banco de dados. Apresentação dos conceitos básicos associados a banco de dados. Considerações sobre arquitetura, modelos de dados, linguagens de definição e manipulação de dados. Caracterização do usuário de banco de dados. Modelagem de dados: conceitual (modelo entidade-relacionamento) e físico (modelo relacional). Caracterização de projeto de banco de dados relacional com foco na dependência funcional, chaves e normalização. Conceituação de transações em ambiente de banco de dados. 
+4
+Engenharia de Software 1
+Introdução à engenharia de software. Introdução e detalhamento de técnicas de obtenção de requisitos. Introdução aos paradigmas de desenvolvimento de software. Estudo dos diagramas UML para a fase de análise. Elaboração dos diagramas UML para a fase de projeto. Desenvolvimento de estudos de caso.
+4
+Sistemas Operacionais
+Conceituação de hardware e software. Apresentação geral e informal de sistemas operacionais e suas principais características. Conceituação de processos e tarefas (threads). Apresentação e discussão dos princípios que norteiam a comunicação e a sincronização entre processos. Caracterização de escalonamento de processador. Caracterização da organização e de processos de gerenciamento de memória. Apresentação e discussão de processos responsáveis pelo gerenciamento de entrada e saída de dados, sistemas de arquivos, segurança e direitos de acesso. 
+4
+Marketing de Produtos e Serviços
+Apresentação de métodos e técnicas de pesquisa e análise das necessidades do mercado. Caracterização de plano de marketing de produtos e de plano de marketing de serviços. Descrição de técnicas para elaboração de planos de marketing. Formulação de estratégias para a criação de demanda e discussão sobre aspectos éticos relacionados a essas estratégias. Acompanhamento e avaliação de estratégias de marketing implantadas. Uso de mídias para comunicação: propaganda e publicidade. Considerações sobre canais de distribuição de produtos.
+4
+Gerenciamento de Projetos de Tecnologia da Informação 
+Estudo e análise dos diferentes tipos de consultoria que podem ser implementados em empresas. Desenvolvimento de consultorias. Gestão de mudança e gerenciamento de projetos de tecnologia da informação. As nove áreas de conhecimento conforme o PMBOK.
+4
+Engenharia de Software 2 
+Caracterização dos principais modelos de processo existentes. Caracterização de planejamento e gerenciamento de projetos de software. Detalhamento de Arquitetura de Software. Ensino de técnicas de manutenção de  software. Fundamentação de engenharia reversa e de reengenharia. Discussão sobre verificação e validação de software. Caracterização de modelos de qualidade de processo. Introdução ao projeto de interfaces com o usuário.
+4
+Projeto de Banco de Dados
+Caracterização do processo de projeto de banco de dados. Formulação dos requisitos e análise. Caracterização do projeto conceitual: metodologias para a elaboração do projeto conceitual e ferramentas gráficas para projeto conceitual. Conceituação avançada de modelagem de dados. Caracterização do projeto de implementação: componentes do projeto de implementação, refinamento do esquema conceitual e mapeamento para o modelo de implementação. Definição do projeto físico: etapas do projeto físico e considerações sobre o projeto físico. Conceituação inicial de administração de banco de dados.
+4
+Redes de Computadores
+Definição e caracterização de redes de computadores. Apresentação de modelos de referência e arquiteturas de protocolos. Apresentação da visão geral das camadas, seus respectivos serviços e protocolos. Caracterização e detalhamento de cada uma das camadas: camada física, camada de enlace, camada de rede, camada de transporte e camada de aplicação. Conceituação de endereçamento e roteamento. Apresentação de protocolos de aplicação e serviços de rede. Caracterização dos conceitos de qualidade de serviço, gerenciamento de redes, segurança de redes, projeto lógico e físico de redes e redes de computadores móveis.
+4
+Empreendedorismo e Desenvolvimento de Negócios
+Caracterização do comportamento empreendedor. Possíveis motivações para empreender, e suas implicações para a escolha de um negócio. Diferenciação entre negócios tecnológicos e negócios não tecnológicos. Inovação tecnológica gerando oportunidades de negócios e competitividade empresarial. Caracterização do processo de desenvolvimento de negócios tecnológicos. Conceituação envolvida em planos de negócios: conceituação do negócio, análise de mercado, plano de marketing, planejamento financeiro. Captação de investimentos para negócios tecnológicos: recursos não reembolsáveis, capital de risco. Caracterização de propriedade intelectual: patentes, marcas, proteção de software. Apresentação das formas jurídicas para empresas de tecnologia. Elaboração de planos de negócios pelos alunos. Orientação à elaboração de planos de negócios.
+4
+Desenvolvimento de Software para Web 
+Apresentação formal da Web e de suas principais características. Caracterização de modelo de desenvolvimento de aplicações para a Web. Apresentação e detalhamento da plataforma Java para desenvolvimento de aplicações para a Web. Aprofundamento em alguns aspectos da linguagem Java: servlets e JSP. Apresentação e discussão de estudo de casos.
+4
+Ferramentas e Técnicas para Apoio à Decisão 
+Caracterização de processo de tomada de decisão. Visão geral de sistemas de informação para a tomada de decisão. Conceituação de business intelligence e CRM. Conceituação e aplicação de modelos de programação linear, heurísticas, sistemas de filas e simulação de eventos discretos no suporte à tomada de decisões de alternativas de soluções. 
+4
+Desenvolvimento de Software Avançado para a Web
+Definição e caracterização de componentes de software. Conceituação de persistência em banco de dados e de frameworks. Treinamento no desenvolvimento de aplicações subsidiadas por componentes e frameworks. Apresentação e discussão de estudos de casos.
+4
+Tópicos Especiais em Sistemas de Informação I 
+Variável, composta por módulos que cobrirão tópicos atuais de pesquisa e de desenvolvimento na área de sistemas de informação.
+4
+Desenvolvimento de Projeto de Sistemas 1
+Especificação inicial e completa de um estudo de caso que envolve um sistema de informação com características computacionais. Desenvolvimento do sistema especificado por meio da abordagem sistemática das diferentes fases de desenvolvimento i.e., concepção, análise, projeto e implementação. Sistematização e ênfase nas fases iniciais do desenvolvimento, i.e., concepção, análise e projeto. Orientação com relação às diferentes formas de apresentação dos resultados obtidos. 
+4
+Sistemas Distribuídos 
+Introdução aos sistemas distribuídos. Descrição das características, vantagens e desafios relacionados aos sistemas distribuídos. Conceituação de hardware e software, acoplamento e projeto de sistemas distribuídos. Introdução ao modelo de comunicação cliente/servidor: conceitos, primitivas e protocolos. Discussão sobre a implementação do modelo cliente/servidor: sockets em C e Java. Introdução aos modelos de comunicação: RPC, RMI, Peer-to-peer, busca, Torrent. Caracterização do processo de sincronização em sistemas distribuídos. Discussão do processamento transacional distribuído. Caracterização de sistemas de arquivos distribuídos. Apresentação das características de cluster, MPI, Grid e cloud computing.
+4
+Gestão do Conhecimento e Inteligência Competitiva
+Conceituação de dados, informação, conhecimento e administração. Apresentação das principais abordagens utilizadas na gestão do conhecimento. Criação do conhecimento, seus formatos e conversões. Conhecimento tácito e explícito. Aplicações da tecnologia da informação na gestão do conhecimento. Aplicação da gestão do conhecimento nas organizações. Fundamentos de inteligência competitiva e sua importância nos negócios e nas decisões empresariais. O ciclo de inteligência competitiva. Monitoramento e prospecção de informações. Aplicações envolvendo a contextualização, seleção de fontes, procedimentos e técnicas de análise e avaliação de estudos de inteligência competitiva.
+4
+Desenvolvimento de Projeto de Sistemas 2
+Especificação inicial e completa de um estudo de caso que envolve um sistema de informação com características computacionais. Desenvolvimento do sistema especificado por meio da abordagem sistemática das diferentes fases de desenvolvimento i.e., concepção, análise, projeto e implementação. Sistematização e ênfase na fase final do desenvolvimento, particularmente na implementação. Orientação com relação às diferentes formas de apresentação dos resultados obtidos. 
+4
+Tópicos Especiais em Sistemas de Informação II 
+Pesquisa e debate temáticos sobre questões emergentes envolvendo a evolução de sistemas de informação em organizações públicas e privadas. Discussão de conceitos, abordagens e teorias sobre tópicos atuais de pesquisa envolvendo áreas de administração e sistemas de informação.
+4
+Metodologias de Desenvolvimento de Sistemas
+Apresentação da evolução de técnicas e metodologias de desenvolvimento de sistemas computacionais. Descrição de técnicas e metodologias de desenvolvimento de sistemas computacionais existentes em diferentes abordagens de desenvolvimento. Descrição e discussão de exemplos de casos utilizando as metodologias descritas. Análise comparativa das metodologias apresentadas. Desenvolvimento de um sistema computacional utilizando os princípios e conceitos estudados. 
+4
+Gerenciamento Estratégico de Sistemas de Informação
+Caracterização do papel dos Sistemas de Informação (SI) e da Tecnologia de Informação (TI) nas organizações: Discussão de perspectivas estratégicas. Uma visão geral dos conceitos estratégicos dos negócios e as implicações para a estratégia de SI/TI. Planejamento estratégico de SI e análise estratégica de SI/TI: entendendo a situação atual e determinando o potencial futuro. Conceituação das estratégias dos sistemas de informação de negócios. Gerenciamento da carteira de aplicativos e gerenciamento estratégico de SI/TI: organização e recursos. Apresentação de estratégias para gerenciamento de informação, gerenciamento de recursos de SI/TI, gerenciamento do desenvolvimento de aplicativos. Apresentação de estratégias para o gerenciamento da infra-estrutura de tecnologia.
+4
+Gestão de Conteúdos Informacionais
+Caracterização da Web Semântica e de tecnologias semânticas: modelos e linguagens; Reflexão sobre o padrão Linked Data e suas implicações para a gestão de conteúdos. Análise dos padrões de representação e intercâmbio de dados. Estudo dos fundamentos conceituais, metodologias e ferramentas para o desenvolvimento de ontologias. Experimentação de aplicações baseadas em tecnologias semânticas e discussão sobre seus reflexos no desenvolvimento de sistemas de informação.
+4
+Sistemas de Informação: Auditoria e Segurança 
+Definição do vocabulário básico ligado a segurança em sistemas de computação. Caracterização de segurança lógica e segurança física. Conceituação de criptografia e apresentação dos principais modelos e algoritmos. Desenvolvimento de aplicações intrinsecamente seguras. Caracterização de segurança em sistemas  operacionais, banco de dados e redes de computadores. Discussão das principais ameaças virtuais. Gerenciamento de segurança em sistemas de TI. Princípios básicos de auditoria em sistemas computacionais.
+4

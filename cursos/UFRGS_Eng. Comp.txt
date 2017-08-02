@@ -1,0 +1,108 @@
+INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO
+A Engenharia de Computação na atualidade. O curso de Engenharia de Computação na UFRGS.
+2
+FÍSICA I-C
+Medidas físicas. Cinemática, estática e dinâmica do ponto e do corpo rígido. Gravitação.
+6
+INTRODUÇÃO À ARQUITETURA DE COMPUTADORES
+Representação de dados: sistemas de numeração, aritmética binária e decimal, representação de caracteres. Noções básicas de arquitetura e organização de computadores: organização básica da UCP e variações; conjunto, formato e armazenamento de instruções. Estrutura de software: noções de linguagem assembler; linguagens de programação, compiladores e interpretadores; sistemas operacionais; aplicativos, utilitários e pacotes. Noções rudimentares de entrada e saída, periféricos; comunicação entre máquinas. Prática de laboratório.
+4
+ALGORÍTMOS E PROGRAMAÇÃO - CIC
+Noção de algoritmo, dado, variável, instrução e programa. Construções básicas: atribuição, leitura e escrita. Estruturas de controle: seqüência, seleção e iteração. Tipos de dados escalares: inteiros, reais, caracteres, intervalos e enumerações. Tipos estruturados básicos: vetores, matrizes registros e strings. Subprogramas: funções, procedimentos e recursão. Arquivos.
+6
+CÁLCULO E GEOMETRIA ANALÍTICA I - A
+Estudo da reta e de curvas planas. Cálculo diferencial de uma variável real. Cálculo integral das funções de uma variável real.
+6
+MATEMÁTICA DISCRETA B
+Indução matemática. Conjuntos. Álgebra de conjuntos. Relações binárias. Funções. Estruturas algébricas. Reticulados. Álgebra Booleana. Técnicas de demonstração de teoremas.
+4
+FÍSICA GERAL - ELETROMAGNETISMO
+Eletrostática. Eletrodinâmica. Magnetismo. Eletromagnetismo.
+6
+ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES I
+Programação em linguagem de máquina e linguagem simbólica. Formato e classificação de instruções. Conjunto de instruções e modos de endereçamento. Manipulação de pilhas. Subrotinas: tipos, características e passagem de parâmetros. Interrupções de software. Recursos de Arquitetura para técnicas de programação. Recolocação de código.
+4
+ESTRUTURAS DE DADOS
+Tipos Abstratos de dados. Apontadores, Listas lineares, Pilhas, Árvores e Grafos.
+4
+LÓGICA PARA COMPUTAÇÃO
+Lógica sentencial e de 1a. ordem. Sistemas dedutivos naturais e axiomáticos. Completeza, consistência e coerência. Formalização de problemas. Formalização de programas e sistemas de computação simples.
+4
+CÁLCULO E GEOMETRIA ANALÍTICA II - A
+Geometria analítica espacial. Derivadas parciais. Integrais múltiplas. Séries.
+6
+ÁLGEBRA LINEAR I - A
+Sistema de equações lineares. Matrizes. Fatoração LU. Vetores. Espaços vetoriais. Ortogonalidade. Valores próprios. Aplicações.
+4
+CIRCUITOS ELÉTRICOS I - C
+Análise de circuitos resistivos. Quadripolos resistivos. Análise de circuitos de primeira e segunda ordem de domínio do tempo.
+4
+FÍSICA III-C
+Temperatura. Calor. Teoria cinética dos gases. Termodinâmica. Física ondulatória: ondas mecânicas e eletro-magnéticas. Reflexão e refração.
+6
+CIRCUITOS DIGITAIS
+Representações de funções lógicas para uso em projeto de circuitos digitais. Portas lógicas CMOS. Síntese lógica de dois níveis, mapa de Karnaugh e algoritmo de Quine-McCluskey. Componentes de lógica programável. Blocos lógicos funcionais, multiplexadores, decodificadores. Circuitos aritméticos binários. Circuitos seqüenciais e registradores. Máquinas de estados finitos.
+4
+ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES II
+Arquitetura do microprocessador 8088/8086. Ferramentas para desenvolvimento e depuração de programas assembly em ambiente MSDOS. Utilização de pseudo-instruções. Organização de software em ambientes MSDOS: BIOS, DOS, programas COM e EXE. Conjunto de instruções do 8088. Conceito e implementação de subrotinas. Utilização de instruções de entrada e saída para comunicação com pastilhas periféricas. Conceito e utilização de interrupções no 8088/8086. Organização de entrada e saída: entrada e saída mapeada em espaço de entrada e mapeada em memória. Conceitos de interface, periférico e controlador. Métodos de transferência de dados. Polling. Interrupção: conceito, ciclos de atendimento, mecanismos de identificação, níveis, prioridades. Acesso direto à memória: conceito, princípio de funcionamento, políticas de transferência, arquiteturas de ADM. Dispositivos de E/S: teclado, vídeo, impressora e disco.
+4
+CLASSIFICAÇÃO E PESQUISA DE DADOS
+Métodos de classificação de dados e de pesquisa em tabelas. Conceituação de arquivo; organizações básicas e manipulação (métodos básicos). Índices: indexado-seqüencial; B-treee, B+, B*, e outros; hashing, ext. hash, e outros; arquivos invertidos; multilistas. Estruturas não-convencionais: noções: dados no espaço em disco; dados textuais em disco.
+4
+EQUAÇÕES DIFERENCIAIS II
+Equações diferenciais ordinárias e lineares. Elementos de séries de Fourier, polinômios de Legendre e funções de Bessel. Equações diferenciais lineares a derivadas parciais (problemas de contorno: equações da Física Clássica).
+6
+CIRCUITOS ELÉTRICOS II - C
+Análise fasorial. Potência. Acoplamento magnético e transformadores. Circuitos polifásicos. introdução básica de Fourier e Laplace. Análise de circuitos no domínio da frequência. Aplicação de Transformadas de Fourier e de Laplace em circuitos.
+4
+TÉCNICAS DE CONSTRUÇÃO DE PROGRAMAS
+Desenvolver e empregar técnicas que produzem programas de "boa qualidade": apresentação das técnicas utilizadas para este fim; construção, durante o semestre, de um sistema de médio porte, onde estas técnicas devem ser exercitadas.
+4
+SISTEMAS DIGITAIS PARA COMPUTADORES A
+Computador visto como um sistema digital. Unidades operacional e de controle. Estruturas de controle: "hardwired", microprogramada, com PLA, etc. Sistemas síncronos e assíncronos; comunicação entre sistemas. Estudo de casos (controle): "carry look-ashead", interrupção em multiprocessamento entrada/saída, etc.
+4
+TEORIA DA COMPUTAÇÃO N
+Noções de programa e máquina. Máquina de registradores e máquina de Turing. Noção de computabilidade efetiva. Funções recursivas. Solubilidade de problemas.
+4
+MATEMÁTICA APLICADA II
+Séries de Fourier. Integral de Fourier. Transformadas de Fourier e de Laplace. Análise vetorial.
+6
+PROBABILIDADE E ESTATÍSTICA
+Probabilidade: Conceito e teoremas fundamentais. Variáveis aleatórias. Distribuições de probabilidade. Estatística descritiva. Noções de amostragem. Inferência estatística: Teoria da estimação e Testes de hipóteses. Regressão linear simples. Correlação.
+4
+TEORIA ELETROMAGNÉTICA E ONDAS
+Eletromagnetismo, equações de Maxwell, técnicas matemáticas de resolução. Ondas eletromagnéticas.
+4
+LABORATÓRIO DE CIRCUITOS ELÉTRICOS
+Instrumentos de medida e conceitos fundamentais de medição. Ferramentas Computacionais de análise, e simulação. Aplicação de análise de circuitos resistivos. Aplicação de análise de circuitos de 1ª e 2ª ordem. Resposta em frequência de circuitos. Análise fasorial. Medição de potência em Circuitos Trifásicos. Transformadores.
+2
+ELETRÔNICA FUNDAMENTAL I - B
+Diodos. Circuitos conformadores. Transistores de junção e efeito de campo: características, polarização e estabilidade térmica. Amplificadores de um e de diversos estágios. Amplificadores operacionais. Realimentação.
+4
+ORGANIZAÇÃO DE COMPUTADORES B
+Revisão de conceitos básicos de organização. Organização de processadores: organização do bloco de controle. Métodos para aumento do desempenho. Máquinas CISC X RISC. Organização de memória. Ferramentas para análise e projeto de organizações.
+4
+ENGENHARIA DE SOFTWARE N
+A engenharia de software. A crise do software. A produção de software. O ciclo de vida do software. A especificação de requisitos. O projeto de software. A implementação, o teste e a documentação do software.
+4
+SISTEMAS OPERACIONAIS I N
+Montadores. Processamento de macros. Carregadores. Ligadores. Conceitos básicos de sistemas operacionais: processos, organizações de sistemas operacionais, chamadas de sistema. Gerência do processador: estados de processo, escalonamento. Entrada e saída: dispositivos e controladores, software de E/S, interrupções, dependência e independência. Gerência de memória: partições fixas e variáveis, paginação, segmentação, memória virtual. Gerência de arquivos.
+4
+MICROCONTROLADORES
+Disciplina essencialmente prática para exercícios de laboratório e projeto semestral utilizando microcontroladores mais difundidos, como o estandar 8051. Apresentação das diferenças entre microcontroladores e microprocessadores. discussão sobre a arquitetura de microcontroladores para aplicações específicas, como DSP e sistemas de tempo real, entre outros.
+2
+LABORATÓRIO DE ELETRÔNICA
+Instrumentos de medida e conceitos fundamentais de medição. Ferramentas computacionais de análise e simulação de circuitos não-lineares: diodos, transistores de junção e efeito de campo. Resposta em frequência de circuitos ativos. Circuitos conformadores, amplificadores de um e de diversos estágios realimentados. Amplificadores operacionais.
+2
+COMPILADORES
+Análise léxica e sintática. Tradução dirigida por sintaxe. Otimização de código. Processadores de linguagens.
+4
+SISTEMAS OPERACIONAIS II N
+Princípios e prática de programação concorrente: variáveis compartilhadas, proteção e dead-lock, troca de mensagens, algoritmos distribuídos. Sistemas distribuídos: servidores de arquivos, de nomes, de autorização e de tipos; heterogeneidade; gerência de processadores e escalonamento.
+4
+REDES DE COMPUTADORES N
+Fundamentos de transmissão de dados e sistemas de comunicação. Estudo das estruturas básicas de redes e o modelo de referência OSI/ISO. Topologias, protocolos e serviços em redes, associados aos diversos níveis do modelo de referência. Interligação, gerenciamento e aplicações básicas de redes de computadores.
+6
+CONCEPÇÃO DE CIRCUITOS INTEGRADOS I
+Transistores e portas lógicas. Classificação de CI. Processos de fabricação. Regras de projeto. Concepção de blocos. Metodologias de concepção, tipos de ferramentas e descrições. Estruturas regulares. Blocos tipo ULA, registradores, PLA, ROM e outros. Estruturas para teste.
+4

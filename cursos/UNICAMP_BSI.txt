@@ -1,0 +1,129 @@
+Cáculo I 
+Funções reais de uma variável real. Limite. Continuidade. Derivada. Integral. Técnicas de integração.
+6
+Geometria Analítica e Álgebra Linear 
+Matrizes, Sistemas Lineares e Determinantes. Espaços Vetoriais de Dimensão Finita. Produto Escalar e Vetorial. Retas e Planos. Projeção Ortogonal. Distâncias. Transformações Lineares, Autovalores e Autovetores. Diagonalização. Classificação das Cônicas. 
+6
+Algoritmos e Programação de Computadores I 
+Algoritmos: representações e técnicas de construção. Estruturas de dados e de controle de programas. Introdução a uma linguagem de programação de alto nível. Modularização em linguagem de programação. Recursividade. Implementação de programas. 
+4
+Fundamentos de Sistemas de Informação 
+Bases conceituais e filosóficas da área de Sistemas de Informação. Conceitos, objetivos, funções e componentes dos sistemas de informação. Dimensões tecnológica, organizacional e humana dos sistemas de informação. Tipos de sistemas de informação. Áreas de pesquisa em Sistemas de Informação. Conhecimento científico e metodologia de pesquisa em Sistemas de Informação. 
+2
+Seminários I 
+Participação em seminários de assuntos diversos cujo caráter prioritário é a introdução do discente à área de Computação. 
+2
+Lógica Matemática
+Lógica sentencial e de Primeira ordem. Sistemas dedutivos naturais e axiomáticos. Completeza, consistência e coerência. Formalização de problemas. Formalização de programas e sistemas de computação simples. 
+4
+Algoritmos e Programação de Computadores II
+Alocação dinâmica de memória. Manipulação de arquivos. Bibliotecas estáticas e dinâmicas. Atividades práticas de implementação de programas, utilizando a Linguagem estudada em Algoritmos e Programação de Computadores I. 
+4
+Estruturas de Dados I 
+Representação e Manipulação de Dados na Memória Interna do Computador: Tabelas, Listas, Árvores e Grafos. Algoritmos correspondentes de Busca, Inserção, Remoção e Percurso. Desenvolvimento de programas utilizando a linguagem estudada em Algoritmos e Programação de Computadores I. 
+4
+Matemática Discreta
+Conjuntos. Álgebra dos conjuntos. Relações. Funções. Estruturas algébricas. Reticulados. Álgebra Booleana.
+4
+Economia e Finanças
+Introdução à Economia; economia política e marxista. Introdução à teoria do consumidor e teoria do mercado. Introdução à engenharia econômica. Tipos de investimento e métodos de análise de investimento. 
+4
+Programação Orientada a Objetos I 
+Estudo do Paradigma de Programação Orientada a Objetos. Estudo de linguagem de programação orientada a objetos. Atividades práticas de implementação de projetos no paradigma orientado a objetos. 
+4
+Engenharia de Software II 
+Modelagem para análise e projeto orientados a objetos. Fundamentos para o desenvolvimento de Interfaces. Garantia de Qualidade de Software - Teste e Validação. Tecnologias Emergentes. 
+4
+Análise de Sistemas de Informação I 
+Introdução ao Sistema de Informação. Conceitos Gerais de Sistemas de Informação. Ciclo de Vida de um Projeto de Sistemas. Viabilidade e Implementação de Sistemas. Análise de casos de uso. Análise orientada a objetos. Diagramas estáticos e dinâmicos. 
+4
+Teoria Geral de Sistemas 
+A origem e o conceito da Teoria Geral de Sistemas. O conceito de sistema. Componentes genéricos de um sistema. As relações entre sistema e ambiente. Hierarquia de sistemas. Classificações dos sistemas. Enfoque sistêmico. O pensamento sistêmico aplicado na resolução de problemas. O pensamento sistêmico aplicado às organizações. Modelagem de Sistemas. 
+2
+Programação Orientada a Objetos II 
+Estudo complementar do Paradigma de Programação Orientada a Objetos. Atividades práticas e supervisionadas de implementação de projetos no paradigma orientado a objetos. 
+4
+Programação para a Web 
+Elaboração de páginas web. Linguagens de marcação. Folhas de estilo. Javascript. Uso de linguagens de programação para geração dinâmica de páginas web. Uso de servidores web para armazenamento de sites. Atividades práticas de implementação de sistemas baseados nessas linguagens. 
+4
+Introdução a Interfaces Humano-Computador
+Construção e Avaliação de Interfaces Humano-Computador. Aspectos Humanos e Tecnológicos. 
+2
+Análise de Sistemas de Informação II 
+Assuntos complementares sobre o tema Análise de Sistemas de Informação.
+4
+Administração da Produção
+Sistemas de produção, ferramentas da produção enxuta e produção sustentável. Gestão da cadeia de suprimentos. Planejamento e coordenação de atividades em projetos. Indicadores de desempenho. Estratégia de produção. 
+2
+Programação para Dispositivos Móveis 
+Estudo de linguagens de programação de alto nível apropriadas para criação de sistemas voltados para dispositivos móveis. Atividades práticas de implementação de sistemas para dispositivos móveis. 
+4
+Introdução a Multimídia 
+Conceitos de multimídia e sistemas multimídia. Arquitetura e aplicações multimídia, classificação dos tipos de sistemas multimídias. Dispositivos de entrada e saída em ambientes multimídia. Fundamentos do processamento de imagens. Fundamentos de animação. Fundamentos de processamento de som. Critérios de seleção de soluções multimídia. 
+2
+Inteligência Artificial 
+Fundamentos de IA. Agentes inteligentes. Representação de conhecimento e solução de problemas. Estruturas e estratégias de busca. Lógica matemática, representação e inferência. Sistemas baseados em regras. Inteligência computacional. Aplicações. 
+4
+Governança e Planejamento Estratégico de TI 
+Evolução do uso da Informática na Organização. Recursos Humanos em Tecnologia da Informação. Relacionamento da Informática com o negócio: ambientes de tecnologia da informação, estados da administração, atitudes da alta gerência, função da informática na organização. Uso estratégico da tecnologia da informação. Modelo Genérico de Governança: Regulamentações e normas, alinhamento estratégico, planejamento de TI, Operações e Serviços, relacionamento com usuários e fornecedores e Segurança. 
+2
+Seminários II 
+Participação em seminários de assuntos diversos visando complementação da formação do discente. Os seminários a serem ministrados abordarão prioritariamente pesquisas e trabalhos diversos em andamento, bem como opções de seguimento da carreira após a conclusão do curso. Bibliografia: a ser definida pelo docente em função dos assuntos que vierem a ser abordados na disciplina. 
+2
+Empreendedorismo e Inovação
+Empreendedorismo e tipo psicológico do empreendedor. Gestão da Inovação e sustentabilidade. Análise estratégica. Fatores críticos de sucesso e vantagem competitiva. Análise de cenários, técnicas de mercado para novos produtos. Análise financeira de investimento e formação de preço de venda. Composição de plano de negócios. 
+2
+Introdução a Auditoria e Segurança de Sistemas de Informação 
+Conceitos e tipos de ameaças, riscos e vulnerabilidades dos sistemas de informação. Conceito e objetivos da segurança de informações. Planejamento, implementação e avaliação de políticas de segurança de informações. Conceito e objetivos da auditoria de sistemas de informação. Técnicas de auditoria em sistemas de informação. Softwares de auditoria. Estrutura da função de auditoria de sistemas de informação nas organizações. 
+2
+Estágio em Computação I 
+Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia.
+10
+Estágio em Computação II
+Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia. 
+10
+Trabalho de Conclusão de Curso I 
+Definição de projeto e levantamento de revisão bibliográfica sobre o tema da monografia do trabalho de conclusão de curso, necessariamente relacionado a Computação.
+6
+Trabalho de Conclusão de Curso II 
+Desenvolvimento e apresentação de monografia referente ao trabalho de conclusão de curso, na área de Computação. 
+6
+Metodologia do Trabalho Científico 
+Método científico: conceitos e histórico; métodos e técnicas de pesquisa; Pesquisa: conceitos, definições e tipos; elaboração, comunicação e divulgação da pesquisa: fases da elaboração da pesquisa, comunicação da pesquisa (estrutura, forma e conteúdo); normas ABNT; linguagem científica; monografias; dissertações; teses, relatórios técnicos; artigos; eventos científicos. 
+2
+Estatística
+Estatística descritiva. Probabilidade. Distribuições: Binomial, Poisson e Normal. Amostragem Estimação. Testes de hipótese. Intervalos de confiança. Regressão. Correlação. 
+4
+Engenharia de Software I
+Produção de software. Paradigmas. Especificação de requisitos. Análise e projeto de software. Verificação e validação. 
+2
+Cálculo Numérico 
+Erro de truncamento e arredondamento. Aritmética de ponto flutuante. Zeros de funções. Métodos de solução de sistemas lineares. Resolução de problemas não-lineares. Interpolação. Ajuste de funções. Integração numérica. 
+4
+Estruturas de Arquivos
+Dispositivos de armazenamento. Estrutura básica de armazenamento e Recuperação de Informação em Arquivos. Arquivos sequenciais, indexados e de acesso Hashing. Compressão de arquivos. Recuperação e segurança de arquivos. 
+4
+Banco de Dados I 
+Fundamentos de sistemas de bancos de dados e conceitos relacionados com a estrutura conceitual e lógica dos bancos de dados. Modelos de dados e sua aplicação no desenvolvimento de projetos de bancos de dados. Introdução a Sistemas de Gerenciamento de Banco de Dados. 
+4
+Redes de Comunicação I 
+Teleprocessamento, comutação e sinalização. Comutação por circuitos. Comutação por pacotes. Enlaces e canais de comunicação. Protocolos e Serviços. Modelos de referência. Camada de Aplicação. Camada de Transporte, Camada de Rede, Camada de Enlace, Camada Física. 
+4
+Banco de Dados II 
+Conceitos relacionados com a estrutura física dos bancos de dados. Linguagem de acesso a banco de dados. Ferramentas e técnicas utilizadas na implementação de sistemas de bancos de dados. 
+4
+Sistemas de Apoio à Decisão 
+Teoria da decisão, modelos de decisão; modelagem qualitativa; árvores de decisão, agentes de decisão, análise multicritério; Processo cognitivo e tomada de decisão; Heurísticas de solução de problemas. Sistemas especialistas e sistemas baseados em conhecimento. Introdução às Tecnologias de suporte à decisão. 
+4
+Gestão de Projetos
+Conceitos de subprojeto, projeto, programa, portfólio e plano estratégico. Processos para gestão de projeto. Ferramentas para gestão de escopo, prazo, custo, qualidade, comunicação, risco, contratos, recursos humanos e integralização das atividades. Ciclos de vida de produto e de projeto. A cultura organizacional. Estrutura organizacional. A postura esperada de um gestor: acompanhamento (follow-up) e feedback. 
+4
+Organização e Arquitetura de Computadores
+Histórico do computador. Álgebra Booleana. Funções Lógicas e Circuitos Combinacionais. Memórias, unidades centrais de processamento. Endereçamento, barramento, interrupção, comunicações, interfaces e periféricos. Computadores típicos. Implementação de uma CPU. Noções de programação em linguagem assembly. 
+4
+Sistemas Operacionais
+Conceitos básicos de sistemas operacionais. Processos e threads. Escalonamento de processos. Mecanismos de sincronização e comunicação interprocessos. Gerenciamento de Memória. Memória Virtual. Sistemas de Arquivos. Gerenciamento de Entrada e Saída. Noções de segurança em sistemas operacionais. 
+4
+Administração de Empresas 
+Evolução do pensamento em administração. Tendências contemporâneas em administração. Processo decisório e estratégia corporativa. Organizações que aprendem. Processos de controle. Administração de marketing. Estrutura do capital. Participação nos lucros e distribuição de dividendos. 
+4
